@@ -1,0 +1,2001 @@
+Make,Model,Fuel Type,Customer ID,Customer Location,Customer Age,Final Price,Registration Number
+Toyota,Corolla,Petrol,CUST9953,Los Angeles,60,29303.01,REG-27118
+Audi,A3,Petrol,CUST5065,Los Angeles,62,3807.25,REG-35642
+Toyota,Camry,Hybrid,CUST1118,Dallas,42,80080.6,REG-80040
+Nissan,Sentra,Diesel,CUST4834,Denver,39,6800.23,REG-69778
+Audi,Q7,Petrol,CUST7190,Houston,20,18300.84,REG-13914
+Audi,A3,Diesel,CUST2143,New York,53,52295.41,REG-61189
+Audi,Q7,Diesel,CUST5163,San Francisco,53,26439.74,REG-21420
+Chevrolet,Tahoe,Electric,CUST7669,New York,31,64813.61,REG-27670
+BMW,X3,Diesel,CUST7034,San Francisco,57,23377.52,REG-65034
+Toyota,Highlander,Petrol,CUST7674,San Francisco,67,29804.51,REG-18605
+Kia,Seltos,Hybrid,CUST2575,Los Angeles,48,47212.79,REG-33823
+Honda,Pilot,Electric,CUST7732,Denver,28,40889.37,REG-83862
+Toyota,Rav4,Hybrid,CUST3338,Denver,56,83132.91,REG-74880
+Ford,Escape,Electric,CUST6755,New York,30,33823.47,REG-32882
+Ford,Focus,Electric,CUST1715,New York,51,45319.28,REG-70244
+Kia,Sportage,Hybrid,CUST8413,Seattle,44,66848.04,REG-82142
+Audi,Q5,Electric,CUST8233,Miami,63,62054.97,REG-84796
+Honda,Civic,Petrol,CUST1145,New York,40,23533.74,REG-71042
+Hyundai,Santa Fe,Electric,CUST9605,Miami,42,53833.26,REG-13483
+Honda,Pilot,Electric,CUST2422,Houston,29,35487.92,REG-81823
+Ford,Fusion,Diesel,CUST4450,Seattle,55,31459.31,REG-41244
+Mercedes,C-Class,Diesel,CUST3362,Miami,36,48627.86,REG-41274
+Chevrolet,Malibu,Hybrid,CUST3292,Chicago,45,83473.54,REG-53187
+Mercedes,GLA,Electric,CUST8575,San Francisco,61,59870.23,REG-65373
+Ford,Explorer,Hybrid,CUST8039,Dallas,46,72919.38,REG-56798
+Audi,A3,Petrol,CUST1319,Chicago,27,56777.42,REG-99254
+Audi,Q5,Electric,CUST2726,Miami,61,36871.96,REG-16629
+Hyundai,Elantra,Petrol,CUST7217,Seattle,25,49180.9,REG-61383
+Honda,Accord,Electric,CUST2176,Miami,70,62486.66,REG-60244
+BMW,5 Series,Diesel,CUST2069,Chicago,21,20757.32,REG-34394
+Honda,Civic,Hybrid,CUST7160,Dallas,60,79880.66,REG-92368
+Kia,Sorento,Petrol,CUST6671,New York,50,2124.52,REG-12760
+Audi,A4,Hybrid,CUST8654,Dallas,21,81038.22,REG-66524
+Kia,Soul,Hybrid,CUST3596,San Francisco,27,23404.3,REG-43186
+Chevrolet,Traverse,Hybrid,CUST8968,Seattle,29,56618.88,REG-73083
+Chevrolet,Traverse,Hybrid,CUST4608,Chicago,37,9800.66,REG-42437
+Chevrolet,Malibu,Electric,CUST2640,Miami,59,62565.86,REG-90707
+Hyundai,Santa Fe,Electric,CUST5622,Miami,44,61008.3,REG-76321
+Nissan,Altima,Electric,CUST6956,Chicago,63,57866.47,REG-44981
+Kia,Soul,Petrol,CUST3518,Boston,43,50364.38,REG-64993
+Hyundai,Sonata,Hybrid,CUST9398,Houston,60,67118.4,REG-66993
+Honda,CR-V,Electric,CUST4401,Los Angeles,64,61335.22,REG-98473
+BMW,X3,Hybrid,CUST1792,Denver,57,80837.23,REG-40147
+Honda,Civic,Diesel,CUST9216,Miami,24,34373.15,REG-22697
+Chevrolet,Tahoe,Hybrid,CUST4497,San Francisco,67,81132.28,REG-44488
+Ford,Focus,Electric,CUST9732,Boston,21,79165.28,REG-35654
+Nissan,Altima,Diesel,CUST4512,Houston,44,74807.05,REG-37260
+Chevrolet,Traverse,Hybrid,CUST9339,San Francisco,23,43757.03,REG-68633
+Hyundai,Tucson,Petrol,CUST9477,New York,51,66226.46,REG-18933
+Audi,A3,Diesel,CUST2827,Houston,43,24475.12,REG-34241
+Honda,Pilot,Petrol,CUST9262,Seattle,49,16253.96,REG-63833
+Mercedes,GLA,Electric,CUST2035,San Francisco,27,51312.16,REG-63551
+Toyota,Corolla,Electric,CUST4543,Miami,36,66169.32,REG-99200
+Audi,Q5,Diesel,CUST3234,Boston,53,76294.15,REG-29619
+Chevrolet,Malibu,Petrol,CUST3263,Los Angeles,41,52043.86,REG-44152
+Hyundai,Santa Fe,Petrol,CUST9825,Chicago,49,75003.54,REG-44545
+Audi,Q5,Petrol,CUST5254,Seattle,65,28005.83,REG-87261
+Audi,A4,Hybrid,CUST6507,Seattle,31,61518.53,REG-27126
+Mercedes,E-Class,Diesel,CUST8588,Dallas,53,16158.75,REG-16281
+Kia,Sorento,Petrol,CUST7851,Seattle,70,12209.18,REG-63928
+Audi,Q7,Petrol,CUST9744,San Francisco,37,73948.53,REG-97997
+Ford,Escape,Electric,CUST1499,Miami,25,45144.58,REG-81519
+Honda,CR-V,Hybrid,CUST5323,Boston,61,10192.33,REG-99418
+Honda,Civic,Diesel,CUST8575,Seattle,18,33827.5,REG-73215
+Honda,Pilot,Electric,CUST4270,San Francisco,57,71873.25,REG-41994
+Ford,Explorer,Diesel,CUST4039,Chicago,19,13348.03,REG-63152
+Audi,Q5,Diesel,CUST8145,Boston,66,11902.27,REG-24730
+Nissan,Sentra,Hybrid,CUST3907,Boston,34,11338.35,REG-87143
+Hyundai,Sonata,Hybrid,CUST7011,Miami,70,57300.42,REG-15751
+Hyundai,Elantra,Diesel,CUST7002,Miami,62,39351.9,REG-31868
+Audi,Q7,Diesel,CUST7954,Seattle,39,47256.67,REG-27246
+Chevrolet,Malibu,Electric,CUST9831,Houston,19,11195.23,REG-36279
+Audi,Q7,Diesel,CUST7932,Boston,22,2588.11,REG-86500
+Hyundai,Elantra,Electric,CUST2671,Los Angeles,48,81560.31,REG-31140
+Ford,Focus,Electric,CUST2686,Denver,64,10252.86,REG-69756
+Audi,Q5,Electric,CUST3315,San Francisco,50,35439.14,REG-13265
+Hyundai,Sonata,Electric,CUST6621,Houston,24,82530.99,REG-48948
+Honda,CR-V,Electric,CUST2560,Miami,28,16094.86,REG-71545
+Kia,Sorento,Electric,CUST5896,Dallas,41,54582.49,REG-19851
+Ford,Explorer,Hybrid,CUST3613,Houston,64,74888.48,REG-63264
+Nissan,Altima,Petrol,CUST4874,Chicago,20,29396.3,REG-13134
+Mercedes,C-Class,Electric,CUST2998,Los Angeles,25,72469.81,REG-76545
+Nissan,Sentra,Hybrid,CUST8027,Seattle,22,39404.43,REG-50380
+Honda,CR-V,Petrol,CUST7919,Denver,46,39592.12,REG-85442
+Honda,Civic,Hybrid,CUST4743,Seattle,18,59402.68,REG-16852
+Nissan,Murano,Hybrid,CUST3317,Boston,32,43644.16,REG-22417
+Chevrolet,Malibu,Electric,CUST3730,Houston,68,43505.7,REG-52408
+Mercedes,E-Class,Petrol,CUST7143,Los Angeles,23,55121.63,REG-44761
+Chevrolet,Equinox,Electric,CUST9940,Los Angeles,52,80817.26,REG-22369
+Toyota,Highlander,Electric,CUST5705,Miami,31,7455.85,REG-76413
+Ford,Explorer,Electric,CUST7796,New York,31,32795.17,REG-92172
+Honda,Civic,Electric,CUST9939,New York,49,61338.96,REG-15548
+BMW,3 Series,Electric,CUST3673,Los Angeles,37,59583.59,REG-84775
+Hyundai,Elantra,Petrol,CUST1366,Seattle,61,49457.39,REG-49012
+Nissan,Altima,Diesel,CUST6656,Miami,20,68283.48,REG-41396
+Mercedes,GLA,Diesel,CUST3868,Denver,67,11628.53,REG-26224
+Chevrolet,Traverse,Petrol,CUST4116,Chicago,62,26684.2,REG-61698
+Audi,A3,Electric,CUST6898,New York,36,74847.56,REG-82785
+Chevrolet,Traverse,Electric,CUST9475,Chicago,24,51493.97,REG-11323
+Ford,Focus,Diesel,CUST6960,Dallas,51,46231.02,REG-78666
+Kia,Sportage,Diesel,CUST7944,Miami,53,62860.32,REG-93864
+Chevrolet,Malibu,Electric,CUST4649,Denver,22,75268.81,REG-51726
+Mercedes,GLC,Hybrid,CUST4118,Miami,24,77537.26,REG-85142
+Toyota,Rav4,Electric,CUST9111,Boston,50,21607.34,REG-39159
+Nissan,Altima,Electric,CUST9128,Seattle,67,55443.36,REG-24333
+Chevrolet,Malibu,Diesel,CUST2012,Miami,33,21615.81,REG-45112
+Chevrolet,Equinox,Diesel,CUST9679,New York,21,40718.01,REG-32611
+Kia,Soul,Electric,CUST8853,Houston,43,58302.57,REG-24210
+BMW,3 Series,Hybrid,CUST9689,San Francisco,70,13805.6,REG-98839
+Toyota,Corolla,Diesel,CUST2897,Los Angeles,66,36270.15,REG-10912
+Ford,Focus,Diesel,CUST8466,New York,29,43183.14,REG-49958
+Toyota,Corolla,Electric,CUST1820,Boston,60,42677.65,REG-22629
+Audi,A3,Electric,CUST5209,Seattle,42,32071.57,REG-54571
+Mercedes,E-Class,Diesel,CUST8510,Denver,33,40598.03,REG-93073
+Audi,A4,Hybrid,CUST5468,Boston,54,61890.34,REG-36736
+Kia,Sorento,Hybrid,CUST1602,Chicago,20,68665.1,REG-63836
+Nissan,Altima,Diesel,CUST2513,Boston,51,31596.98,REG-84161
+Mercedes,C-Class,Hybrid,CUST5905,Chicago,44,6795.61,REG-45875
+Mercedes,GLA,Electric,CUST6887,Miami,57,30365.58,REG-53235
+Kia,Soul,Diesel,CUST8758,Seattle,55,60275.63,REG-74725
+Nissan,Altima,Electric,CUST1044,Denver,31,24478.98,REG-35060
+Honda,Pilot,Petrol,CUST6056,Seattle,55,44739.5,REG-36922
+Chevrolet,Tahoe,Petrol,CUST6435,Miami,64,3794.41,REG-77405
+Honda,CR-V,Diesel,CUST7962,Denver,50,27837.04,REG-77927
+Toyota,Corolla,Electric,CUST1004,Denver,49,39469.96,REG-69308
+Chevrolet,Equinox,Hybrid,CUST2108,Denver,58,39986.43,REG-16197
+Honda,CR-V,Electric,CUST4125,Denver,27,34747.87,REG-25246
+Audi,Q7,Petrol,CUST8602,Miami,60,32257.67,REG-25116
+Toyota,Highlander,Petrol,CUST7435,Boston,34,48780.31,REG-15959
+Mercedes,E-Class,Diesel,CUST3265,Denver,35,20669.23,REG-96281
+Hyundai,Sonata,Petrol,CUST6206,Miami,30,73451.09,REG-19630
+Toyota,Highlander,Electric,CUST3419,Houston,49,7826.99,REG-16267
+Mercedes,C-Class,Electric,CUST7399,Boston,65,6520.17,REG-58632
+Chevrolet,Traverse,Hybrid,CUST3079,Houston,43,31498.74,REG-82050
+Chevrolet,Malibu,Diesel,CUST4127,Dallas,55,38342,REG-69498
+Chevrolet,Traverse,Petrol,CUST1259,Houston,24,32853.89,REG-70495
+Hyundai,Elantra,Electric,CUST6501,Chicago,18,17263.55,REG-85357
+Nissan,Rogue,Hybrid,CUST2554,Denver,62,40745.37,REG-97991
+BMW,3 Series,Electric,CUST5356,Denver,26,25644.99,REG-60600
+Mercedes,E-Class,Hybrid,CUST3020,Seattle,45,79038.69,REG-25473
+Toyota,Rav4,Hybrid,CUST1108,Denver,65,29450.78,REG-32139
+Ford,Explorer,Diesel,CUST6354,Dallas,50,41873.19,REG-53836
+Mercedes,C-Class,Electric,CUST2413,Denver,67,80681.65,REG-57172
+Hyundai,Sonata,Diesel,CUST6637,New York,31,74747.61,REG-50688
+Kia,Sportage,Petrol,CUST4748,Miami,42,12137.57,REG-35203
+Mercedes,C-Class,Hybrid,CUST9352,Los Angeles,28,74338.22,REG-20383
+Ford,Fusion,Hybrid,CUST2150,Chicago,51,51501.02,REG-32851
+Audi,A4,Electric,CUST4869,New York,57,10768.99,REG-83621
+Mercedes,GLA,Electric,CUST9376,Los Angeles,34,21611.93,REG-97621
+Audi,Q7,Diesel,CUST5097,Denver,69,58634.7,REG-17555
+Honda,Civic,Diesel,CUST9165,Denver,20,53854.78,REG-66931
+Chevrolet,Traverse,Electric,CUST3150,Dallas,45,39593.49,REG-13295
+Kia,Sportage,Diesel,CUST9671,Denver,66,22931.45,REG-13239
+Kia,Soul,Petrol,CUST1667,Miami,64,49060.51,REG-18973
+Hyundai,Tucson,Diesel,CUST5176,Chicago,53,66600.51,REG-84789
+Honda,CR-V,Hybrid,CUST6641,Denver,42,64906.84,REG-49114
+Hyundai,Tucson,Electric,CUST7697,San Francisco,24,80144.19,REG-65531
+Toyota,Rav4,Electric,CUST8519,Denver,36,6256.32,REG-87285
+Nissan,Sentra,Electric,CUST5950,Boston,22,11786.24,REG-94316
+Toyota,Corolla,Petrol,CUST7924,Boston,39,42905.71,REG-68753
+Kia,Sportage,Diesel,CUST4475,Dallas,31,22025.06,REG-34565
+Nissan,Sentra,Petrol,CUST3426,Boston,27,53828.07,REG-82338
+Chevrolet,Malibu,Diesel,CUST3953,Denver,33,57127.18,REG-51824
+Chevrolet,Equinox,Electric,CUST2061,Boston,58,50273.88,REG-72466
+Nissan,Murano,Electric,CUST4030,Boston,67,23691.59,REG-98497
+Nissan,Altima,Petrol,CUST6629,Los Angeles,65,68418.32,REG-36604
+BMW,3 Series,Electric,CUST1090,Houston,32,59868.89,REG-50141
+Nissan,Altima,Hybrid,CUST7354,Seattle,56,17900.72,REG-86406
+Ford,Fusion,Electric,CUST1498,New York,50,24145.23,REG-49223
+Honda,CR-V,Hybrid,CUST3986,Houston,68,37435.71,REG-59262
+Audi,Q5,Hybrid,CUST7436,San Francisco,56,30996.52,REG-11193
+Audi,Q7,Petrol,CUST8528,Los Angeles,21,82893.36,REG-23726
+Toyota,Camry,Diesel,CUST2338,San Francisco,42,23476.13,REG-85980
+Hyundai,Tucson,Petrol,CUST9223,Houston,18,43802.58,REG-14753
+Nissan,Sentra,Diesel,CUST4122,Chicago,30,14425.03,REG-92416
+BMW,5 Series,Petrol,CUST5178,Miami,66,58496.25,REG-77139
+Mercedes,GLC,Diesel,CUST6848,Dallas,48,11258.82,REG-10415
+Audi,A3,Electric,CUST6499,Boston,27,76667.23,REG-11467
+Mercedes,GLC,Electric,CUST6460,Houston,26,45666.82,REG-69545
+Hyundai,Elantra,Petrol,CUST2069,San Francisco,46,22323.15,REG-68181
+Chevrolet,Malibu,Diesel,CUST6510,Los Angeles,45,13022.87,REG-40677
+Hyundai,Tucson,Electric,CUST7900,Denver,52,54980.56,REG-19681
+Toyota,Rav4,Electric,CUST6947,Miami,33,65991.25,REG-81539
+Ford,Focus,Diesel,CUST2479,Chicago,25,9130.96,REG-59416
+Chevrolet,Equinox,Diesel,CUST5922,Dallas,69,76706.82,REG-29881
+Hyundai,Santa Fe,Petrol,CUST7539,Dallas,25,21367.19,REG-40293
+Kia,Sorento,Electric,CUST5276,New York,46,75035.81,REG-99188
+Hyundai,Sonata,Electric,CUST8738,Dallas,70,58462.88,REG-32929
+Toyota,Corolla,Petrol,CUST3734,Houston,42,52695.9,REG-37271
+Audi,Q7,Electric,CUST9315,Los Angeles,55,80512.72,REG-92319
+Hyundai,Santa Fe,Petrol,CUST1994,Chicago,18,26190.55,REG-94896
+Hyundai,Sonata,Diesel,CUST6000,Dallas,31,22455.92,REG-48864
+Nissan,Sentra,Diesel,CUST8404,Dallas,34,72554.54,REG-89657
+Ford,Fusion,Petrol,CUST5270,Dallas,66,83227.6,REG-43741
+Mercedes,C-Class,Petrol,CUST4712,Los Angeles,60,7819.05,REG-16141
+Honda,CR-V,Petrol,CUST8972,Seattle,18,14252.28,REG-43135
+Hyundai,Tucson,Petrol,CUST2057,Los Angeles,23,64031.43,REG-98154
+BMW,X3,Diesel,CUST5905,Dallas,68,33891.02,REG-13219
+Mercedes,E-Class,Diesel,CUST5517,San Francisco,45,70520.2,REG-88866
+Toyota,Rav4,Diesel,CUST6466,Seattle,22,72886.65,REG-98785
+Honda,CR-V,Hybrid,CUST8436,New York,22,32392.69,REG-70982
+Chevrolet,Equinox,Diesel,CUST7094,Boston,45,29423.64,REG-99957
+Hyundai,Tucson,Diesel,CUST8055,Dallas,23,62102.9,REG-14710
+Toyota,Highlander,Electric,CUST5879,Miami,59,32509.8,REG-60454
+Nissan,Murano,Hybrid,CUST9665,New York,29,75686.97,REG-87224
+Nissan,Altima,Electric,CUST4937,Seattle,31,17195.11,REG-90306
+Nissan,Murano,Diesel,CUST3534,Dallas,21,7204.97,REG-22179
+Hyundai,Elantra,Petrol,CUST4884,Houston,21,33415.8,REG-20112
+Mercedes,GLC,Petrol,CUST6195,Boston,51,11629.19,REG-11823
+BMW,X3,Petrol,CUST9791,Seattle,49,23881.57,REG-65870
+Hyundai,Santa Fe,Hybrid,CUST4025,Denver,32,22430.97,REG-53743
+Audi,A3,Hybrid,CUST8316,New York,50,65807.17,REG-89147
+Kia,Sportage,Diesel,CUST4694,Miami,64,14800.7,REG-64263
+Hyundai,Elantra,Hybrid,CUST8059,Seattle,23,46097.27,REG-60347
+Hyundai,Tucson,Petrol,CUST4265,Seattle,69,67764.02,REG-69008
+Ford,Escape,Petrol,CUST7505,Los Angeles,38,66954.52,REG-35903
+Nissan,Murano,Electric,CUST4430,Houston,22,4803.07,REG-34527
+Mercedes,E-Class,Petrol,CUST4043,New York,68,62175.48,REG-66114
+Kia,Seltos,Hybrid,CUST1212,Miami,31,73548.24,REG-17241
+Toyota,Corolla,Petrol,CUST7425,Los Angeles,57,14374.03,REG-46322
+Hyundai,Elantra,Petrol,CUST8589,Los Angeles,47,70087.02,REG-34719
+Ford,Escape,Diesel,CUST8127,Chicago,45,17590.25,REG-67286
+Nissan,Rogue,Hybrid,CUST9564,Dallas,50,21890.45,REG-32746
+Hyundai,Elantra,Diesel,CUST2158,Denver,37,16510.46,REG-94452
+Mercedes,GLC,Hybrid,CUST4428,San Francisco,63,55337.13,REG-28751
+Mercedes,C-Class,Petrol,CUST9434,Dallas,52,71822.5,REG-10405
+BMW,3 Series,Electric,CUST6537,New York,30,45881.31,REG-24349
+Nissan,Sentra,Petrol,CUST8732,San Francisco,67,68444.85,REG-80813
+Chevrolet,Traverse,Petrol,CUST1425,Chicago,28,6555.67,REG-75384
+Kia,Seltos,Electric,CUST1753,San Francisco,57,75248.24,REG-47590
+Honda,Civic,Electric,CUST8341,San Francisco,33,71510.38,REG-44331
+Chevrolet,Equinox,Petrol,CUST5834,Miami,27,76350.76,REG-77337
+Chevrolet,Traverse,Hybrid,CUST6034,Denver,18,79316.36,REG-57352
+Nissan,Altima,Electric,CUST6374,San Francisco,29,78458.98,REG-34480
+Mercedes,GLC,Hybrid,CUST8087,Dallas,26,55105.82,REG-97749
+BMW,X5,Electric,CUST3551,Houston,32,63021.73,REG-20555
+Honda,CR-V,Electric,CUST5023,New York,30,37099.83,REG-52505
+Mercedes,GLA,Hybrid,CUST9917,Denver,30,30015.14,REG-24682
+BMW,3 Series,Diesel,CUST2034,Houston,33,72090.6,REG-25743
+Nissan,Sentra,Diesel,CUST9415,Miami,35,70867.98,REG-50828
+Mercedes,GLC,Petrol,CUST9189,Miami,63,66118.43,REG-97406
+Mercedes,GLC,Hybrid,CUST5389,Dallas,45,70946.09,REG-16905
+Mercedes,GLA,Petrol,CUST5915,San Francisco,36,36045.97,REG-25410
+Toyota,Camry,Electric,CUST7154,Los Angeles,18,73786.98,REG-25994
+Audi,A4,Electric,CUST1048,Chicago,58,12621.47,REG-13123
+Toyota,Camry,Diesel,CUST4023,San Francisco,47,30380.92,REG-10655
+BMW,X3,Diesel,CUST1562,Boston,57,79411.33,REG-13919
+Ford,Explorer,Diesel,CUST4857,Houston,37,6622.43,REG-89369
+Ford,Focus,Hybrid,CUST8884,Seattle,30,79023.11,REG-36210
+Ford,Explorer,Hybrid,CUST8139,Los Angeles,41,85104.15,REG-24324
+Honda,Civic,Diesel,CUST7272,Dallas,57,30132.34,REG-70262
+Chevrolet,Malibu,Petrol,CUST8191,Miami,43,51866.51,REG-73380
+Toyota,Corolla,Diesel,CUST8615,Seattle,50,12184.44,REG-60250
+Kia,Sorento,Hybrid,CUST4414,Dallas,53,69226.15,REG-11513
+Honda,CR-V,Diesel,CUST6532,San Francisco,37,44602.43,REG-51672
+Honda,Accord,Electric,CUST5978,San Francisco,48,45640.75,REG-87807
+Kia,Seltos,Petrol,CUST1098,Dallas,51,34192.66,REG-93754
+Ford,Focus,Electric,CUST7479,Dallas,29,27523.91,REG-86255
+Hyundai,Tucson,Petrol,CUST9438,Boston,58,63551.73,REG-16720
+Ford,Fusion,Electric,CUST4339,New York,37,37246.09,REG-16373
+BMW,X5,Diesel,CUST5282,Seattle,69,52638.23,REG-49478
+Honda,Accord,Diesel,CUST9179,Boston,62,80581.62,REG-38638
+Ford,Fusion,Diesel,CUST1203,Houston,23,77553.47,REG-76549
+Nissan,Rogue,Petrol,CUST1519,Boston,18,45535.23,REG-22905
+Toyota,Corolla,Hybrid,CUST2932,San Francisco,33,46978.45,REG-36700
+Nissan,Sentra,Hybrid,CUST4989,Los Angeles,54,61915.92,REG-65521
+Audi,A3,Petrol,CUST4793,Boston,46,72949.84,REG-81534
+Toyota,Rav4,Hybrid,CUST9809,Denver,36,47862.28,REG-47738
+Hyundai,Elantra,Petrol,CUST5254,San Francisco,52,4240.24,REG-92325
+Audi,A3,Electric,CUST4388,Chicago,33,46774.16,REG-34291
+Chevrolet,Tahoe,Petrol,CUST9233,Seattle,26,51750.95,REG-63938
+Kia,Seltos,Electric,CUST7864,San Francisco,26,61925.49,REG-30816
+Nissan,Murano,Hybrid,CUST8167,Miami,46,17479.26,REG-69035
+Ford,Explorer,Petrol,CUST6012,New York,46,23421.81,REG-91990
+Audi,Q5,Petrol,CUST2109,Houston,50,7453.82,REG-97478
+Nissan,Altima,Petrol,CUST5570,Denver,47,28709.32,REG-96049
+Chevrolet,Equinox,Diesel,CUST8072,Dallas,70,4091.73,REG-67554
+Honda,CR-V,Electric,CUST6195,San Francisco,55,60667.91,REG-21436
+Ford,Explorer,Electric,CUST9127,San Francisco,40,78901.24,REG-11453
+Hyundai,Santa Fe,Hybrid,CUST5348,Los Angeles,24,49004.51,REG-71280
+Nissan,Sentra,Hybrid,CUST5397,Boston,43,47087.82,REG-11100
+Kia,Sportage,Petrol,CUST9238,Miami,33,82977.7,REG-35200
+Ford,Fusion,Diesel,CUST5989,San Francisco,36,8303.98,REG-89595
+Audi,A4,Diesel,CUST3747,San Francisco,43,8611.89,REG-44980
+Mercedes,GLA,Electric,CUST3298,Miami,60,48513.47,REG-26646
+Chevrolet,Traverse,Electric,CUST4598,Dallas,49,26215.16,REG-85622
+BMW,3 Series,Electric,CUST5770,Boston,18,20840.01,REG-42207
+BMW,5 Series,Diesel,CUST2256,Boston,61,48047.09,REG-64358
+Ford,Escape,Diesel,CUST7876,Dallas,40,46226.08,REG-51429
+Audi,Q7,Petrol,CUST5808,Chicago,70,1613.19,REG-21879
+Toyota,Corolla,Diesel,CUST8172,Los Angeles,39,12629.72,REG-11174
+Honda,Pilot,Petrol,CUST3694,Dallas,24,27507.04,REG-55275
+Hyundai,Sonata,Petrol,CUST4414,Los Angeles,59,31378.98,REG-73446
+BMW,5 Series,Electric,CUST1247,Miami,49,4314.26,REG-61123
+Hyundai,Elantra,Petrol,CUST3727,San Francisco,27,21493.48,REG-22829
+Audi,A3,Petrol,CUST3737,San Francisco,21,62376.67,REG-59973
+Ford,Escape,Petrol,CUST9177,New York,50,14392.89,REG-36931
+Kia,Sorento,Electric,CUST3264,San Francisco,18,12464.74,REG-30390
+Mercedes,GLC,Petrol,CUST8843,San Francisco,59,28599.04,REG-59010
+Nissan,Altima,Hybrid,CUST2538,Denver,26,44899.67,REG-51055
+Ford,Escape,Diesel,CUST9021,Los Angeles,48,69341.14,REG-75363
+BMW,X3,Electric,CUST4763,Denver,53,55318,REG-74625
+BMW,3 Series,Hybrid,CUST6959,Denver,52,30462.51,REG-10985
+Mercedes,E-Class,Hybrid,CUST7049,New York,53,65862.21,REG-28584
+Toyota,Corolla,Hybrid,CUST7404,Miami,64,56159.7,REG-75407
+Chevrolet,Traverse,Petrol,CUST6802,Miami,59,11943.28,REG-95574
+Hyundai,Sonata,Diesel,CUST2913,Boston,34,42872.71,REG-83629
+Chevrolet,Malibu,Petrol,CUST8820,San Francisco,51,44941.19,REG-24847
+BMW,X5,Petrol,CUST3868,Dallas,42,44987.52,REG-89505
+Mercedes,C-Class,Petrol,CUST7766,Dallas,44,6987.95,REG-97407
+Audi,Q5,Electric,CUST3275,Houston,23,81347.67,REG-75356
+Toyota,Corolla,Diesel,CUST6994,Los Angeles,18,56893.06,REG-76958
+Honda,Pilot,Electric,CUST4800,San Francisco,48,27097.7,REG-15076
+Hyundai,Sonata,Diesel,CUST6275,New York,46,51619.98,REG-60112
+Chevrolet,Tahoe,Petrol,CUST6012,Chicago,24,58090.81,REG-83180
+Honda,CR-V,Petrol,CUST7581,Miami,69,64103.53,REG-11546
+Hyundai,Santa Fe,Petrol,CUST5655,Los Angeles,59,61681.25,REG-18273
+Toyota,Camry,Electric,CUST3628,Seattle,41,54914.37,REG-45768
+Audi,Q5,Diesel,CUST7647,New York,22,29201.88,REG-68681
+Hyundai,Sonata,Hybrid,CUST3357,Chicago,62,79478.75,REG-63104
+Kia,Seltos,Hybrid,CUST8610,Los Angeles,59,72160.67,REG-58733
+Hyundai,Santa Fe,Electric,CUST8161,Seattle,66,51597.58,REG-49759
+Mercedes,GLC,Petrol,CUST8192,Dallas,70,71972.53,REG-70827
+Nissan,Rogue,Hybrid,CUST9693,Houston,26,50665.11,REG-71284
+Kia,Sorento,Hybrid,CUST8572,Denver,34,19145.07,REG-63842
+Kia,Sorento,Diesel,CUST5199,San Francisco,69,41475.5,REG-58034
+Kia,Seltos,Hybrid,CUST2425,Houston,41,23951.73,REG-96947
+Toyota,Rav4,Diesel,CUST8169,Houston,63,17609.25,REG-64028
+Mercedes,E-Class,Hybrid,CUST4129,New York,60,60314.42,REG-40458
+Chevrolet,Malibu,Electric,CUST8924,Boston,49,75804.47,REG-66102
+Mercedes,E-Class,Electric,CUST2528,Miami,63,1366.59,REG-38826
+BMW,X5,Electric,CUST6421,New York,67,32109.93,REG-80955
+Toyota,Corolla,Diesel,CUST3396,Seattle,45,39498.59,REG-75007
+Ford,Fusion,Hybrid,CUST7727,Boston,41,56656.55,REG-96909
+Audi,Q7,Hybrid,CUST2279,Chicago,70,26611.3,REG-85849
+Audi,Q7,Hybrid,CUST7387,Seattle,23,64592.79,REG-34073
+Ford,Fusion,Diesel,CUST7654,Boston,53,24500.23,REG-64339
+BMW,X3,Hybrid,CUST1934,New York,66,49272.37,REG-63724
+BMW,5 Series,Petrol,CUST2054,Miami,21,16734.37,REG-62287
+Chevrolet,Traverse,Diesel,CUST6993,Seattle,27,4914.76,REG-83383
+Toyota,Corolla,Petrol,CUST3552,Boston,30,49276.65,REG-10170
+Honda,CR-V,Hybrid,CUST6124,Chicago,31,61625.52,REG-10195
+Kia,Seltos,Diesel,CUST5962,Boston,20,30787.23,REG-50180
+Toyota,Camry,Hybrid,CUST5055,San Francisco,50,80030.01,REG-64525
+Honda,CR-V,Hybrid,CUST1340,New York,36,65394.04,REG-84837
+Honda,CR-V,Hybrid,CUST2826,New York,67,42271.11,REG-11365
+Toyota,Corolla,Diesel,CUST3264,San Francisco,48,57217.07,REG-46352
+BMW,5 Series,Hybrid,CUST1984,Boston,27,6753.19,REG-90279
+Mercedes,GLC,Diesel,CUST5374,Dallas,38,47668.32,REG-94623
+Kia,Sportage,Hybrid,CUST3074,Denver,21,31646.42,REG-93654
+Honda,Pilot,Petrol,CUST6465,Los Angeles,26,77207.52,REG-21755
+Kia,Soul,Electric,CUST6655,San Francisco,64,5203.63,REG-18851
+Kia,Seltos,Petrol,CUST5797,Los Angeles,42,12954.97,REG-15850
+Mercedes,GLA,Electric,CUST4994,Dallas,54,62991.63,REG-16049
+Chevrolet,Traverse,Hybrid,CUST4798,New York,60,28879.46,REG-20938
+Ford,Fusion,Diesel,CUST9641,New York,21,78237.42,REG-51169
+Chevrolet,Equinox,Petrol,CUST7539,San Francisco,20,32866.61,REG-12014
+Ford,Explorer,Petrol,CUST9125,Denver,65,8580.78,REG-94217
+Mercedes,C-Class,Diesel,CUST4899,Miami,67,25068.34,REG-60834
+Toyota,Highlander,Hybrid,CUST9251,Dallas,63,50020.24,REG-55441
+Kia,Seltos,Hybrid,CUST9968,Boston,46,15698.75,REG-85779
+Hyundai,Elantra,Petrol,CUST1163,Seattle,38,59661.77,REG-30731
+Chevrolet,Tahoe,Hybrid,CUST8172,Chicago,54,12516.81,REG-99043
+Hyundai,Tucson,Electric,CUST4196,Denver,34,58010.4,REG-97275
+Honda,Civic,Electric,CUST4819,Denver,31,74614.53,REG-32266
+Kia,Soul,Diesel,CUST6019,New York,22,75275.34,REG-90698
+Ford,Focus,Petrol,CUST8391,Seattle,55,4138.03,REG-52504
+Ford,Escape,Electric,CUST3966,Los Angeles,23,65061.2,REG-94124
+Nissan,Altima,Diesel,CUST9542,Denver,52,68754.59,REG-51729
+Hyundai,Sonata,Diesel,CUST5716,Miami,66,6861.78,REG-33118
+Nissan,Sentra,Electric,CUST8169,Seattle,57,24271.09,REG-56921
+Ford,Escape,Diesel,CUST4231,Boston,46,44142.37,REG-81528
+Ford,Focus,Petrol,CUST8398,Dallas,29,75380.06,REG-71193
+Audi,A3,Petrol,CUST2208,Dallas,52,81834.11,REG-83636
+Nissan,Murano,Electric,CUST8992,Chicago,27,41798.6,REG-51872
+Kia,Sportage,Electric,CUST2183,Seattle,57,16942.94,REG-54282
+Ford,Explorer,Diesel,CUST8634,Houston,63,41061.35,REG-59403
+Toyota,Camry,Petrol,CUST7957,Denver,53,29267.59,REG-12173
+Honda,Pilot,Hybrid,CUST3233,Seattle,19,76697.8,REG-28495
+BMW,X5,Petrol,CUST8072,Boston,21,39867.73,REG-12041
+Honda,Accord,Diesel,CUST3889,New York,50,84053.15,REG-31663
+Ford,Escape,Petrol,CUST5615,San Francisco,49,23995.59,REG-11514
+Ford,Fusion,Hybrid,CUST6545,Los Angeles,41,34595.4,REG-28690
+Toyota,Highlander,Hybrid,CUST5927,Los Angeles,58,82559.03,REG-35917
+Ford,Escape,Petrol,CUST6213,Miami,52,80767.8,REG-84475
+Hyundai,Sonata,Petrol,CUST4131,Dallas,63,74941.46,REG-58630
+Hyundai,Santa Fe,Hybrid,CUST9394,Denver,59,16490.08,REG-94071
+Nissan,Sentra,Hybrid,CUST4045,Los Angeles,18,2410.52,REG-70071
+Nissan,Rogue,Electric,CUST2941,Los Angeles,27,17736.05,REG-23880
+Chevrolet,Malibu,Diesel,CUST5130,Boston,24,74284.2,REG-34535
+Ford,Fusion,Electric,CUST1329,Dallas,52,15889.9,REG-59070
+Mercedes,GLC,Diesel,CUST2124,New York,66,7062.42,REG-91709
+Mercedes,GLA,Petrol,CUST4854,San Francisco,70,16591.76,REG-16668
+Ford,Fusion,Petrol,CUST8683,Los Angeles,32,34261.78,REG-56378
+Toyota,Camry,Hybrid,CUST7078,Chicago,47,10188.51,REG-27914
+Nissan,Murano,Petrol,CUST4499,Los Angeles,67,68268.26,REG-68400
+Ford,Escape,Hybrid,CUST1103,Denver,66,27589.68,REG-37373
+Mercedes,GLA,Petrol,CUST5902,Seattle,54,40458.96,REG-90297
+Audi,Q5,Electric,CUST9749,Chicago,61,34030,REG-64461
+Honda,CR-V,Diesel,CUST2191,Denver,24,13587.86,REG-69013
+Kia,Seltos,Diesel,CUST2551,Houston,34,55788.64,REG-93125
+Chevrolet,Equinox,Electric,CUST9460,Houston,25,6316.79,REG-37830
+Honda,Pilot,Diesel,CUST7815,Denver,34,62571.8,REG-21822
+Hyundai,Elantra,Petrol,CUST6684,Los Angeles,67,65850.95,REG-22209
+Honda,CR-V,Diesel,CUST3289,Boston,26,80824.73,REG-21960
+Audi,A3,Electric,CUST1092,New York,23,78482.7,REG-56990
+Ford,Explorer,Petrol,CUST6066,Los Angeles,50,67690.44,REG-92285
+Toyota,Camry,Hybrid,CUST3065,Denver,70,71254.35,REG-13403
+Hyundai,Santa Fe,Diesel,CUST8288,Los Angeles,66,81196.56,REG-17203
+Honda,Accord,Hybrid,CUST9416,Boston,50,49784.9,REG-35483
+BMW,3 Series,Electric,CUST4505,Los Angeles,59,85710.92,REG-56465
+Hyundai,Tucson,Petrol,CUST8960,Dallas,65,65101.76,REG-41973
+Hyundai,Sonata,Hybrid,CUST3546,Dallas,26,25586.69,REG-89633
+Kia,Soul,Petrol,CUST6584,Chicago,37,30690.52,REG-57236
+Kia,Seltos,Hybrid,CUST9782,Seattle,37,60533.47,REG-35438
+BMW,5 Series,Diesel,CUST7952,Denver,68,10254.87,REG-57996
+Mercedes,GLA,Petrol,CUST2549,Dallas,37,77171.47,REG-65291
+Audi,Q7,Petrol,CUST3960,Los Angeles,66,31549.87,REG-86094
+Mercedes,E-Class,Petrol,CUST8529,New York,66,65678.86,REG-59575
+Kia,Sorento,Hybrid,CUST8378,New York,65,34853.76,REG-59377
+Ford,Fusion,Diesel,CUST2865,Miami,40,23979.9,REG-46513
+Nissan,Altima,Petrol,CUST6094,Chicago,39,78989.49,REG-94627
+Ford,Focus,Electric,CUST3308,Dallas,27,30009.96,REG-86456
+BMW,5 Series,Petrol,CUST6415,Dallas,45,6447.72,REG-42127
+Mercedes,C-Class,Electric,CUST6783,Chicago,31,5955.25,REG-72037
+Mercedes,E-Class,Petrol,CUST1734,Boston,32,27028.72,REG-12984
+Chevrolet,Malibu,Diesel,CUST4757,Chicago,48,32441.7,REG-36876
+Toyota,Rav4,Diesel,CUST6358,Miami,61,45083.33,REG-25333
+Honda,Pilot,Petrol,CUST5994,New York,67,82226.03,REG-49368
+Kia,Sorento,Electric,CUST5989,San Francisco,31,3714.64,REG-90581
+Kia,Seltos,Petrol,CUST5389,Houston,62,57088.02,REG-34563
+Audi,A3,Electric,CUST8567,Houston,62,16486.37,REG-78122
+Hyundai,Sonata,Diesel,CUST2394,Denver,30,19557.59,REG-13785
+Chevrolet,Malibu,Diesel,CUST9373,Denver,28,12393.46,REG-78354
+Audi,A3,Diesel,CUST9612,New York,60,4873.92,REG-80634
+Hyundai,Tucson,Electric,CUST6419,Denver,58,18487.46,REG-56784
+BMW,X3,Electric,CUST5737,Boston,66,53784.88,REG-94299
+Kia,Sorento,Electric,CUST1189,Houston,59,12130.44,REG-58956
+Honda,Civic,Diesel,CUST9938,Boston,64,24445.28,REG-37039
+BMW,5 Series,Hybrid,CUST8642,Denver,18,79927.31,REG-27021
+Kia,Sportage,Diesel,CUST7907,Los Angeles,70,51002.34,REG-44070
+Mercedes,C-Class,Hybrid,CUST6095,Chicago,21,63125.76,REG-28238
+Mercedes,GLA,Electric,CUST2699,Denver,41,64677.92,REG-50086
+Toyota,Camry,Diesel,CUST7340,San Francisco,60,40690.55,REG-74039
+Ford,Escape,Diesel,CUST2334,New York,64,80968.55,REG-12314
+Ford,Escape,Electric,CUST6029,Houston,23,4588.01,REG-33565
+Mercedes,GLC,Electric,CUST8784,Los Angeles,45,76454.14,REG-91936
+Toyota,Camry,Electric,CUST5940,Chicago,67,69412.35,REG-22692
+Toyota,Highlander,Diesel,CUST4637,Seattle,64,5621.67,REG-82553
+Kia,Soul,Diesel,CUST6366,Seattle,54,13584.42,REG-37090
+Mercedes,C-Class,Hybrid,CUST8927,Dallas,26,7950.22,REG-80120
+BMW,3 Series,Diesel,CUST7869,Los Angeles,19,28619.97,REG-96505
+Mercedes,E-Class,Petrol,CUST4214,Denver,48,23823.05,REG-19924
+Nissan,Sentra,Diesel,CUST4611,New York,24,73384.18,REG-24103
+Chevrolet,Traverse,Diesel,CUST4557,Dallas,18,66323.35,REG-71761
+Audi,Q5,Hybrid,CUST4034,Denver,20,4650.99,REG-95211
+Nissan,Altima,Diesel,CUST9866,San Francisco,49,80266.9,REG-54862
+Mercedes,GLA,Electric,CUST6766,Chicago,66,49589,REG-46285
+Toyota,Rav4,Petrol,CUST2974,Boston,18,68499.61,REG-47257
+Audi,Q7,Electric,CUST9826,Dallas,56,35461.76,REG-80174
+Hyundai,Tucson,Diesel,CUST5884,New York,37,45349.9,REG-36916
+Toyota,Highlander,Diesel,CUST2752,New York,26,57727.01,REG-32669
+Hyundai,Sonata,Hybrid,CUST1590,San Francisco,61,51610.16,REG-91293
+Nissan,Rogue,Petrol,CUST6343,Seattle,62,17788,REG-18451
+Nissan,Altima,Petrol,CUST3714,Houston,70,50076.8,REG-98995
+Honda,CR-V,Diesel,CUST7073,Seattle,53,79097.21,REG-11483
+Ford,Fusion,Petrol,CUST8925,New York,67,5758.77,REG-68447
+Audi,Q5,Diesel,CUST4757,Houston,25,72083.8,REG-71502
+Toyota,Corolla,Electric,CUST2948,Denver,55,47360.88,REG-67967
+Honda,Accord,Diesel,CUST2042,Chicago,59,22129.97,REG-70706
+Mercedes,GLA,Petrol,CUST7953,Denver,18,12076.52,REG-15910
+Kia,Sorento,Petrol,CUST3336,Houston,19,56790.5,REG-68118
+Audi,A3,Diesel,CUST2892,Houston,65,13595.97,REG-54527
+Kia,Sorento,Diesel,CUST3315,Denver,57,21383.49,REG-79460
+Toyota,Rav4,Petrol,CUST9159,New York,24,4497.31,REG-67409
+Kia,Seltos,Hybrid,CUST4690,Los Angeles,37,64863.99,REG-69711
+Mercedes,GLC,Hybrid,CUST6044,New York,57,38484.87,REG-41042
+Chevrolet,Malibu,Petrol,CUST6468,Boston,59,24365.83,REG-38208
+Chevrolet,Traverse,Diesel,CUST1212,Houston,45,67862.06,REG-22131
+Toyota,Highlander,Diesel,CUST2831,Miami,24,18124.73,REG-75762
+Toyota,Rav4,Petrol,CUST4415,Chicago,47,71016.41,REG-35408
+Chevrolet,Traverse,Electric,CUST2230,Chicago,42,48493.51,REG-92087
+Nissan,Altima,Diesel,CUST4226,Miami,50,39814.49,REG-20133
+Toyota,Rav4,Petrol,CUST5748,Los Angeles,43,27101.29,REG-41624
+BMW,3 Series,Petrol,CUST5861,Seattle,56,74563.61,REG-94378
+Toyota,Camry,Electric,CUST1603,Los Angeles,36,7306.6,REG-77241
+Hyundai,Santa Fe,Electric,CUST9205,New York,36,28007.72,REG-55356
+Ford,Escape,Electric,CUST3537,San Francisco,50,34628.36,REG-45115
+Audi,A4,Petrol,CUST1376,Chicago,34,67019.75,REG-26734
+Audi,A3,Electric,CUST9981,Seattle,55,60686.91,REG-59339
+Nissan,Sentra,Petrol,CUST3437,San Francisco,26,16899.86,REG-57572
+Toyota,Highlander,Hybrid,CUST4505,Boston,45,25933.59,REG-61683
+Toyota,Camry,Hybrid,CUST1272,Denver,51,4484.75,REG-67418
+BMW,5 Series,Petrol,CUST1157,New York,66,3629.7,REG-39557
+Ford,Explorer,Electric,CUST7732,New York,19,73193.15,REG-16741
+Nissan,Altima,Electric,CUST4695,Seattle,48,43125.75,REG-54427
+Ford,Fusion,Diesel,CUST3022,Boston,49,11734.31,REG-84586
+Nissan,Sentra,Diesel,CUST9387,Houston,37,56205.3,REG-73663
+Honda,Accord,Electric,CUST4091,New York,22,40128.56,REG-13294
+Hyundai,Santa Fe,Electric,CUST2447,Miami,52,9854.38,REG-34732
+Hyundai,Sonata,Electric,CUST7882,Los Angeles,25,67381.88,REG-98821
+Hyundai,Elantra,Petrol,CUST1225,Chicago,34,71472.43,REG-53124
+Hyundai,Santa Fe,Hybrid,CUST3058,Miami,41,46976.35,REG-77808
+Chevrolet,Malibu,Petrol,CUST5169,Chicago,60,54053.68,REG-33131
+Mercedes,E-Class,Petrol,CUST3243,Dallas,33,64770.98,REG-51422
+BMW,X5,Electric,CUST6607,San Francisco,30,53034.15,REG-84787
+Honda,Accord,Diesel,CUST8404,Dallas,45,47239.99,REG-64391
+Kia,Sportage,Hybrid,CUST8542,Dallas,67,83974.15,REG-18217
+Kia,Seltos,Hybrid,CUST9728,Seattle,56,12115.57,REG-48444
+Kia,Sorento,Diesel,CUST7439,Seattle,43,23607.7,REG-23578
+Ford,Focus,Diesel,CUST7796,Denver,68,63519.51,REG-71472
+Hyundai,Elantra,Hybrid,CUST3170,San Francisco,40,62212.44,REG-47109
+Audi,Q7,Electric,CUST9459,Miami,60,5851.83,REG-87058
+Nissan,Sentra,Diesel,CUST3297,New York,47,71654.38,REG-26751
+Audi,A3,Hybrid,CUST2274,Los Angeles,43,73484.08,REG-84709
+BMW,X5,Diesel,CUST8631,Dallas,67,32841.76,REG-14545
+Mercedes,C-Class,Petrol,CUST3621,New York,48,23029.96,REG-89624
+Toyota,Corolla,Diesel,CUST5344,San Francisco,27,49836.9,REG-56722
+BMW,5 Series,Petrol,CUST5292,Los Angeles,62,8820.2,REG-29130
+BMW,3 Series,Electric,CUST9666,New York,70,5647.42,REG-73335
+Hyundai,Sonata,Petrol,CUST4135,Houston,56,11402.4,REG-61206
+Hyundai,Santa Fe,Petrol,CUST4317,Houston,28,19809.63,REG-83073
+BMW,X3,Diesel,CUST5529,Los Angeles,27,12346.28,REG-58385
+Mercedes,GLA,Electric,CUST2591,Los Angeles,35,10874.88,REG-85616
+Hyundai,Elantra,Petrol,CUST2302,Seattle,64,45412.76,REG-32737
+Nissan,Murano,Petrol,CUST4893,Seattle,31,73803.38,REG-86819
+Audi,Q5,Diesel,CUST5871,San Francisco,54,46230.67,REG-33433
+Chevrolet,Tahoe,Petrol,CUST2328,Seattle,41,25487.01,REG-59145
+Toyota,Rav4,Electric,CUST6974,Denver,55,15224.27,REG-51372
+Kia,Sorento,Petrol,CUST9817,Dallas,58,63600.45,REG-19831
+Honda,Accord,Electric,CUST6731,Denver,64,45310.64,REG-19123
+Hyundai,Tucson,Diesel,CUST7218,Chicago,39,74350.38,REG-47663
+BMW,3 Series,Diesel,CUST8666,Los Angeles,57,10156.62,REG-51962
+Ford,Focus,Petrol,CUST2346,San Francisco,19,63805.91,REG-34175
+Honda,Pilot,Hybrid,CUST5076,Houston,63,44142.74,REG-63527
+Audi,A4,Petrol,CUST6693,Boston,21,34019.33,REG-96158
+BMW,5 Series,Petrol,CUST7476,Miami,67,53694.63,REG-24274
+Toyota,Corolla,Hybrid,CUST4890,Houston,57,31262.72,REG-62577
+Kia,Soul,Hybrid,CUST4647,Miami,59,27855.33,REG-25204
+Kia,Seltos,Hybrid,CUST6168,Dallas,63,17742.82,REG-39144
+Audi,A3,Electric,CUST4761,San Francisco,47,21512.16,REG-87662
+Mercedes,GLC,Petrol,CUST8726,Chicago,65,47549.67,REG-79995
+Toyota,Camry,Hybrid,CUST7142,Houston,49,68414.53,REG-43135
+Ford,Fusion,Diesel,CUST9493,Denver,40,5238.14,REG-30451
+Toyota,Rav4,Diesel,CUST2257,Houston,20,49890.47,REG-67162
+Kia,Sportage,Electric,CUST6728,San Francisco,58,72978.37,REG-19950
+BMW,X5,Petrol,CUST1444,Seattle,37,80042.05,REG-77500
+Toyota,Highlander,Electric,CUST1731,Boston,50,35061.6,REG-60451
+Mercedes,E-Class,Petrol,CUST2826,Houston,50,73097.61,REG-87035
+Nissan,Rogue,Petrol,CUST7717,Chicago,64,34712.7,REG-35059
+Honda,Pilot,Electric,CUST3067,New York,70,36081.34,REG-62355
+BMW,5 Series,Diesel,CUST4065,Denver,43,17116.65,REG-95047
+Mercedes,E-Class,Petrol,CUST2407,Miami,57,61760.21,REG-64644
+Hyundai,Tucson,Diesel,CUST1985,Miami,41,84676.42,REG-61253
+Ford,Focus,Hybrid,CUST3271,Houston,24,51549.08,REG-75897
+Audi,A3,Electric,CUST3697,Dallas,41,72701.78,REG-36056
+Toyota,Corolla,Hybrid,CUST3459,New York,36,12619.7,REG-48569
+Nissan,Sentra,Electric,CUST5394,Miami,48,80542.41,REG-72523
+Kia,Sportage,Electric,CUST1315,Denver,38,82291.73,REG-98841
+Ford,Fusion,Diesel,CUST9822,Chicago,44,18995.19,REG-73081
+Ford,Explorer,Hybrid,CUST2504,Dallas,65,78827.12,REG-90106
+Toyota,Camry,Petrol,CUST2743,Dallas,43,10765.48,REG-88878
+Kia,Soul,Petrol,CUST6241,New York,42,16542.19,REG-92643
+Hyundai,Sonata,Electric,CUST1963,Miami,36,10398.53,REG-36747
+Chevrolet,Malibu,Hybrid,CUST1576,New York,48,6753.13,REG-32501
+Toyota,Rav4,Electric,CUST2874,Dallas,58,4294.87,REG-32644
+BMW,X3,Petrol,CUST8837,New York,33,38173.49,REG-80201
+Toyota,Camry,Petrol,CUST2503,Houston,32,64882.02,REG-50282
+Nissan,Sentra,Petrol,CUST8310,San Francisco,47,18171.32,REG-96634
+Nissan,Murano,Petrol,CUST3581,New York,51,78725.17,REG-79660
+Hyundai,Santa Fe,Hybrid,CUST1785,Seattle,51,48137.57,REG-65145
+Audi,A4,Hybrid,CUST1121,Houston,22,4484.29,REG-29888
+Audi,Q5,Petrol,CUST7565,Seattle,51,24656.32,REG-43960
+Audi,Q5,Petrol,CUST9267,Dallas,28,61887.22,REG-68856
+Honda,Accord,Petrol,CUST3759,Dallas,61,43650.74,REG-63019
+Nissan,Rogue,Petrol,CUST9207,Miami,21,10062.61,REG-90528
+Audi,A3,Petrol,CUST3271,New York,53,20549.89,REG-48952
+Kia,Soul,Hybrid,CUST5636,Boston,32,70832.3,REG-74951
+Audi,Q7,Electric,CUST1361,Denver,36,75418.03,REG-57850
+Toyota,Rav4,Electric,CUST7887,Houston,70,79952.03,REG-14975
+Kia,Seltos,Electric,CUST8331,New York,33,46297.63,REG-11457
+Chevrolet,Tahoe,Petrol,CUST7317,New York,18,41146.64,REG-78217
+Nissan,Rogue,Hybrid,CUST5427,Boston,30,44955.57,REG-52591
+Chevrolet,Tahoe,Hybrid,CUST4348,Boston,48,30657.23,REG-88796
+Chevrolet,Tahoe,Petrol,CUST1186,Los Angeles,49,51739.35,REG-65195
+Hyundai,Tucson,Diesel,CUST2662,Miami,43,59041.23,REG-33157
+Honda,Pilot,Diesel,CUST2848,Miami,21,18198.31,REG-66695
+Hyundai,Sonata,Diesel,CUST5969,New York,19,15635.3,REG-37785
+Nissan,Altima,Diesel,CUST8465,New York,61,35212.78,REG-21005
+Hyundai,Santa Fe,Electric,CUST6719,Dallas,63,14145.74,REG-73148
+Audi,Q5,Hybrid,CUST9064,Dallas,19,21762.8,REG-60185
+Nissan,Altima,Diesel,CUST9848,San Francisco,43,18071.56,REG-25319
+Hyundai,Elantra,Hybrid,CUST8371,Boston,55,9061.03,REG-76745
+Toyota,Rav4,Petrol,CUST8315,Los Angeles,26,34846.52,REG-86346
+Toyota,Corolla,Petrol,CUST7496,San Francisco,19,25126.75,REG-87135
+Kia,Soul,Petrol,CUST8436,San Francisco,50,18400.12,REG-61348
+Honda,CR-V,Hybrid,CUST5496,Houston,50,13791.95,REG-88435
+Honda,CR-V,Diesel,CUST9896,Denver,68,51425.34,REG-86488
+Audi,A3,Diesel,CUST1447,Dallas,66,75597.36,REG-35256
+BMW,X3,Diesel,CUST3857,Dallas,23,77648.42,REG-24907
+Chevrolet,Malibu,Electric,CUST8988,Dallas,19,22315.75,REG-87595
+BMW,X5,Petrol,CUST4185,Chicago,20,11962.21,REG-43755
+Kia,Sportage,Petrol,CUST7779,Denver,34,63553.02,REG-89498
+BMW,3 Series,Hybrid,CUST6753,Miami,68,15579.25,REG-80143
+Honda,Accord,Electric,CUST8729,Dallas,53,83547.24,REG-46404
+Kia,Seltos,Hybrid,CUST6792,Los Angeles,22,30185.65,REG-46801
+Honda,Civic,Diesel,CUST3610,Houston,19,21385.19,REG-82746
+Toyota,Camry,Petrol,CUST7414,Miami,39,13430.19,REG-76522
+Toyota,Rav4,Petrol,CUST2501,Denver,25,4658.81,REG-43829
+Audi,A4,Petrol,CUST4226,New York,43,27675.74,REG-34908
+Hyundai,Elantra,Hybrid,CUST4985,Seattle,59,48186.68,REG-56075
+Hyundai,Santa Fe,Diesel,CUST7414,Miami,39,52346.15,REG-75603
+Mercedes,GLA,Hybrid,CUST9672,Houston,47,64488.15,REG-70244
+Hyundai,Sonata,Petrol,CUST2381,New York,35,60286.83,REG-68501
+Toyota,Corolla,Petrol,CUST6007,San Francisco,25,62502.29,REG-72352
+BMW,X5,Electric,CUST1928,Dallas,45,77371.59,REG-86230
+Honda,Pilot,Petrol,CUST7336,Houston,19,2089.8,REG-81669
+Ford,Explorer,Diesel,CUST6671,Denver,70,81808.48,REG-79529
+Chevrolet,Traverse,Hybrid,CUST2224,Chicago,43,19374.18,REG-78730
+BMW,X3,Diesel,CUST8446,Boston,32,38128.75,REG-11460
+Chevrolet,Traverse,Diesel,CUST1702,Seattle,23,60964.42,REG-35916
+Honda,CR-V,Diesel,CUST3953,Chicago,41,77724.83,REG-85002
+Chevrolet,Equinox,Diesel,CUST4734,Miami,43,38513.4,REG-28880
+Kia,Soul,Hybrid,CUST6015,Dallas,63,65379.72,REG-69035
+Chevrolet,Traverse,Electric,CUST8184,San Francisco,65,71072.89,REG-87978
+Chevrolet,Malibu,Petrol,CUST9961,New York,58,58876.8,REG-91338
+Audi,Q5,Petrol,CUST6130,Dallas,42,78545.26,REG-91197
+Audi,A4,Diesel,CUST5963,San Francisco,20,69515.76,REG-85640
+Mercedes,GLC,Electric,CUST9684,Houston,54,37714.37,REG-56577
+Mercedes,E-Class,Diesel,CUST4776,Boston,46,3576.42,REG-23895
+Mercedes,E-Class,Diesel,CUST7400,Boston,26,33977.43,REG-63258
+Honda,Accord,Electric,CUST4518,San Francisco,26,3595.98,REG-38645
+Toyota,Highlander,Diesel,CUST1400,Boston,50,34740.94,REG-89872
+Audi,A4,Electric,CUST2066,Miami,58,73615.54,REG-29364
+Toyota,Corolla,Hybrid,CUST1076,Chicago,40,15261.09,REG-52311
+Ford,Focus,Hybrid,CUST2054,New York,34,19131.03,REG-37879
+Hyundai,Sonata,Electric,CUST8507,Chicago,64,35497.71,REG-91370
+Mercedes,GLA,Electric,CUST5613,Miami,35,70063.48,REG-70658
+Toyota,Corolla,Petrol,CUST3429,New York,19,78654.07,REG-14644
+Chevrolet,Traverse,Electric,CUST8852,San Francisco,42,45129.18,REG-80454
+Audi,Q7,Electric,CUST1187,Chicago,64,56920.06,REG-57859
+Ford,Fusion,Hybrid,CUST8945,Boston,25,58093.6,REG-77698
+Kia,Sorento,Electric,CUST5478,Boston,69,28115.69,REG-31638
+Honda,Civic,Petrol,CUST6992,San Francisco,66,84356.81,REG-52930
+Honda,Pilot,Diesel,CUST5831,Denver,45,72364.99,REG-72333
+Hyundai,Sonata,Hybrid,CUST8766,Miami,52,78226.45,REG-27383
+Toyota,Highlander,Petrol,CUST7841,Dallas,32,82414.96,REG-56743
+Ford,Escape,Petrol,CUST4280,Chicago,42,51091.89,REG-48632
+Nissan,Murano,Electric,CUST7194,Denver,33,70163.85,REG-47910
+Mercedes,E-Class,Diesel,CUST8325,Denver,25,27526.34,REG-21709
+Honda,Pilot,Electric,CUST3658,San Francisco,32,17838.72,REG-84248
+Ford,Explorer,Petrol,CUST2895,Dallas,70,62531.59,REG-53760
+Audi,A4,Hybrid,CUST7801,Boston,36,30620.21,REG-62767
+Toyota,Camry,Hybrid,CUST2948,Houston,61,76007.46,REG-58254
+BMW,X5,Petrol,CUST7427,Los Angeles,41,52832.86,REG-46546
+Chevrolet,Tahoe,Hybrid,CUST5036,Los Angeles,58,59471.61,REG-12959
+BMW,X3,Hybrid,CUST1186,Seattle,19,62502.24,REG-14440
+Nissan,Sentra,Diesel,CUST3632,Chicago,53,43466.62,REG-71161
+BMW,5 Series,Diesel,CUST1912,Dallas,33,77050.26,REG-71992
+Audi,Q5,Diesel,CUST9687,Seattle,39,82138.9,REG-69890
+Audi,A4,Hybrid,CUST4545,Houston,31,51642.01,REG-73246
+BMW,X5,Electric,CUST2008,Denver,32,62432.27,REG-14753
+Ford,Fusion,Electric,CUST4128,Dallas,55,7991.62,REG-91048
+Nissan,Altima,Hybrid,CUST4173,Chicago,29,63351.07,REG-27057
+Kia,Seltos,Petrol,CUST9576,Houston,40,39313.64,REG-97483
+BMW,5 Series,Petrol,CUST1831,Houston,37,13114.7,REG-66649
+Ford,Fusion,Petrol,CUST4553,San Francisco,53,74668.69,REG-23877
+Audi,Q7,Diesel,CUST6366,San Francisco,44,73682.53,REG-63912
+Mercedes,GLC,Electric,CUST6682,Dallas,21,15220.72,REG-50015
+Kia,Sorento,Electric,CUST8467,Los Angeles,43,33758.92,REG-92947
+Ford,Explorer,Petrol,CUST2774,Los Angeles,57,77459.79,REG-46202
+Audi,Q7,Hybrid,CUST3054,Houston,57,72470.99,REG-57034
+Toyota,Camry,Petrol,CUST3463,Chicago,39,43516.8,REG-92629
+Ford,Escape,Petrol,CUST7207,Chicago,68,63224.65,REG-13138
+Nissan,Altima,Petrol,CUST8141,Dallas,51,32098.01,REG-56257
+Audi,A4,Hybrid,CUST2132,San Francisco,36,73986.69,REG-49780
+BMW,5 Series,Hybrid,CUST3486,Boston,61,47703,REG-66820
+BMW,3 Series,Diesel,CUST1728,Miami,54,78691.14,REG-32172
+Ford,Escape,Hybrid,CUST7187,Chicago,27,13146.56,REG-46392
+Hyundai,Elantra,Petrol,CUST4306,New York,45,41196.7,REG-68478
+Toyota,Rav4,Hybrid,CUST9790,New York,62,67563.92,REG-19420
+Kia,Sorento,Hybrid,CUST1331,Miami,34,60960.7,REG-41334
+Toyota,Corolla,Electric,CUST1777,Chicago,35,47097.38,REG-39519
+Hyundai,Elantra,Electric,CUST1061,Boston,36,80796.25,REG-16373
+Audi,A3,Hybrid,CUST2420,Miami,40,62974.34,REG-21500
+Audi,A4,Electric,CUST3738,San Francisco,70,4970.18,REG-83581
+Ford,Explorer,Diesel,CUST3747,Seattle,66,12246.37,REG-80255
+Honda,Accord,Electric,CUST9395,Los Angeles,20,65176.94,REG-47237
+Hyundai,Elantra,Diesel,CUST6212,Los Angeles,44,17138.16,REG-57827
+Honda,Accord,Petrol,CUST2480,Miami,49,82794.35,REG-97977
+Ford,Explorer,Hybrid,CUST3200,Houston,37,64311.97,REG-79782
+Toyota,Rav4,Electric,CUST8101,Los Angeles,56,21460.36,REG-27593
+Honda,Accord,Electric,CUST6730,Dallas,52,55807.17,REG-85950
+Mercedes,GLC,Petrol,CUST1227,Dallas,47,38501.32,REG-59716
+Nissan,Sentra,Diesel,CUST2352,Dallas,38,25131.95,REG-34195
+Mercedes,C-Class,Electric,CUST7798,New York,45,72672.44,REG-29528
+Kia,Soul,Hybrid,CUST2093,Seattle,20,33323.83,REG-23350
+Kia,Seltos,Petrol,CUST8462,Los Angeles,25,67445.15,REG-50279
+Toyota,Camry,Petrol,CUST6309,Chicago,36,43629.04,REG-92608
+Kia,Sorento,Electric,CUST7483,Boston,23,66766.44,REG-58547
+Kia,Sportage,Electric,CUST3855,Dallas,45,78671.04,REG-66533
+Audi,Q7,Electric,CUST2347,Chicago,53,77135.17,REG-18031
+BMW,5 Series,Hybrid,CUST4512,Seattle,63,59261.53,REG-54109
+Toyota,Highlander,Petrol,CUST7085,Denver,21,13361.27,REG-46876
+Toyota,Camry,Diesel,CUST6557,Denver,28,7108.42,REG-26422
+Toyota,Highlander,Hybrid,CUST4513,San Francisco,60,11613.81,REG-74525
+Kia,Sorento,Hybrid,CUST5228,Miami,60,55799.97,REG-55120
+Toyota,Rav4,Petrol,CUST1027,Chicago,38,83105.8,REG-32835
+Honda,Civic,Hybrid,CUST5293,Houston,58,34447.65,REG-13855
+Kia,Sportage,Diesel,CUST9939,Dallas,63,29727.37,REG-84165
+Kia,Soul,Diesel,CUST8242,Miami,30,12270.08,REG-46183
+Honda,Accord,Hybrid,CUST7141,Boston,60,65046.32,REG-36287
+Nissan,Rogue,Diesel,CUST3358,Houston,48,65885.02,REG-11181
+Mercedes,C-Class,Diesel,CUST5112,Chicago,70,54659.63,REG-14853
+BMW,5 Series,Petrol,CUST8147,Chicago,44,76722.47,REG-18570
+Audi,A4,Petrol,CUST4357,Dallas,69,65708.76,REG-32464
+Mercedes,GLC,Electric,CUST9128,Denver,60,84932.76,REG-31823
+Toyota,Camry,Electric,CUST4211,Denver,24,25893.41,REG-88853
+Kia,Sportage,Petrol,CUST3221,San Francisco,48,51289.06,REG-28619
+BMW,5 Series,Petrol,CUST9507,Boston,59,35213.85,REG-70811
+BMW,X3,Petrol,CUST2748,Miami,38,58873.76,REG-53566
+Kia,Sorento,Hybrid,CUST5751,Houston,31,17351.06,REG-40775
+Hyundai,Sonata,Electric,CUST8432,Houston,35,32928.88,REG-66075
+Hyundai,Elantra,Hybrid,CUST5525,Miami,42,30929.7,REG-20839
+Chevrolet,Malibu,Diesel,CUST1242,Dallas,32,18434.84,REG-78722
+Kia,Sportage,Petrol,CUST3995,Los Angeles,38,29117.33,REG-39047
+Toyota,Camry,Diesel,CUST5142,Denver,23,56547.87,REG-16153
+Nissan,Altima,Petrol,CUST5668,Denver,25,7445.91,REG-67103
+Chevrolet,Malibu,Petrol,CUST2660,Seattle,68,78618.72,REG-30553
+Nissan,Murano,Hybrid,CUST9052,Miami,31,32205.53,REG-25462
+Audi,A3,Hybrid,CUST5612,Dallas,33,72778.19,REG-30013
+Kia,Sorento,Diesel,CUST8712,San Francisco,53,64377.61,REG-91795
+Toyota,Camry,Petrol,CUST4503,Los Angeles,46,55009.42,REG-90551
+Nissan,Sentra,Hybrid,CUST7583,Dallas,49,41870.15,REG-59213
+Ford,Fusion,Diesel,CUST5625,Chicago,34,13888.56,REG-87936
+Ford,Focus,Hybrid,CUST5532,Miami,66,63045.29,REG-52948
+Honda,Accord,Diesel,CUST3227,Denver,24,48101.44,REG-96927
+Toyota,Highlander,Diesel,CUST1031,Los Angeles,35,19923.28,REG-64386
+Hyundai,Santa Fe,Diesel,CUST6162,Chicago,55,66596.32,REG-67301
+BMW,X5,Diesel,CUST1686,Boston,33,57907.53,REG-80010
+Chevrolet,Malibu,Diesel,CUST6407,Houston,70,11015.92,REG-99466
+Chevrolet,Traverse,Hybrid,CUST9465,Dallas,57,8315.29,REG-77626
+Ford,Explorer,Electric,CUST5850,Dallas,54,70107.82,REG-32824
+Hyundai,Tucson,Hybrid,CUST4693,Seattle,41,62605.04,REG-45441
+Kia,Sorento,Electric,CUST3664,Dallas,24,74209.74,REG-55329
+Honda,Pilot,Diesel,CUST4543,Houston,29,73875.73,REG-70649
+Ford,Explorer,Petrol,CUST3639,New York,27,66034.33,REG-31485
+Nissan,Murano,Electric,CUST3428,Houston,66,36274.13,REG-83128
+Mercedes,E-Class,Electric,CUST4666,Dallas,68,73089.84,REG-91662
+Audi,Q7,Hybrid,CUST7272,Denver,54,41133.37,REG-52795
+Hyundai,Sonata,Hybrid,CUST2332,Seattle,28,71900.61,REG-15849
+Toyota,Highlander,Diesel,CUST5058,Boston,55,20053.27,REG-44523
+Nissan,Altima,Electric,CUST4473,Miami,66,54473.87,REG-43249
+Mercedes,GLC,Electric,CUST1271,Houston,24,79410,REG-14167
+Mercedes,GLC,Petrol,CUST1660,Seattle,58,83755.47,REG-52130
+Chevrolet,Malibu,Electric,CUST3444,Chicago,31,81063.88,REG-59723
+Chevrolet,Traverse,Diesel,CUST4278,New York,27,75569.72,REG-69772
+Hyundai,Santa Fe,Electric,CUST9318,Miami,22,8618.01,REG-55755
+Chevrolet,Malibu,Petrol,CUST6375,Dallas,31,6333.33,REG-35073
+Kia,Sportage,Diesel,CUST3878,New York,67,50248.82,REG-36176
+Chevrolet,Tahoe,Diesel,CUST9838,Chicago,52,81378.9,REG-79125
+Mercedes,GLA,Petrol,CUST3087,Chicago,35,8745.33,REG-23340
+Ford,Escape,Hybrid,CUST6734,Dallas,31,9998.64,REG-18643
+BMW,X3,Diesel,CUST7721,Boston,65,8568.12,REG-44103
+Chevrolet,Malibu,Hybrid,CUST9415,Seattle,43,40423.22,REG-25376
+Hyundai,Elantra,Electric,CUST9513,Houston,70,75748.15,REG-34776
+Mercedes,E-Class,Petrol,CUST8791,Chicago,49,83747.32,REG-82179
+Audi,Q5,Diesel,CUST8369,Seattle,34,12439.42,REG-84534
+Chevrolet,Equinox,Diesel,CUST3740,Houston,22,31983.51,REG-67116
+Mercedes,E-Class,Petrol,CUST8556,Miami,51,34145.05,REG-27118
+Chevrolet,Tahoe,Hybrid,CUST5864,Miami,45,27765.37,REG-92252
+Toyota,Corolla,Hybrid,CUST2416,Houston,43,46183.81,REG-60343
+Kia,Sorento,Diesel,CUST2949,Dallas,38,50942.05,REG-13964
+BMW,X5,Diesel,CUST9031,Dallas,25,65719.25,REG-70791
+Honda,Civic,Hybrid,CUST3459,Los Angeles,62,64625.19,REG-59378
+Chevrolet,Malibu,Hybrid,CUST1026,Houston,45,18617.74,REG-88520
+Kia,Soul,Electric,CUST1154,Boston,38,83503.2,REG-63299
+Hyundai,Elantra,Electric,CUST4737,Miami,57,10256.65,REG-48051
+Nissan,Altima,Electric,CUST9858,Houston,63,19054.38,REG-21266
+Nissan,Murano,Diesel,CUST9205,Los Angeles,63,19638.32,REG-87147
+BMW,3 Series,Hybrid,CUST6362,Houston,68,35113.62,REG-50507
+Mercedes,E-Class,Petrol,CUST8672,Miami,30,78103.68,REG-66720
+Nissan,Sentra,Diesel,CUST1586,Boston,33,38530.8,REG-77008
+Audi,A4,Petrol,CUST7560,Boston,18,58453.54,REG-29096
+Audi,A4,Diesel,CUST7964,San Francisco,69,38286.12,REG-38222
+Audi,A4,Hybrid,CUST3044,Boston,48,39321.12,REG-98375
+Hyundai,Tucson,Petrol,CUST2923,Los Angeles,65,32155.69,REG-59566
+Honda,CR-V,Hybrid,CUST1708,Houston,36,44796.41,REG-94592
+Toyota,Rav4,Hybrid,CUST1371,Dallas,18,51386.84,REG-57103
+Chevrolet,Tahoe,Diesel,CUST5662,New York,26,62412.1,REG-14229
+BMW,3 Series,Diesel,CUST2058,Dallas,68,20304.34,REG-17414
+BMW,3 Series,Diesel,CUST1158,Dallas,67,47437.27,REG-28160
+Mercedes,E-Class,Electric,CUST4046,San Francisco,62,21434.03,REG-92345
+Nissan,Altima,Petrol,CUST3142,Chicago,45,2592.4,REG-19736
+Audi,Q7,Diesel,CUST1970,Los Angeles,30,12934.43,REG-38526
+Mercedes,GLA,Electric,CUST5882,Los Angeles,43,8969.13,REG-61033
+Kia,Seltos,Diesel,CUST8108,Miami,19,61485.56,REG-88997
+Nissan,Sentra,Petrol,CUST7812,Chicago,20,46317.57,REG-93287
+Mercedes,GLA,Diesel,CUST4862,San Francisco,35,13980.29,REG-57631
+Chevrolet,Malibu,Hybrid,CUST7285,Dallas,34,77530.22,REG-94687
+Kia,Sorento,Diesel,CUST5426,Denver,18,20239.33,REG-24237
+Hyundai,Sonata,Petrol,CUST3200,Chicago,37,14698.67,REG-65908
+Mercedes,GLA,Electric,CUST2886,New York,30,17885.67,REG-28884
+Honda,CR-V,Hybrid,CUST2547,New York,54,54806.01,REG-10917
+Kia,Soul,Hybrid,CUST7856,Boston,25,54543,REG-90050
+Chevrolet,Malibu,Electric,CUST7812,Miami,34,2663.66,REG-46324
+Audi,Q7,Hybrid,CUST8868,Miami,49,23368.23,REG-68895
+Mercedes,E-Class,Electric,CUST7700,New York,62,13092.12,REG-38379
+Audi,A4,Hybrid,CUST7960,San Francisco,59,44761.59,REG-82327
+Honda,CR-V,Hybrid,CUST4456,New York,21,63860.05,REG-30408
+Mercedes,GLA,Electric,CUST6843,Boston,27,56898.51,REG-80743
+Toyota,Camry,Electric,CUST8060,Dallas,34,2398.46,REG-74821
+Honda,Pilot,Petrol,CUST4806,San Francisco,38,56670.95,REG-69026
+Nissan,Murano,Electric,CUST2544,San Francisco,53,27339.07,REG-63462
+Honda,Accord,Hybrid,CUST1893,Miami,44,73870.28,REG-92638
+Audi,A3,Petrol,CUST4766,Denver,30,73063.67,REG-38475
+Hyundai,Elantra,Hybrid,CUST5858,Chicago,44,20269.96,REG-82277
+Audi,Q5,Petrol,CUST2500,New York,42,15096.77,REG-23199
+Nissan,Rogue,Electric,CUST8411,Dallas,38,78662.14,REG-40021
+Hyundai,Tucson,Hybrid,CUST4891,Miami,53,16357.32,REG-70539
+Chevrolet,Tahoe,Petrol,CUST9789,Houston,55,49875.71,REG-75638
+BMW,X5,Electric,CUST5801,Boston,43,6938.78,REG-38651
+Honda,CR-V,Petrol,CUST9911,Dallas,31,71862.57,REG-75649
+BMW,3 Series,Hybrid,CUST3982,Seattle,53,49976.8,REG-56885
+Toyota,Camry,Diesel,CUST6630,Los Angeles,34,27634.58,REG-77837
+Hyundai,Santa Fe,Petrol,CUST7783,Chicago,44,46922.51,REG-52215
+Audi,A4,Petrol,CUST5119,Dallas,47,8563.79,REG-58747
+Honda,Civic,Hybrid,CUST5804,Los Angeles,58,78493.1,REG-72446
+Ford,Explorer,Hybrid,CUST6362,Boston,53,37750.24,REG-79412
+Ford,Focus,Hybrid,CUST5570,Houston,23,73009.19,REG-29662
+Toyota,Camry,Diesel,CUST8585,Boston,58,61827.6,REG-96717
+Nissan,Murano,Electric,CUST9059,Houston,55,83447.52,REG-77235
+Honda,CR-V,Petrol,CUST2879,Dallas,30,16953.45,REG-56426
+Honda,Pilot,Diesel,CUST9032,San Francisco,32,74275.36,REG-34881
+Nissan,Sentra,Hybrid,CUST2849,Los Angeles,31,71629.85,REG-87415
+Kia,Sorento,Diesel,CUST6755,San Francisco,57,18642.79,REG-70766
+Toyota,Rav4,Diesel,CUST3133,Los Angeles,69,57524.81,REG-26244
+BMW,3 Series,Hybrid,CUST6266,Dallas,52,83486.19,REG-75005
+Mercedes,GLA,Petrol,CUST6225,Houston,62,67009.92,REG-13836
+Ford,Explorer,Hybrid,CUST4871,Boston,51,52292.27,REG-30755
+Nissan,Sentra,Hybrid,CUST2531,Chicago,61,5810.33,REG-44542
+Honda,Accord,Electric,CUST7076,Denver,19,71688.8,REG-74820
+Honda,Accord,Electric,CUST6060,Chicago,32,70717.2,REG-82382
+Ford,Explorer,Electric,CUST5696,Miami,49,23955.1,REG-40517
+Kia,Soul,Petrol,CUST2825,Dallas,44,68645.74,REG-52144
+Hyundai,Tucson,Electric,CUST8121,Boston,19,78901.28,REG-51512
+Nissan,Murano,Electric,CUST5908,Chicago,20,53256.35,REG-39554
+Ford,Escape,Hybrid,CUST9509,Chicago,60,35512.63,REG-53382
+Chevrolet,Malibu,Electric,CUST9083,Chicago,69,7169.34,REG-40856
+BMW,3 Series,Petrol,CUST3630,Chicago,47,7146.61,REG-22823
+BMW,X3,Electric,CUST6450,Dallas,36,42834.75,REG-28786
+Hyundai,Elantra,Petrol,CUST8169,Denver,52,84718.46,REG-88490
+Chevrolet,Equinox,Electric,CUST8355,Miami,37,51686.4,REG-32847
+BMW,X5,Petrol,CUST9944,Houston,39,3961.56,REG-40218
+Ford,Explorer,Diesel,CUST1809,Chicago,35,8586.31,REG-98567
+Honda,Pilot,Hybrid,CUST5416,Dallas,42,79192.3,REG-27383
+Ford,Escape,Diesel,CUST2318,Seattle,62,41922.47,REG-66822
+Chevrolet,Traverse,Petrol,CUST1998,Seattle,69,24700.1,REG-23578
+Audi,A3,Hybrid,CUST4455,Houston,25,24491.01,REG-37630
+Kia,Soul,Hybrid,CUST2905,Boston,20,74281.66,REG-77257
+Chevrolet,Malibu,Petrol,CUST7234,Denver,63,77442.87,REG-91047
+Hyundai,Santa Fe,Electric,CUST4194,Dallas,18,74556.92,REG-48582
+Ford,Escape,Hybrid,CUST8975,Chicago,49,61200.43,REG-27315
+Nissan,Sentra,Petrol,CUST7710,Boston,25,35674.58,REG-52151
+Chevrolet,Malibu,Hybrid,CUST6183,Chicago,30,9195.52,REG-91694
+Mercedes,E-Class,Electric,CUST8264,Boston,57,34074,REG-10914
+Mercedes,GLC,Hybrid,CUST3845,Miami,23,27609.79,REG-41042
+Audi,A4,Petrol,CUST4184,Los Angeles,70,84247.71,REG-78903
+Mercedes,GLC,Petrol,CUST2107,Seattle,26,65375.19,REG-27186
+Nissan,Sentra,Petrol,CUST9611,San Francisco,19,17248.54,REG-25844
+Toyota,Corolla,Hybrid,CUST1781,Boston,49,6302.28,REG-78984
+Nissan,Murano,Hybrid,CUST8519,Miami,69,49344.73,REG-63236
+BMW,5 Series,Electric,CUST5520,Houston,46,78835.18,REG-61451
+Honda,Civic,Hybrid,CUST5020,Los Angeles,61,35144.74,REG-65445
+Hyundai,Santa Fe,Petrol,CUST5643,Denver,65,44991.14,REG-29798
+Audi,A3,Electric,CUST4857,Boston,54,55541.76,REG-98699
+Kia,Seltos,Electric,CUST5445,Chicago,40,4397.09,REG-30375
+Mercedes,GLA,Hybrid,CUST2206,Dallas,43,35643.65,REG-73887
+Kia,Seltos,Electric,CUST1097,Dallas,45,24927.99,REG-27068
+BMW,X5,Petrol,CUST7043,Chicago,32,36063.37,REG-62686
+Ford,Focus,Hybrid,CUST3850,New York,30,52125.37,REG-50103
+BMW,3 Series,Petrol,CUST1732,Los Angeles,66,11815.11,REG-36506
+Hyundai,Sonata,Diesel,CUST2672,Denver,43,8819.45,REG-86076
+Ford,Explorer,Hybrid,CUST4592,Dallas,59,69560.96,REG-12809
+Nissan,Altima,Electric,CUST5739,Seattle,45,19997.37,REG-42309
+Nissan,Rogue,Electric,CUST6395,Los Angeles,41,14804.83,REG-22192
+Nissan,Altima,Hybrid,CUST9480,San Francisco,32,29055.02,REG-86515
+Hyundai,Tucson,Electric,CUST1046,Seattle,20,71668.77,REG-58249
+Mercedes,GLA,Petrol,CUST5578,Chicago,58,39641.14,REG-80562
+Nissan,Sentra,Electric,CUST6584,San Francisco,49,36559.19,REG-99757
+Toyota,Corolla,Petrol,CUST4104,Houston,21,5280.6,REG-56141
+Audi,A4,Hybrid,CUST4661,San Francisco,45,50473.9,REG-41476
+Ford,Focus,Diesel,CUST8037,Houston,68,75334.78,REG-96291
+Nissan,Murano,Hybrid,CUST3950,Seattle,44,48217.21,REG-82569
+BMW,X5,Diesel,CUST6735,San Francisco,69,14380.49,REG-77837
+Ford,Escape,Electric,CUST6810,Miami,42,68533.57,REG-38922
+Mercedes,E-Class,Diesel,CUST5893,Boston,48,16380.17,REG-16716
+Ford,Fusion,Electric,CUST3184,Chicago,62,3021.58,REG-81116
+Ford,Fusion,Diesel,CUST7170,New York,41,42254.26,REG-24227
+Ford,Fusion,Hybrid,CUST6123,Dallas,41,18030.63,REG-22438
+Mercedes,E-Class,Electric,CUST4647,Houston,23,52887.9,REG-98149
+Chevrolet,Equinox,Electric,CUST7996,Dallas,33,71831.5,REG-19795
+Honda,Civic,Petrol,CUST2689,San Francisco,46,63190.89,REG-34370
+Honda,Pilot,Diesel,CUST4026,Boston,70,33658.5,REG-72075
+Kia,Soul,Diesel,CUST5286,Denver,69,3050.6,REG-43906
+Nissan,Altima,Petrol,CUST2511,Miami,54,35909.04,REG-16142
+Toyota,Corolla,Hybrid,CUST6353,Chicago,67,47944.26,REG-86545
+Mercedes,GLC,Electric,CUST7451,Denver,34,22735.71,REG-18636
+Honda,Civic,Hybrid,CUST8718,Boston,55,35135.84,REG-79972
+Hyundai,Tucson,Electric,CUST9221,Denver,23,42187.41,REG-83953
+Chevrolet,Equinox,Hybrid,CUST4145,San Francisco,58,19171.47,REG-35383
+Honda,Accord,Electric,CUST5899,Houston,53,84120.01,REG-62256
+Mercedes,C-Class,Diesel,CUST1213,Miami,36,28261.69,REG-87163
+Kia,Soul,Hybrid,CUST8051,Miami,25,67683.34,REG-15856
+BMW,3 Series,Hybrid,CUST3104,Dallas,42,6831.36,REG-94287
+Honda,Civic,Petrol,CUST4781,Chicago,43,3445.64,REG-77227
+Hyundai,Tucson,Electric,CUST2890,Seattle,49,5748.07,REG-54322
+Honda,CR-V,Electric,CUST1437,Los Angeles,57,39018.62,REG-31564
+Ford,Escape,Petrol,CUST5058,San Francisco,34,29708.14,REG-89028
+Chevrolet,Traverse,Petrol,CUST3752,San Francisco,49,46691.49,REG-94363
+Honda,Pilot,Hybrid,CUST5219,Seattle,68,11480.06,REG-22780
+Ford,Fusion,Diesel,CUST6069,Boston,58,57848.3,REG-66126
+Hyundai,Santa Fe,Diesel,CUST8996,Miami,49,40925.36,REG-44350
+Nissan,Sentra,Petrol,CUST1884,Miami,25,65895.12,REG-95782
+BMW,3 Series,Diesel,CUST1441,Los Angeles,62,67470.96,REG-84200
+BMW,X3,Petrol,CUST2687,Seattle,46,22370.24,REG-27819
+Toyota,Corolla,Hybrid,CUST8337,New York,54,21512.26,REG-65497
+Audi,A4,Hybrid,CUST4465,New York,43,22743.12,REG-16830
+Toyota,Camry,Hybrid,CUST8702,Miami,38,61962.42,REG-40328
+Nissan,Rogue,Diesel,CUST4157,San Francisco,43,61489.01,REG-45390
+Honda,Civic,Diesel,CUST9929,Boston,32,10458.24,REG-65083
+Chevrolet,Malibu,Diesel,CUST5653,Boston,34,11544.22,REG-77267
+Kia,Seltos,Electric,CUST1705,Miami,49,51851.49,REG-44302
+Hyundai,Tucson,Hybrid,CUST3045,Dallas,25,37858.57,REG-66265
+Mercedes,GLC,Diesel,CUST1303,Miami,63,20193.19,REG-71956
+Mercedes,GLA,Electric,CUST2696,Boston,62,32739.07,REG-14873
+Kia,Soul,Hybrid,CUST6914,San Francisco,47,6540.55,REG-14762
+Nissan,Murano,Hybrid,CUST7269,Denver,60,11381.94,REG-63220
+Nissan,Sentra,Petrol,CUST3002,Miami,38,81980.03,REG-59564
+Hyundai,Tucson,Petrol,CUST6807,New York,56,81280.06,REG-97642
+Honda,CR-V,Diesel,CUST9253,Seattle,69,22036.03,REG-42528
+Chevrolet,Tahoe,Electric,CUST2729,Houston,26,25565.14,REG-89035
+Kia,Soul,Hybrid,CUST3826,Dallas,68,15118.64,REG-88672
+Ford,Fusion,Petrol,CUST7870,Dallas,67,42966.74,REG-18239
+Nissan,Rogue,Hybrid,CUST7409,Miami,24,7053.72,REG-90882
+Mercedes,GLA,Hybrid,CUST6822,Houston,33,62015.25,REG-40880
+Chevrolet,Malibu,Diesel,CUST7613,Miami,61,31678.57,REG-70331
+Ford,Focus,Petrol,CUST3919,New York,29,80771.61,REG-47939
+BMW,5 Series,Diesel,CUST7184,Miami,48,51521.1,REG-74808
+Nissan,Murano,Hybrid,CUST4353,New York,28,56530.66,REG-69074
+Toyota,Camry,Electric,CUST8877,Miami,30,30882.75,REG-61477
+Mercedes,GLC,Electric,CUST5422,Boston,46,74421.9,REG-12776
+Honda,Accord,Hybrid,CUST7171,Chicago,68,47801.17,REG-13256
+Nissan,Rogue,Hybrid,CUST9085,Seattle,26,22442.09,REG-66416
+Mercedes,C-Class,Electric,CUST1550,Seattle,48,63728.16,REG-65370
+Ford,Focus,Electric,CUST4101,New York,38,47318.36,REG-59659
+Kia,Seltos,Hybrid,CUST8341,Seattle,53,68909.04,REG-83155
+Chevrolet,Tahoe,Hybrid,CUST6476,Chicago,56,47598.69,REG-50750
+Honda,CR-V,Diesel,CUST6826,Los Angeles,59,23350.35,REG-55407
+Audi,Q5,Electric,CUST9662,Seattle,41,17591.62,REG-46502
+Nissan,Murano,Petrol,CUST9480,Denver,39,4743.21,REG-65521
+Nissan,Sentra,Petrol,CUST5852,Miami,69,19589.16,REG-14481
+Kia,Sportage,Electric,CUST5139,Chicago,68,5592.45,REG-69395
+Toyota,Rav4,Petrol,CUST3418,Seattle,34,32943.98,REG-44500
+Mercedes,GLA,Petrol,CUST4334,Seattle,52,85018.24,REG-55271
+Chevrolet,Tahoe,Electric,CUST5901,Boston,61,65693.14,REG-44506
+Mercedes,E-Class,Petrol,CUST3029,Boston,34,64324.1,REG-42163
+Chevrolet,Equinox,Petrol,CUST4367,Boston,50,14729.17,REG-15663
+Honda,Accord,Hybrid,CUST7006,New York,20,30878.91,REG-82579
+Hyundai,Elantra,Hybrid,CUST9885,San Francisco,69,59776.36,REG-53118
+Chevrolet,Equinox,Diesel,CUST8100,New York,45,70094.36,REG-46729
+Mercedes,C-Class,Petrol,CUST6412,Denver,47,66013.57,REG-48983
+Mercedes,E-Class,Petrol,CUST5197,Dallas,32,68796.94,REG-70155
+Hyundai,Santa Fe,Petrol,CUST7877,Denver,27,44255.09,REG-76718
+Hyundai,Santa Fe,Electric,CUST4587,Boston,48,62487.8,REG-35521
+Toyota,Highlander,Petrol,CUST1237,Denver,55,79943.8,REG-33086
+BMW,3 Series,Hybrid,CUST8779,Los Angeles,59,12032.64,REG-53706
+Kia,Sportage,Electric,CUST8760,Chicago,25,48924.68,REG-55951
+Chevrolet,Malibu,Electric,CUST6172,Los Angeles,20,8965.35,REG-32382
+Audi,A4,Hybrid,CUST3423,Dallas,22,38240.82,REG-11181
+Honda,Pilot,Petrol,CUST7448,Boston,20,58802.33,REG-11035
+Toyota,Highlander,Electric,CUST4800,Chicago,50,7023.85,REG-69653
+Ford,Escape,Electric,CUST6290,New York,47,18142.74,REG-13268
+Toyota,Corolla,Diesel,CUST1919,Denver,34,78878.32,REG-21362
+Audi,Q7,Petrol,CUST6720,Houston,40,11912.64,REG-47938
+BMW,3 Series,Electric,CUST7617,Houston,25,43400.73,REG-54653
+Kia,Sorento,Diesel,CUST5695,New York,38,8070.41,REG-62405
+Chevrolet,Equinox,Diesel,CUST5164,Denver,31,65026.06,REG-11379
+Mercedes,E-Class,Diesel,CUST1755,Boston,18,82387.65,REG-54556
+Kia,Sorento,Petrol,CUST5991,Seattle,20,26952.56,REG-98351
+Toyota,Highlander,Diesel,CUST9548,Los Angeles,35,41960.67,REG-76543
+Ford,Escape,Diesel,CUST1545,Denver,19,54361.02,REG-82142
+Honda,Civic,Electric,CUST8969,New York,51,76496.92,REG-95698
+BMW,X5,Petrol,CUST9119,Denver,61,28885.58,REG-19291
+Ford,Fusion,Electric,CUST4723,Boston,38,35613.35,REG-88687
+Kia,Soul,Petrol,CUST9782,New York,39,65773.4,REG-31521
+Kia,Soul,Hybrid,CUST2131,Denver,63,22534.79,REG-17766
+Mercedes,GLA,Electric,CUST2103,Seattle,38,67185.94,REG-81947
+Audi,Q5,Electric,CUST8764,Dallas,57,8666.97,REG-55430
+Honda,CR-V,Electric,CUST7630,Boston,24,23381.49,REG-89232
+Hyundai,Elantra,Diesel,CUST8028,Houston,47,27557,REG-40467
+Mercedes,GLC,Diesel,CUST6823,Dallas,41,39332.64,REG-36356
+Ford,Fusion,Diesel,CUST6615,Dallas,69,62853.82,REG-60452
+Audi,Q7,Electric,CUST8524,Dallas,67,58499.09,REG-41191
+Nissan,Altima,Petrol,CUST4145,New York,64,8176.64,REG-93869
+Chevrolet,Malibu,Petrol,CUST7483,Miami,41,22397.59,REG-13729
+BMW,X5,Petrol,CUST7916,Miami,65,16228.03,REG-24109
+Honda,Pilot,Hybrid,CUST3996,Houston,53,26246.02,REG-25911
+Kia,Seltos,Diesel,CUST1597,Houston,18,51910.56,REG-96714
+Kia,Soul,Hybrid,CUST2816,Dallas,47,31502.59,REG-84092
+Mercedes,GLA,Petrol,CUST9250,Chicago,34,39587.43,REG-89171
+Hyundai,Tucson,Electric,CUST8441,Seattle,47,79630.52,REG-23804
+BMW,X3,Electric,CUST8386,Houston,26,5625.3,REG-84280
+Audi,A4,Diesel,CUST4160,Los Angeles,47,61140.28,REG-55508
+Hyundai,Santa Fe,Electric,CUST6146,Dallas,40,60859.02,REG-72105
+BMW,X3,Petrol,CUST2267,Los Angeles,41,6474.27,REG-38311
+Hyundai,Tucson,Diesel,CUST4631,San Francisco,48,61334.1,REG-40602
+Ford,Fusion,Hybrid,CUST3072,Chicago,47,25717.27,REG-47251
+Toyota,Corolla,Hybrid,CUST1746,Denver,33,44013.95,REG-87188
+Ford,Fusion,Petrol,CUST3536,Dallas,66,35935.11,REG-73983
+BMW,5 Series,Diesel,CUST6006,Seattle,46,21126.32,REG-59847
+Ford,Fusion,Diesel,CUST9123,San Francisco,44,44557.11,REG-45820
+Hyundai,Tucson,Diesel,CUST4678,Chicago,67,37610.16,REG-46536
+Kia,Sorento,Hybrid,CUST8382,Chicago,58,5023,REG-44180
+Hyundai,Elantra,Electric,CUST2611,Chicago,51,33360.43,REG-85918
+Nissan,Rogue,Electric,CUST2454,Seattle,57,39170.7,REG-17622
+Chevrolet,Malibu,Hybrid,CUST7007,New York,27,49792.82,REG-31227
+Honda,Civic,Hybrid,CUST5001,Chicago,47,66294.68,REG-68128
+Chevrolet,Tahoe,Diesel,CUST1620,Seattle,58,38379.89,REG-53671
+Toyota,Camry,Diesel,CUST9425,Houston,55,24427.31,REG-90872
+Honda,Accord,Hybrid,CUST2692,New York,70,80043.09,REG-99152
+Hyundai,Elantra,Hybrid,CUST3882,Boston,66,73834.71,REG-13799
+Honda,Pilot,Electric,CUST2826,Dallas,54,42255.9,REG-29182
+Kia,Soul,Electric,CUST4306,Chicago,64,51993.54,REG-24586
+BMW,5 Series,Hybrid,CUST2979,Denver,55,69682.75,REG-78450
+Mercedes,GLA,Hybrid,CUST7776,New York,58,9343.72,REG-52380
+BMW,X3,Petrol,CUST5429,Seattle,38,81164.32,REG-76564
+BMW,5 Series,Petrol,CUST6702,Denver,18,39016.86,REG-73332
+Hyundai,Tucson,Petrol,CUST5891,New York,61,7066.85,REG-45043
+Audi,A4,Diesel,CUST3005,Boston,64,24983.08,REG-14742
+Audi,Q5,Petrol,CUST2588,San Francisco,49,26580.72,REG-58044
+BMW,X5,Diesel,CUST1065,Miami,28,61126.18,REG-77857
+Mercedes,GLA,Petrol,CUST4475,Boston,22,27034.95,REG-55128
+Audi,Q7,Electric,CUST4475,San Francisco,49,16543.04,REG-10708
+Chevrolet,Equinox,Diesel,CUST3437,Dallas,40,43938.85,REG-41876
+Audi,Q7,Electric,CUST8517,Houston,43,23608.21,REG-64684
+Ford,Explorer,Diesel,CUST8572,Dallas,40,9135.44,REG-10347
+Chevrolet,Traverse,Diesel,CUST9149,Los Angeles,53,75746.27,REG-75898
+Ford,Fusion,Petrol,CUST2909,Denver,63,23352.94,REG-32283
+Honda,Accord,Electric,CUST9604,Chicago,42,70106.78,REG-45450
+Honda,Accord,Petrol,CUST6401,Los Angeles,27,43217.98,REG-85093
+Nissan,Rogue,Hybrid,CUST6590,Miami,28,23641.45,REG-22036
+Ford,Fusion,Electric,CUST2727,San Francisco,61,53648.65,REG-20914
+Honda,Accord,Diesel,CUST9751,Dallas,67,72300.05,REG-72374
+Hyundai,Elantra,Petrol,CUST9439,New York,56,48280.94,REG-10167
+Nissan,Rogue,Hybrid,CUST8584,Boston,48,36285.59,REG-96652
+Mercedes,GLC,Diesel,CUST1453,Dallas,59,83643.99,REG-56590
+Chevrolet,Traverse,Diesel,CUST8771,Boston,37,30932.58,REG-81261
+BMW,X3,Petrol,CUST8859,Chicago,63,50111.63,REG-32136
+Toyota,Camry,Hybrid,CUST6202,Miami,58,20680.88,REG-33428
+BMW,X3,Electric,CUST8516,San Francisco,56,17180.82,REG-25894
+Ford,Escape,Diesel,CUST6396,Houston,68,78540.89,REG-92900
+Audi,Q7,Hybrid,CUST6552,Boston,65,83764.33,REG-51961
+Audi,Q5,Petrol,CUST2403,San Francisco,25,43271.37,REG-13486
+Ford,Focus,Hybrid,CUST6057,Los Angeles,66,31526.26,REG-86147
+Chevrolet,Malibu,Electric,CUST5781,Dallas,28,61663.78,REG-84250
+Honda,Accord,Hybrid,CUST5109,San Francisco,66,68886.32,REG-98183
+Chevrolet,Traverse,Hybrid,CUST9814,Denver,19,38755.4,REG-71054
+Toyota,Corolla,Electric,CUST2145,Dallas,52,16871.37,REG-66621
+BMW,X3,Diesel,CUST9069,San Francisco,32,33228.2,REG-22015
+Honda,Pilot,Electric,CUST7602,Chicago,42,49196.12,REG-60210
+BMW,X3,Petrol,CUST1694,Boston,29,78534.61,REG-54079
+Toyota,Camry,Hybrid,CUST9848,Chicago,30,30548.44,REG-11203
+Kia,Sportage,Electric,CUST1320,Los Angeles,29,25354.01,REG-51013
+Chevrolet,Tahoe,Petrol,CUST8052,Los Angeles,68,56185.41,REG-99565
+Kia,Soul,Petrol,CUST1431,Boston,21,65643.43,REG-49771
+Kia,Sorento,Petrol,CUST5218,Seattle,56,75481.71,REG-99083
+Honda,Civic,Diesel,CUST2611,Boston,52,66843.86,REG-22772
+Audi,Q5,Hybrid,CUST3998,Seattle,54,10496.8,REG-11342
+Nissan,Altima,Diesel,CUST5084,Seattle,23,3188.42,REG-48034
+Ford,Escape,Diesel,CUST4159,San Francisco,53,5496.62,REG-47696
+BMW,X3,Electric,CUST3114,Boston,23,49751.72,REG-77513
+Mercedes,GLC,Petrol,CUST1614,Seattle,50,68232.07,REG-99611
+BMW,X5,Diesel,CUST6626,Seattle,23,57663.69,REG-80202
+Toyota,Rav4,Diesel,CUST7827,Dallas,31,28966.72,REG-72615
+Ford,Escape,Hybrid,CUST6068,New York,57,46233.2,REG-41151
+Ford,Fusion,Electric,CUST2710,Los Angeles,58,70658.82,REG-74827
+Mercedes,E-Class,Diesel,CUST7384,San Francisco,31,81257.95,REG-58575
+Ford,Explorer,Diesel,CUST3959,Denver,70,50289.1,REG-51398
+Hyundai,Sonata,Diesel,CUST6427,Seattle,24,13775.79,REG-93487
+Honda,CR-V,Petrol,CUST3483,Boston,66,47813.65,REG-82109
+Chevrolet,Malibu,Diesel,CUST8932,San Francisco,58,71399.37,REG-58606
+Chevrolet,Malibu,Hybrid,CUST4176,Los Angeles,26,80972.39,REG-61111
+Ford,Focus,Petrol,CUST5424,Los Angeles,60,69834.66,REG-18588
+Kia,Soul,Petrol,CUST6946,Seattle,28,31119.8,REG-13504
+Chevrolet,Tahoe,Electric,CUST8772,Chicago,63,62441.59,REG-77817
+Hyundai,Elantra,Petrol,CUST9608,New York,48,52032.05,REG-93238
+Toyota,Camry,Diesel,CUST1352,Miami,47,33493.23,REG-82960
+Hyundai,Tucson,Hybrid,CUST1891,Dallas,69,24789.44,REG-90825
+Ford,Focus,Petrol,CUST5372,Los Angeles,55,74264.71,REG-64320
+Kia,Sportage,Electric,CUST7687,San Francisco,38,32252.85,REG-29314
+Mercedes,GLC,Hybrid,CUST9273,Miami,60,38644.3,REG-61072
+Kia,Sportage,Diesel,CUST8438,Boston,53,34883.79,REG-49804
+Audi,A4,Diesel,CUST8642,Los Angeles,64,8158.76,REG-76049
+BMW,5 Series,Diesel,CUST9586,Miami,33,56667.57,REG-27468
+Kia,Soul,Electric,CUST7288,Boston,38,2095.81,REG-55878
+Nissan,Sentra,Electric,CUST4518,Houston,56,83837.23,REG-52527
+Hyundai,Elantra,Petrol,CUST6913,Boston,41,69593.51,REG-33805
+Nissan,Murano,Electric,CUST9706,San Francisco,50,59185.27,REG-66293
+Audi,Q5,Electric,CUST6095,Los Angeles,57,52779.63,REG-40838
+Ford,Escape,Diesel,CUST1993,Houston,25,30686.36,REG-49771
+Honda,Accord,Diesel,CUST8672,Chicago,64,50664.72,REG-84005
+Nissan,Murano,Petrol,CUST6174,Chicago,24,5670.85,REG-42670
+Honda,Civic,Hybrid,CUST1887,Chicago,32,53952.16,REG-42371
+Mercedes,E-Class,Hybrid,CUST5973,Chicago,65,35298.79,REG-54383
+Audi,A3,Hybrid,CUST2948,San Francisco,19,52176.64,REG-57992
+Honda,CR-V,Diesel,CUST6268,Seattle,36,47092.69,REG-14337
+Hyundai,Tucson,Petrol,CUST2321,Miami,55,34061.99,REG-24862
+Ford,Explorer,Petrol,CUST6185,Houston,41,16466.15,REG-54894
+Chevrolet,Traverse,Electric,CUST7232,Boston,18,65952.51,REG-94714
+Chevrolet,Equinox,Electric,CUST9096,New York,47,27564.81,REG-73487
+Honda,CR-V,Electric,CUST5447,Los Angeles,63,80974.46,REG-79629
+Audi,A4,Hybrid,CUST4570,Dallas,22,33460.03,REG-21242
+Mercedes,GLC,Petrol,CUST7035,Chicago,52,4811.08,REG-44054
+Audi,A4,Petrol,CUST5130,Miami,46,55213.4,REG-87726
+Nissan,Murano,Diesel,CUST5193,San Francisco,70,46767.84,REG-42466
+Audi,Q5,Hybrid,CUST2133,San Francisco,47,17981.19,REG-47485
+Mercedes,E-Class,Electric,CUST1823,Denver,70,70227.44,REG-38178
+Nissan,Rogue,Hybrid,CUST4390,Denver,53,4388.59,REG-21573
+Toyota,Highlander,Petrol,CUST1269,Dallas,53,54397.99,REG-91081
+BMW,5 Series,Petrol,CUST3328,Boston,25,2713.05,REG-82576
+Honda,Pilot,Hybrid,CUST5966,Miami,54,70057.95,REG-66740
+Toyota,Camry,Electric,CUST2053,Chicago,64,5182.12,REG-92524
+BMW,X3,Petrol,CUST8817,Boston,29,74283.7,REG-32832
+Nissan,Rogue,Electric,CUST9677,Houston,35,82099.12,REG-68891
+Mercedes,GLA,Electric,CUST9592,San Francisco,25,21123.68,REG-22532
+BMW,X5,Hybrid,CUST1552,Houston,33,35689.27,REG-14326
+Audi,Q5,Electric,CUST8691,Denver,50,30235.91,REG-96230
+Ford,Explorer,Hybrid,CUST7054,New York,63,63455.33,REG-34434
+BMW,5 Series,Hybrid,CUST1853,New York,70,67629.58,REG-44129
+Kia,Sorento,Diesel,CUST1739,Chicago,53,54294.01,REG-59941
+Chevrolet,Tahoe,Petrol,CUST9085,Boston,64,50438.67,REG-55559
+BMW,X3,Petrol,CUST2199,Boston,32,51750.14,REG-56874
+Audi,A3,Diesel,CUST2879,New York,54,34305.63,REG-10023
+Hyundai,Elantra,Petrol,CUST7742,Boston,67,3924.62,REG-70511
+Nissan,Murano,Petrol,CUST6208,New York,57,27630.9,REG-40222
+Chevrolet,Malibu,Diesel,CUST9963,Los Angeles,62,30350.19,REG-49593
+Honda,Accord,Hybrid,CUST9115,Seattle,46,75444.87,REG-18577
+Hyundai,Santa Fe,Hybrid,CUST8087,Denver,51,34251.78,REG-68306
+Chevrolet,Equinox,Hybrid,CUST8630,San Francisco,31,23154.44,REG-83534
+Toyota,Camry,Electric,CUST9620,Los Angeles,22,60180.34,REG-56156
+BMW,3 Series,Hybrid,CUST1896,Miami,64,10282.65,REG-15880
+Mercedes,GLC,Petrol,CUST4338,Boston,67,9569.72,REG-22532
+Audi,Q5,Hybrid,CUST6176,Boston,57,58552.14,REG-73521
+BMW,X5,Electric,CUST5841,Boston,53,77876.2,REG-86895
+Ford,Explorer,Hybrid,CUST5612,New York,59,57708.32,REG-28513
+BMW,5 Series,Hybrid,CUST2450,Denver,68,79487.1,REG-41799
+Chevrolet,Traverse,Hybrid,CUST7840,Dallas,51,13698.88,REG-82327
+Mercedes,E-Class,Petrol,CUST1192,Houston,20,41449.61,REG-14204
+Ford,Fusion,Electric,CUST5317,Los Angeles,51,48246.25,REG-81910
+Ford,Explorer,Diesel,CUST7955,Boston,43,66781.91,REG-70577
+Honda,CR-V,Diesel,CUST3164,Chicago,52,37555.48,REG-34162
+Honda,Accord,Electric,CUST8669,Dallas,42,5025.98,REG-86564
+Honda,CR-V,Electric,CUST5085,Miami,18,51526.97,REG-14655
+Honda,CR-V,Petrol,CUST2092,Dallas,58,74714.4,REG-48316
+Nissan,Rogue,Electric,CUST1629,Boston,28,80663.21,REG-47316
+Audi,A4,Diesel,CUST6049,Boston,39,48409.3,REG-49714
+Chevrolet,Malibu,Hybrid,CUST5648,Dallas,35,7292.4,REG-27931
+Audi,A3,Hybrid,CUST1080,Houston,49,12851.96,REG-96126
+Honda,CR-V,Diesel,CUST1252,San Francisco,35,34098.93,REG-83599
+Audi,Q5,Hybrid,CUST9127,Chicago,22,78980.11,REG-41400
+Honda,CR-V,Petrol,CUST1011,Boston,59,50716.23,REG-89164
+Honda,CR-V,Hybrid,CUST8535,Chicago,32,47510.41,REG-88103
+Nissan,Altima,Diesel,CUST9780,Dallas,26,43071.05,REG-74123
+Ford,Escape,Hybrid,CUST9358,Boston,51,75384.65,REG-90035
+Toyota,Corolla,Electric,CUST3564,Seattle,54,44939.98,REG-46199
+Ford,Fusion,Petrol,CUST7362,Houston,39,61016.71,REG-22804
+Chevrolet,Malibu,Hybrid,CUST5911,San Francisco,70,51759.05,REG-96002
+Ford,Focus,Electric,CUST9446,San Francisco,52,63466.05,REG-40127
+Mercedes,E-Class,Diesel,CUST3309,New York,38,48891.12,REG-30245
+Audi,Q7,Electric,CUST6565,New York,61,79453.08,REG-73482
+Nissan,Murano,Electric,CUST6286,Denver,30,31714.04,REG-46840
+Nissan,Altima,Petrol,CUST5480,Chicago,61,36717.63,REG-11842
+Hyundai,Santa Fe,Electric,CUST7165,Seattle,33,57900.12,REG-30139
+Kia,Sorento,Electric,CUST1482,Seattle,41,26603.38,REG-11425
+BMW,3 Series,Petrol,CUST4769,Houston,61,20901.78,REG-24272
+Mercedes,GLA,Electric,CUST1660,San Francisco,39,51253.69,REG-32094
+Kia,Sorento,Hybrid,CUST8140,Boston,63,84257.22,REG-57022
+Chevrolet,Equinox,Hybrid,CUST8333,Dallas,18,32913.5,REG-42425
+Kia,Seltos,Electric,CUST8136,San Francisco,37,69080.09,REG-37166
+Chevrolet,Tahoe,Petrol,CUST1089,Los Angeles,36,83872.65,REG-13429
+Audi,Q5,Electric,CUST6816,New York,27,55526.38,REG-23654
+BMW,X5,Electric,CUST1992,San Francisco,60,36464.63,REG-78858
+BMW,3 Series,Electric,CUST8491,Los Angeles,21,8388.55,REG-79382
+Ford,Focus,Hybrid,CUST2339,Houston,66,34881.99,REG-67975
+Nissan,Altima,Petrol,CUST5515,Boston,28,24640.93,REG-24027
+Mercedes,GLA,Petrol,CUST8923,Miami,66,77838.23,REG-14434
+Ford,Fusion,Diesel,CUST8688,Chicago,22,82353.96,REG-83478
+Honda,Civic,Electric,CUST2692,San Francisco,39,8370.08,REG-29655
+Honda,CR-V,Electric,CUST8257,Boston,69,68463.94,REG-44797
+Kia,Seltos,Petrol,CUST1000,Seattle,28,20019.09,REG-38087
+Audi,A3,Electric,CUST9519,Los Angeles,44,16109.08,REG-65112
+Audi,Q7,Petrol,CUST1579,Seattle,43,54031.29,REG-51611
+Chevrolet,Equinox,Hybrid,CUST9310,San Francisco,61,10200.16,REG-30288
+Honda,Civic,Petrol,CUST7218,Chicago,70,34477.68,REG-75211
+Chevrolet,Equinox,Electric,CUST4634,Houston,62,62177.24,REG-59132
+Chevrolet,Tahoe,Diesel,CUST2802,Seattle,29,45983.13,REG-88301
+Chevrolet,Traverse,Diesel,CUST3034,Dallas,31,47505.49,REG-52679
+Honda,CR-V,Petrol,CUST1489,Houston,28,48894.11,REG-55471
+Mercedes,E-Class,Petrol,CUST9553,New York,42,71700.23,REG-49502
+Ford,Explorer,Diesel,CUST1567,New York,55,82316.87,REG-78052
+Nissan,Altima,Diesel,CUST3338,Los Angeles,58,11352.26,REG-95867
+Audi,Q5,Petrol,CUST4772,Seattle,59,54774.96,REG-57390
+Kia,Soul,Electric,CUST9451,Seattle,60,42205.57,REG-30537
+Hyundai,Santa Fe,Petrol,CUST5548,San Francisco,62,59596.21,REG-63102
+Kia,Sorento,Diesel,CUST1091,Seattle,63,72615.15,REG-14988
+Nissan,Sentra,Petrol,CUST7445,Dallas,58,73297.46,REG-47685
+Chevrolet,Traverse,Petrol,CUST1255,Miami,57,55870.37,REG-13910
+Audi,Q5,Diesel,CUST1469,Denver,18,34362.77,REG-43138
+Hyundai,Elantra,Diesel,CUST1451,Chicago,53,23249.94,REG-33818
+Audi,Q5,Diesel,CUST9127,Houston,35,81803.95,REG-92527
+Chevrolet,Tahoe,Diesel,CUST5471,Denver,44,13715.13,REG-43435
+Toyota,Highlander,Electric,CUST2462,Denver,44,72520.31,REG-38769
+Toyota,Camry,Petrol,CUST8968,Denver,70,67681.7,REG-97108
+Nissan,Sentra,Petrol,CUST3115,Seattle,57,9835.41,REG-59104
+Nissan,Murano,Hybrid,CUST3164,Denver,41,54117.25,REG-46553
+BMW,X5,Electric,CUST1299,Boston,46,14832.77,REG-59050
+Toyota,Highlander,Hybrid,CUST6052,Miami,56,62229.49,REG-79102
+Chevrolet,Tahoe,Petrol,CUST5603,Miami,49,67092.29,REG-57938
+Mercedes,GLA,Hybrid,CUST1718,Dallas,32,32577.05,REG-77709
+Toyota,Highlander,Petrol,CUST3210,Boston,51,78375.63,REG-16965
+Audi,Q7,Electric,CUST5273,Miami,54,37088.28,REG-20939
+Mercedes,E-Class,Diesel,CUST1522,Houston,58,33380.8,REG-19508
+Hyundai,Sonata,Petrol,CUST5823,Boston,57,71050.29,REG-91223
+Honda,Accord,Electric,CUST9948,Boston,21,46755.04,REG-93510
+Chevrolet,Traverse,Electric,CUST9891,San Francisco,66,13597.14,REG-97682
+Mercedes,GLC,Petrol,CUST8833,Miami,40,67082.5,REG-88550
+Hyundai,Santa Fe,Hybrid,CUST5829,San Francisco,28,69316.02,REG-48224
+Chevrolet,Equinox,Diesel,CUST5207,Miami,24,39836.89,REG-27623
+Hyundai,Tucson,Electric,CUST6590,Seattle,56,50046.75,REG-66081
+Chevrolet,Malibu,Electric,CUST3216,Seattle,24,11569.97,REG-46073
+Honda,Civic,Petrol,CUST6564,Houston,69,65968.69,REG-47502
+Kia,Sportage,Electric,CUST2328,Miami,70,83357.1,REG-18087
+Audi,A4,Electric,CUST5653,New York,54,40609.04,REG-68373
+Mercedes,E-Class,Hybrid,CUST1250,Houston,58,3838.04,REG-19038
+Kia,Sportage,Electric,CUST5102,Denver,60,4284.54,REG-93256
+Hyundai,Tucson,Hybrid,CUST4245,Houston,48,62198.64,REG-90608
+Chevrolet,Traverse,Hybrid,CUST5730,New York,34,76143.37,REG-57964
+Toyota,Highlander,Diesel,CUST4971,Houston,28,79764.37,REG-52765
+Chevrolet,Equinox,Hybrid,CUST1698,Chicago,21,40252.36,REG-33001
+Chevrolet,Malibu,Diesel,CUST8969,Los Angeles,29,19931.53,REG-75120
+Hyundai,Tucson,Petrol,CUST7097,San Francisco,50,18487.04,REG-98485
+Toyota,Camry,Petrol,CUST6318,Miami,27,8075.74,REG-94921
+Mercedes,GLA,Hybrid,CUST1445,Houston,24,69789.03,REG-96797
+Mercedes,C-Class,Hybrid,CUST2858,Seattle,66,51327.12,REG-47398
+Kia,Sorento,Electric,CUST6895,Houston,61,65585.46,REG-72277
+Honda,CR-V,Electric,CUST2431,Miami,38,4342.74,REG-93395
+Honda,CR-V,Diesel,CUST2250,Dallas,18,73307.25,REG-74415
+Nissan,Murano,Diesel,CUST5436,Dallas,61,63435.6,REG-11008
+Chevrolet,Tahoe,Hybrid,CUST1125,Chicago,30,39786.18,REG-91297
+Mercedes,E-Class,Electric,CUST9222,Dallas,70,58212.79,REG-77027
+Chevrolet,Malibu,Hybrid,CUST5784,Boston,52,61469.84,REG-14223
+Ford,Explorer,Hybrid,CUST8298,New York,51,82094.89,REG-65523
+Toyota,Corolla,Hybrid,CUST9501,San Francisco,27,54907.3,REG-15125
+Audi,Q7,Electric,CUST7121,Denver,52,71259.49,REG-81271
+BMW,3 Series,Diesel,CUST1042,Seattle,68,68777.75,REG-33524
+Ford,Fusion,Electric,CUST1461,Denver,39,40695.74,REG-76058
+Mercedes,E-Class,Diesel,CUST1044,Houston,47,19040.28,REG-94091
+Mercedes,C-Class,Diesel,CUST7615,New York,62,49802.74,REG-31006
+Audi,A4,Hybrid,CUST9753,Houston,52,33942.97,REG-61080
+BMW,3 Series,Electric,CUST6240,Dallas,26,84521.05,REG-48345
+Chevrolet,Traverse,Petrol,CUST9391,Los Angeles,23,29083.98,REG-50979
+Ford,Explorer,Petrol,CUST8240,New York,53,73427.51,REG-11915
+Chevrolet,Malibu,Petrol,CUST9469,Houston,26,3654.83,REG-96730
+BMW,X5,Hybrid,CUST7040,Houston,27,71654.65,REG-30059
+Kia,Sorento,Hybrid,CUST4946,San Francisco,69,85236.41,REG-72419
+Toyota,Rav4,Diesel,CUST6546,New York,56,15529.33,REG-22798
+Kia,Seltos,Petrol,CUST2312,San Francisco,70,83465.21,REG-76592
+Ford,Escape,Hybrid,CUST6855,Chicago,53,9856.56,REG-37909
+Chevrolet,Traverse,Electric,CUST2224,San Francisco,43,21025.84,REG-39599
+Chevrolet,Malibu,Diesel,CUST4722,Miami,42,80754.71,REG-63603
+BMW,X5,Petrol,CUST4364,Houston,26,24340.2,REG-88787
+Hyundai,Santa Fe,Diesel,CUST5978,Chicago,58,37405.76,REG-98557
+Chevrolet,Equinox,Hybrid,CUST2816,Seattle,57,30281.41,REG-76407
+Ford,Escape,Hybrid,CUST6452,Boston,39,31097,REG-15108
+Nissan,Murano,Petrol,CUST6002,Miami,39,21751.01,REG-46132
+Mercedes,C-Class,Hybrid,CUST2998,Boston,70,8997.36,REG-44761
+BMW,X5,Electric,CUST7721,Boston,62,53702.3,REG-16809
+Nissan,Rogue,Diesel,CUST5145,Los Angeles,68,59943.28,REG-28339
+Audi,A3,Electric,CUST2922,San Francisco,44,35856.96,REG-54258
+Honda,Civic,Diesel,CUST9160,Los Angeles,20,46377.81,REG-71258
+Kia,Sorento,Hybrid,CUST5640,Miami,42,24569.33,REG-37377
+Hyundai,Santa Fe,Electric,CUST1009,Seattle,59,73936.54,REG-47545
+BMW,X5,Petrol,CUST1836,Chicago,48,38027.52,REG-36070
+Audi,A3,Hybrid,CUST9253,Dallas,43,57157.35,REG-53007
+Mercedes,GLC,Hybrid,CUST5956,Los Angeles,26,75619.27,REG-90147
+Nissan,Sentra,Diesel,CUST7832,Boston,23,79774.04,REG-27744
+Kia,Sportage,Diesel,CUST3468,Dallas,28,75527.98,REG-25787
+Kia,Sportage,Diesel,CUST8824,Dallas,39,50711.23,REG-39115
+Mercedes,E-Class,Petrol,CUST3082,Miami,46,63428.19,REG-57597
+BMW,X3,Petrol,CUST2842,Houston,32,13951.68,REG-60009
+Honda,CR-V,Petrol,CUST3368,New York,65,11096.93,REG-54264
+Honda,Accord,Electric,CUST8859,Dallas,20,72406.22,REG-30008
+Nissan,Rogue,Electric,CUST4834,Miami,30,69357.67,REG-38153
+Mercedes,C-Class,Petrol,CUST5562,Houston,25,9647.09,REG-76188
+Ford,Escape,Electric,CUST8993,New York,38,57294.37,REG-11413
+Honda,Pilot,Hybrid,CUST6276,Los Angeles,40,49414.34,REG-88082
+Audi,A3,Hybrid,CUST9426,Boston,55,52995.68,REG-62361
+Chevrolet,Tahoe,Petrol,CUST9176,New York,66,22009.96,REG-97473
+Chevrolet,Tahoe,Petrol,CUST7372,Seattle,19,76745.87,REG-48187
+Ford,Escape,Diesel,CUST7243,Seattle,68,68616.38,REG-54889
+Honda,CR-V,Petrol,CUST3498,Chicago,51,6158.55,REG-22790
+Nissan,Sentra,Electric,CUST7722,Los Angeles,49,23559.68,REG-77019
+Kia,Soul,Electric,CUST8846,Miami,41,64450.1,REG-62926
+Kia,Soul,Petrol,CUST6735,Houston,37,18664.24,REG-64852
+Chevrolet,Tahoe,Petrol,CUST1278,Los Angeles,44,60934.36,REG-71448
+Kia,Sportage,Electric,CUST7264,Chicago,59,20312.15,REG-37620
+Chevrolet,Equinox,Electric,CUST9117,Chicago,31,50409.61,REG-93661
+Hyundai,Tucson,Petrol,CUST8210,Chicago,24,47693.53,REG-36135
+Ford,Escape,Electric,CUST2221,Denver,41,3266.6,REG-89492
+Honda,Civic,Electric,CUST9271,Miami,62,5901.54,REG-29276
+Audi,Q7,Petrol,CUST2255,Seattle,20,31902.78,REG-52183
+Audi,Q5,Petrol,CUST7235,Chicago,60,69027.28,REG-89950
+Ford,Fusion,Electric,CUST6498,Seattle,18,29383,REG-89278
+Kia,Sportage,Hybrid,CUST9401,Houston,67,79761.94,REG-80954
+Toyota,Highlander,Diesel,CUST8345,Seattle,34,43347.79,REG-60230
+BMW,5 Series,Diesel,CUST3796,Dallas,30,39171.41,REG-15225
+Ford,Fusion,Petrol,CUST9074,Miami,31,34623.82,REG-99769
+Chevrolet,Traverse,Diesel,CUST4234,Los Angeles,25,78890.9,REG-66911
+Chevrolet,Equinox,Electric,CUST9117,Miami,41,1939.29,REG-41636
+Audi,Q7,Petrol,CUST3566,Dallas,56,63045.49,REG-15749
+Ford,Escape,Petrol,CUST4525,San Francisco,18,79384.45,REG-92940
+Audi,Q5,Diesel,CUST7410,Miami,64,36355.24,REG-89356
+Chevrolet,Malibu,Electric,CUST1012,Seattle,36,80834.7,REG-23042
+Mercedes,C-Class,Hybrid,CUST2579,Chicago,32,59901.04,REG-74369
+Kia,Sorento,Petrol,CUST5031,Chicago,54,41760.35,REG-53976
+Hyundai,Santa Fe,Diesel,CUST8888,Seattle,58,38373.26,REG-44947
+Toyota,Camry,Electric,CUST9334,Boston,61,48786.16,REG-48148
+BMW,5 Series,Electric,CUST8983,Miami,70,81857.81,REG-54573
+Chevrolet,Traverse,Hybrid,CUST6720,Boston,69,38808.42,REG-74959
+Audi,A4,Diesel,CUST4970,Chicago,38,67900.01,REG-11669
+Nissan,Sentra,Electric,CUST3008,Chicago,59,16757.08,REG-46819
+Chevrolet,Traverse,Electric,CUST4683,New York,54,17672.65,REG-35513
+Hyundai,Elantra,Petrol,CUST9068,Houston,52,33256.41,REG-41283
+Chevrolet,Traverse,Diesel,CUST2270,Dallas,40,17024.74,REG-71410
+Kia,Seltos,Petrol,CUST5093,Houston,42,21672.44,REG-31921
+Audi,A3,Petrol,CUST9611,Boston,68,39945.08,REG-85016
+Honda,Civic,Electric,CUST8049,Miami,57,78820.74,REG-65337
+Hyundai,Elantra,Petrol,CUST3868,San Francisco,68,3277.03,REG-98802
+Honda,Civic,Hybrid,CUST9014,Dallas,33,18269.1,REG-55023
+Hyundai,Tucson,Hybrid,CUST8377,Chicago,62,55358.93,REG-72610
+Kia,Soul,Hybrid,CUST1148,Denver,51,31949.81,REG-14567
+BMW,3 Series,Electric,CUST3978,Los Angeles,45,36081.1,REG-92181
+BMW,X5,Petrol,CUST9461,Los Angeles,19,17368.14,REG-36255
+Chevrolet,Equinox,Hybrid,CUST4382,Boston,18,45912.09,REG-28182
+BMW,5 Series,Diesel,CUST2834,Seattle,31,28116.04,REG-96937
+Hyundai,Santa Fe,Electric,CUST7301,Dallas,55,68977.61,REG-58676
+Mercedes,GLA,Petrol,CUST3193,Denver,58,55720.24,REG-14522
+Mercedes,GLA,Hybrid,CUST2830,San Francisco,51,76179.22,REG-89462
+Ford,Focus,Diesel,CUST3693,Miami,67,56586.61,REG-35983
+Hyundai,Santa Fe,Diesel,CUST2820,Boston,57,62604.5,REG-86256
+BMW,X3,Petrol,CUST1715,New York,53,42286.94,REG-50239
+BMW,5 Series,Petrol,CUST7560,Los Angeles,46,26272.56,REG-83719
+Honda,CR-V,Hybrid,CUST8010,Miami,52,28486.6,REG-34674
+Hyundai,Santa Fe,Petrol,CUST6605,Seattle,55,34825.26,REG-32175
+Audi,A4,Electric,CUST3326,San Francisco,53,21201.69,REG-98967
+Nissan,Altima,Diesel,CUST2092,Boston,29,54280.1,REG-69472
+Hyundai,Santa Fe,Petrol,CUST4747,Chicago,24,10469.3,REG-34417
+Honda,Accord,Electric,CUST2947,New York,48,66062.58,REG-15792
+Kia,Sportage,Petrol,CUST8728,Boston,40,55869.34,REG-60310
+Kia,Soul,Diesel,CUST3003,New York,67,66749.76,REG-59622
+Audi,Q7,Electric,CUST1353,Boston,25,40763.59,REG-64939
+Hyundai,Tucson,Diesel,CUST7302,Denver,65,74562.25,REG-58682
+Chevrolet,Tahoe,Electric,CUST3434,Boston,40,13313.53,REG-42450
+Honda,Civic,Petrol,CUST5949,New York,47,64625.35,REG-70801
+Nissan,Rogue,Diesel,CUST9853,Miami,43,13389.56,REG-82826
+Nissan,Murano,Petrol,CUST1171,Denver,47,46597.01,REG-75147
+Chevrolet,Traverse,Petrol,CUST2195,Miami,42,71254.29,REG-83276
+Chevrolet,Equinox,Electric,CUST5064,Miami,51,54008.67,REG-91391
+Toyota,Camry,Hybrid,CUST4997,San Francisco,36,18563.16,REG-44352
+Hyundai,Elantra,Diesel,CUST3913,New York,24,63122.25,REG-75397
+Chevrolet,Traverse,Petrol,CUST8756,Denver,62,7890.46,REG-14934
+Hyundai,Santa Fe,Petrol,CUST4095,Boston,56,60322.14,REG-98515
+Ford,Fusion,Hybrid,CUST2778,Dallas,55,52408.96,REG-96322
+Nissan,Sentra,Petrol,CUST3251,San Francisco,53,34895.98,REG-85821
+Toyota,Rav4,Hybrid,CUST9625,Miami,24,31103.3,REG-75153
+BMW,3 Series,Diesel,CUST6332,San Francisco,68,78848.43,REG-27372
+BMW,X5,Diesel,CUST5019,Seattle,27,42102.05,REG-80810
+Ford,Explorer,Hybrid,CUST6169,Seattle,33,11097.23,REG-55435
+Audi,A4,Hybrid,CUST2214,Los Angeles,58,10493.2,REG-52154
+BMW,5 Series,Electric,CUST5360,Los Angeles,58,73154.94,REG-28777
+Hyundai,Tucson,Electric,CUST7801,Los Angeles,20,16747.84,REG-63644
+Mercedes,E-Class,Petrol,CUST7600,Dallas,64,17569.83,REG-71259
+Toyota,Highlander,Diesel,CUST3957,San Francisco,57,77279.92,REG-94642
+Hyundai,Tucson,Petrol,CUST7550,Dallas,24,17766.12,REG-64859
+Chevrolet,Tahoe,Petrol,CUST4866,Dallas,59,84085.76,REG-77635
+BMW,3 Series,Hybrid,CUST9189,Seattle,62,59780.35,REG-80454
+Chevrolet,Malibu,Petrol,CUST4241,Seattle,22,11094.22,REG-72681
+Audi,Q5,Electric,CUST3667,Seattle,20,71018.02,REG-32521
+Honda,Civic,Petrol,CUST9293,Los Angeles,46,73418.71,REG-65928
+Ford,Focus,Electric,CUST5939,Dallas,19,60672.01,REG-51762
+Kia,Seltos,Diesel,CUST2450,Los Angeles,20,83228.21,REG-70442
+Mercedes,C-Class,Diesel,CUST9854,Seattle,57,70398.5,REG-37050
+Honda,CR-V,Hybrid,CUST3633,San Francisco,39,43105.73,REG-86690
+Hyundai,Sonata,Hybrid,CUST6274,Los Angeles,22,31852.1,REG-96584
+Toyota,Rav4,Hybrid,CUST3888,San Francisco,35,16801.72,REG-52359
+Nissan,Altima,Hybrid,CUST1174,Dallas,68,31651.9,REG-98779
+Nissan,Altima,Electric,CUST5386,Los Angeles,62,50930.44,REG-75429
+Toyota,Highlander,Hybrid,CUST4570,Seattle,39,29519.97,REG-87403
+Toyota,Corolla,Diesel,CUST3045,San Francisco,37,83612.25,REG-17661
+BMW,5 Series,Hybrid,CUST7462,New York,59,16122.4,REG-73118
+Ford,Explorer,Electric,CUST1219,New York,31,44626.2,REG-92827
+Honda,CR-V,Diesel,CUST9407,Boston,37,56107.26,REG-93933
+Chevrolet,Equinox,Petrol,CUST9505,Miami,61,61515.62,REG-70166
+Toyota,Corolla,Petrol,CUST4115,Dallas,45,12089.97,REG-29977
+BMW,3 Series,Hybrid,CUST3429,Dallas,21,69633.11,REG-18145
+Audi,A3,Electric,CUST7684,San Francisco,53,22394.79,REG-76601
+Hyundai,Sonata,Electric,CUST6970,Houston,49,15368.97,REG-80954
+Nissan,Sentra,Electric,CUST3891,Los Angeles,45,14761.57,REG-45535
+Nissan,Sentra,Hybrid,CUST3179,New York,32,68605.28,REG-17547
+Chevrolet,Equinox,Diesel,CUST5625,New York,57,52916.11,REG-80931
+Kia,Sorento,Petrol,CUST2083,Denver,52,50117.38,REG-34913
+BMW,X5,Petrol,CUST7858,Los Angeles,37,16288.45,REG-83486
+Chevrolet,Malibu,Petrol,CUST5810,Los Angeles,66,61419.49,REG-56006
+Honda,Accord,Diesel,CUST8771,San Francisco,66,39522.71,REG-38487
+BMW,X3,Electric,CUST8275,Dallas,40,59346.45,REG-35801
+Toyota,Corolla,Diesel,CUST4924,Boston,24,56692.07,REG-19507
+Honda,Accord,Electric,CUST7889,Houston,30,50010.77,REG-80972
+Nissan,Sentra,Hybrid,CUST5111,Dallas,59,74678.53,REG-82354
+Audi,A3,Petrol,CUST4600,Seattle,23,7579.03,REG-27911
+Kia,Sorento,Petrol,CUST2044,Houston,69,53259.65,REG-84252
+Ford,Fusion,Hybrid,CUST6260,Boston,43,62324.91,REG-55980
+Kia,Seltos,Petrol,CUST7301,San Francisco,24,6984.7,REG-80636
+Honda,Pilot,Electric,CUST6331,San Francisco,39,31992.23,REG-71905
+Chevrolet,Equinox,Petrol,CUST4216,San Francisco,44,41291.11,REG-64311
+Toyota,Highlander,Petrol,CUST8432,Chicago,68,47146.33,REG-76927
+BMW,5 Series,Petrol,CUST1133,New York,63,33329.07,REG-89953
+Toyota,Camry,Hybrid,CUST6332,Seattle,35,30374.87,REG-50214
+Toyota,Corolla,Petrol,CUST5534,Miami,41,40784.77,REG-76894
+Honda,Accord,Petrol,CUST5018,Dallas,56,54946.05,REG-77936
+BMW,X3,Electric,CUST5101,Denver,40,9710.59,REG-96219
+Ford,Escape,Diesel,CUST9564,Houston,48,10618.8,REG-86435
+Audi,A4,Petrol,CUST8726,Seattle,40,45155.22,REG-92668
+Honda,Civic,Petrol,CUST4235,Houston,29,72478.47,REG-94399
+Chevrolet,Malibu,Diesel,CUST8303,Houston,30,57700.66,REG-93396
+Audi,Q7,Diesel,CUST7550,Miami,23,13363.81,REG-85772
+Ford,Fusion,Electric,CUST9550,Los Angeles,41,70208.55,REG-59409
+Honda,Accord,Electric,CUST1494,Seattle,18,10610.93,REG-50696
+Audi,A4,Electric,CUST2083,Los Angeles,55,28528.55,REG-99116
+Nissan,Murano,Petrol,CUST6524,San Francisco,33,62548.05,REG-88065
+Honda,Civic,Electric,CUST3731,Miami,44,30001.25,REG-43861
+Mercedes,E-Class,Electric,CUST6127,Seattle,40,80186.94,REG-29523
+Mercedes,GLC,Hybrid,CUST4108,San Francisco,55,45928.43,REG-44887
+Ford,Escape,Electric,CUST9400,Chicago,25,81236.21,REG-30060
+Toyota,Highlander,Hybrid,CUST4817,Los Angeles,22,28222.21,REG-47704
+Audi,A4,Petrol,CUST9304,San Francisco,31,69028.33,REG-73162
+Kia,Soul,Hybrid,CUST7181,Houston,67,46082.19,REG-88090
+BMW,3 Series,Hybrid,CUST9250,San Francisco,43,67608.34,REG-95909
+Kia,Seltos,Electric,CUST2647,Miami,23,43981.61,REG-21335
+Toyota,Highlander,Diesel,CUST6011,Chicago,37,10343.3,REG-87059
+Ford,Fusion,Hybrid,CUST7183,Miami,32,39788.97,REG-75685
+Ford,Focus,Electric,CUST7352,Boston,62,27204.65,REG-73568
+Kia,Seltos,Diesel,CUST5117,Dallas,67,81701.37,REG-12179
+Ford,Focus,Electric,CUST7720,Boston,25,19893.92,REG-62486
+Ford,Focus,Petrol,CUST5660,Denver,30,11727.79,REG-89116
+BMW,5 Series,Hybrid,CUST9887,Miami,40,12691.09,REG-60358
+Kia,Sportage,Electric,CUST4886,New York,47,22137.25,REG-92642
+Kia,Seltos,Electric,CUST6291,Los Angeles,61,11697.61,REG-94623
+Audi,Q5,Hybrid,CUST9077,Chicago,30,62781.54,REG-41339
+Hyundai,Elantra,Electric,CUST8949,Houston,58,76340.09,REG-34799
+BMW,X3,Petrol,CUST8301,Miami,67,66160.29,REG-13018
+Ford,Escape,Electric,CUST5023,Houston,18,64340.96,REG-81195
+Hyundai,Elantra,Petrol,CUST1342,Denver,53,78217.73,REG-18736
+Audi,A3,Petrol,CUST6819,Dallas,35,18087.25,REG-78474
+Kia,Sportage,Electric,CUST6602,Denver,47,82110.13,REG-75527
+BMW,3 Series,Diesel,CUST3611,San Francisco,64,69027.54,REG-12545
+Nissan,Rogue,Petrol,CUST2363,Denver,30,67417.36,REG-49298
+Kia,Sportage,Petrol,CUST2850,Dallas,30,8033.2,REG-15003
+Chevrolet,Equinox,Diesel,CUST9552,Boston,53,12867.39,REG-96221
+Chevrolet,Traverse,Hybrid,CUST2325,New York,50,77859.97,REG-33889
+Hyundai,Elantra,Diesel,CUST4551,San Francisco,55,3539.65,REG-72288
+Audi,A4,Petrol,CUST1433,Seattle,52,16148.64,REG-22514
+Honda,Pilot,Hybrid,CUST7947,Dallas,63,67235.67,REG-56125
+Kia,Soul,Hybrid,CUST9835,Chicago,24,64816,REG-58694
+Audi,A3,Electric,CUST3096,Seattle,61,77888.09,REG-65664
+Audi,Q5,Diesel,CUST8404,Chicago,57,62096.75,REG-68622
+BMW,X5,Petrol,CUST1234,Denver,57,49436.47,REG-63439
+Mercedes,E-Class,Diesel,CUST7778,Dallas,47,62136.2,REG-77933
+Hyundai,Sonata,Petrol,CUST1615,Houston,33,44632.93,REG-48189
+Ford,Escape,Electric,CUST8905,Boston,34,54481.9,REG-23759
+BMW,3 Series,Diesel,CUST2869,Houston,38,28305.58,REG-26075
+Mercedes,GLA,Diesel,CUST1947,Seattle,47,10949.48,REG-59685
+Toyota,Camry,Electric,CUST3664,Dallas,54,55078.08,REG-13319
+Audi,A3,Hybrid,CUST8661,Chicago,46,30557.15,REG-80253
+Mercedes,E-Class,Petrol,CUST3236,New York,31,8149.25,REG-78723
+BMW,3 Series,Electric,CUST1533,Miami,20,11634.88,REG-64337
+Ford,Explorer,Hybrid,CUST9811,San Francisco,39,74068.81,REG-83434
+Nissan,Murano,Petrol,CUST3048,Miami,36,6341.16,REG-48167
+Nissan,Murano,Hybrid,CUST7725,Seattle,55,81040.19,REG-84452
+Chevrolet,Traverse,Electric,CUST3686,San Francisco,43,73641.71,REG-16317
+Kia,Soul,Electric,CUST5640,New York,29,20101.05,REG-58436
+Mercedes,GLA,Petrol,CUST3327,Dallas,36,14513.09,REG-70177
+Nissan,Altima,Hybrid,CUST6135,Miami,56,71510.66,REG-48414
+Hyundai,Elantra,Petrol,CUST4307,Seattle,60,72978.36,REG-45008
+Toyota,Rav4,Electric,CUST6468,New York,35,32878.89,REG-59778
+Nissan,Sentra,Hybrid,CUST2057,San Francisco,47,85440.67,REG-74909
+Toyota,Rav4,Hybrid,CUST6147,Los Angeles,45,36718.18,REG-16632
+Honda,Accord,Electric,CUST7974,New York,59,58729.83,REG-76110
+Honda,Civic,Electric,CUST3711,New York,47,66768.28,REG-86427
+BMW,3 Series,Electric,CUST8289,Seattle,28,41962.73,REG-61225
+Nissan,Rogue,Petrol,CUST2784,Chicago,65,79759.71,REG-21001
+Ford,Escape,Hybrid,CUST7635,Miami,23,64836.88,REG-73019
+Audi,A3,Hybrid,CUST1507,New York,47,30282.9,REG-86490
+Hyundai,Tucson,Hybrid,CUST3355,New York,19,51906.19,REG-81662
+BMW,5 Series,Hybrid,CUST2687,Miami,54,11364.6,REG-58333
+Toyota,Rav4,Diesel,CUST9250,Houston,20,38490.18,REG-83059
+Nissan,Murano,Diesel,CUST7889,Dallas,66,20094.99,REG-13610
+Hyundai,Elantra,Electric,CUST4531,Chicago,69,78780.33,REG-49294
+Nissan,Altima,Electric,CUST6046,Dallas,48,64531.25,REG-85729
+Audi,Q5,Electric,CUST9199,Denver,65,40258.95,REG-52477
+Audi,A4,Diesel,CUST3262,San Francisco,38,82754.4,REG-78821
+Kia,Seltos,Diesel,CUST7855,Houston,51,75863.09,REG-44722
+Nissan,Rogue,Hybrid,CUST6043,Denver,56,21077.81,REG-98404
+Ford,Explorer,Diesel,CUST8291,Boston,58,80223.37,REG-97289
+Kia,Seltos,Petrol,CUST6440,Chicago,59,46951.82,REG-82812
+Honda,Accord,Electric,CUST1345,Seattle,64,44440.46,REG-88401
+Chevrolet,Equinox,Diesel,CUST4943,Miami,66,70996.93,REG-82788
+Audi,A4,Petrol,CUST3128,Miami,45,40821.9,REG-32739
+Kia,Seltos,Diesel,CUST6676,Houston,51,16567.74,REG-71089
+Mercedes,E-Class,Hybrid,CUST3332,Chicago,24,42137.55,REG-42428
+Mercedes,E-Class,Petrol,CUST9198,Denver,50,2583.09,REG-53414
+Nissan,Murano,Diesel,CUST6355,Los Angeles,65,26988.04,REG-61054
+BMW,X5,Diesel,CUST8091,Denver,69,72624.34,REG-16958
+Audi,A3,Hybrid,CUST2285,Dallas,52,66237.41,REG-25818
+Hyundai,Tucson,Hybrid,CUST1802,Miami,46,69036.65,REG-44949
+Kia,Sportage,Petrol,CUST9518,Miami,40,42167.54,REG-13876
+Hyundai,Sonata,Petrol,CUST5283,Dallas,56,14774.84,REG-76736
+Nissan,Murano,Hybrid,CUST1974,Seattle,27,8984.74,REG-45968
+Kia,Seltos,Electric,CUST6776,Houston,46,62542.27,REG-17887
+Nissan,Altima,Electric,CUST4092,Boston,35,54882.13,REG-85052
+Audi,Q7,Petrol,CUST6136,Miami,44,67318.72,REG-99621
+Ford,Explorer,Diesel,CUST2456,Houston,66,36008.1,REG-34376
+Kia,Sportage,Electric,CUST1097,Chicago,65,13536.45,REG-13292
+Hyundai,Elantra,Petrol,CUST7338,Houston,22,9313.09,REG-59687
+Nissan,Sentra,Electric,CUST1262,Chicago,20,72694.47,REG-42180
+Mercedes,E-Class,Petrol,CUST5278,Seattle,34,69088.94,REG-34346
+Chevrolet,Traverse,Petrol,CUST2891,Miami,61,40878.37,REG-10778
+Hyundai,Elantra,Diesel,CUST2921,Boston,39,61677.41,REG-65709
+Audi,A3,Hybrid,CUST4106,Seattle,30,3665.77,REG-54355
+Kia,Sorento,Electric,CUST7358,Chicago,44,7063.97,REG-72805
+Kia,Soul,Electric,CUST7271,Miami,31,11273.39,REG-48394
+Audi,Q5,Petrol,CUST3607,Chicago,40,49569.7,REG-68122
+BMW,5 Series,Electric,CUST5573,Chicago,29,35233.43,REG-74260
+Audi,Q7,Diesel,CUST8602,Seattle,68,43063.38,REG-40245
+Hyundai,Elantra,Hybrid,CUST8904,San Francisco,34,81630.53,REG-77765
+Ford,Focus,Electric,CUST1338,Houston,38,13925.86,REG-95706
+Ford,Escape,Petrol,CUST9312,Dallas,26,36893.38,REG-23077
+Kia,Soul,Diesel,CUST7168,Chicago,19,52626.03,REG-88180
+Honda,CR-V,Hybrid,CUST2594,Miami,53,70833.44,REG-73491
+Kia,Soul,Diesel,CUST4273,Houston,69,55383.25,REG-53154
+Nissan,Murano,Hybrid,CUST6543,Denver,50,48228.27,REG-16482
+BMW,X3,Electric,CUST7606,Houston,29,7736.74,REG-69143
+Ford,Explorer,Diesel,CUST5691,Denver,48,48149.58,REG-70037
+Mercedes,C-Class,Electric,CUST5170,San Francisco,29,85125.82,REG-51788
+Mercedes,GLA,Electric,CUST9940,Boston,61,25747.17,REG-22735
+Toyota,Rav4,Electric,CUST2975,Seattle,33,5219.72,REG-13747
+Toyota,Rav4,Hybrid,CUST7462,Miami,63,3718.3,REG-10872
+Ford,Focus,Petrol,CUST3363,Miami,31,31677.05,REG-91766
+Nissan,Murano,Electric,CUST1619,San Francisco,70,7075.58,REG-66101
+Mercedes,C-Class,Diesel,CUST3691,Dallas,51,40326.91,REG-72127
+Nissan,Sentra,Petrol,CUST7058,Seattle,35,69476.59,REG-27426
+BMW,5 Series,Electric,CUST2798,Houston,55,45349.36,REG-89559
+Hyundai,Santa Fe,Electric,CUST5829,Houston,30,15588.05,REG-17634
+Ford,Fusion,Hybrid,CUST3824,Dallas,26,10266.08,REG-77408
+Ford,Fusion,Hybrid,CUST7502,Houston,35,54496.57,REG-98446
+BMW,X5,Electric,CUST9746,Chicago,39,77608.81,REG-69107
+Chevrolet,Tahoe,Petrol,CUST1603,Los Angeles,54,83701.9,REG-93689
+Toyota,Rav4,Electric,CUST7720,Boston,64,82627.63,REG-71918
+BMW,X3,Hybrid,CUST3483,Boston,42,35670.59,REG-73695
+Audi,Q7,Petrol,CUST5478,Denver,35,10443.27,REG-55538
+Ford,Escape,Diesel,CUST5540,Houston,67,63297.92,REG-23071
+Nissan,Rogue,Electric,CUST6586,Seattle,20,48856.42,REG-89637
+Audi,A4,Petrol,CUST3213,Seattle,22,34216.85,REG-16745
+Audi,Q5,Hybrid,CUST1883,Los Angeles,52,77005.1,REG-16312
+Mercedes,GLA,Diesel,CUST5968,Denver,70,3307.83,REG-45327
+Nissan,Rogue,Diesel,CUST7699,Chicago,69,43799.92,REG-74900
+Audi,Q5,Diesel,CUST2061,Chicago,61,62463.78,REG-63578
+Kia,Sportage,Petrol,CUST2976,San Francisco,24,13522.1,REG-44333
+Audi,A4,Electric,CUST7875,Boston,52,14693.51,REG-36771
+Mercedes,GLC,Diesel,CUST2529,Houston,39,33198.56,REG-33321
+Hyundai,Santa Fe,Petrol,CUST3358,Chicago,43,76302.93,REG-32270
+Kia,Seltos,Hybrid,CUST3087,Dallas,58,40337.3,REG-98283
+Nissan,Altima,Electric,CUST7469,Boston,59,73938.62,REG-80369
+Honda,Accord,Hybrid,CUST4052,Chicago,67,21753.99,REG-76613
+Ford,Escape,Electric,CUST5663,Boston,51,7561.54,REG-78414
+Hyundai,Sonata,Petrol,CUST8605,Chicago,28,46297.71,REG-61243
+Honda,Pilot,Electric,CUST6156,Denver,42,45532.67,REG-18356
+Chevrolet,Equinox,Hybrid,CUST6333,Chicago,20,9554.17,REG-99294
+Kia,Soul,Petrol,CUST4935,Denver,28,55059.59,REG-83229
+Audi,A4,Diesel,CUST8577,Dallas,31,38095.11,REG-49549
+Mercedes,GLA,Petrol,CUST1299,San Francisco,30,27793.05,REG-50218
+Honda,Pilot,Hybrid,CUST2060,Chicago,36,36254.81,REG-64991
+BMW,5 Series,Petrol,CUST4916,Denver,51,73390.19,REG-34865
+Kia,Seltos,Electric,CUST9017,Boston,19,12197.64,REG-15945
+Hyundai,Sonata,Petrol,CUST5919,New York,47,30778.87,REG-63620
+BMW,X5,Electric,CUST4103,Chicago,21,57902.93,REG-32393
+Chevrolet,Equinox,Hybrid,CUST3607,Dallas,62,64677.84,REG-70973
+Mercedes,GLC,Electric,CUST8788,Seattle,26,14542.45,REG-89054
+Hyundai,Elantra,Diesel,CUST5611,Dallas,50,73777.95,REG-15532
+Ford,Fusion,Petrol,CUST9459,Boston,28,44941.52,REG-85959
+Honda,CR-V,Diesel,CUST8852,Boston,31,3082.97,REG-25110
+Audi,A4,Diesel,CUST3199,Dallas,19,13557.44,REG-54149
+Kia,Sportage,Diesel,CUST6268,Houston,65,51733.65,REG-17209
+Honda,CR-V,Electric,CUST9125,Chicago,40,50357.31,REG-49131
+Chevrolet,Malibu,Diesel,CUST1615,Chicago,25,42533.31,REG-82270
+Honda,Pilot,Petrol,CUST8430,Boston,20,42274.12,REG-62245
+Ford,Focus,Petrol,CUST7199,Denver,56,17353.05,REG-13830
+Nissan,Altima,Petrol,CUST7691,Miami,44,78599.06,REG-19184
+Honda,CR-V,Electric,CUST8188,Denver,58,40778.86,REG-67035
+Nissan,Altima,Diesel,CUST1489,Los Angeles,49,78262.04,REG-67493
+Mercedes,GLA,Diesel,CUST8117,Miami,67,79559.2,REG-12231
+Audi,A4,Hybrid,CUST4857,New York,54,80759.34,REG-48839
+Kia,Seltos,Diesel,CUST8011,Houston,48,73395.92,REG-48187
+Nissan,Sentra,Diesel,CUST6608,Dallas,36,37794.23,REG-64029
+Honda,Civic,Petrol,CUST1662,Denver,45,19991.87,REG-90935
+Ford,Focus,Electric,CUST7318,Denver,56,12227.43,REG-49611
+Ford,Explorer,Hybrid,CUST4938,Denver,23,71551.55,REG-27203
+Hyundai,Elantra,Hybrid,CUST1468,Los Angeles,34,64709.05,REG-56073
+BMW,3 Series,Electric,CUST7026,New York,53,11822,REG-62583
+Kia,Seltos,Electric,CUST2183,Seattle,38,43985.48,REG-86747
+Kia,Sorento,Hybrid,CUST7300,Los Angeles,53,81738.76,REG-27764
+Ford,Escape,Electric,CUST9005,Los Angeles,56,23947.54,REG-48648
+Chevrolet,Malibu,Diesel,CUST4515,Denver,42,55001.23,REG-42727
+Ford,Explorer,Petrol,CUST7726,New York,39,35008.52,REG-37655
+Nissan,Rogue,Hybrid,CUST6019,San Francisco,66,60534.78,REG-11534
+Ford,Fusion,Diesel,CUST4294,San Francisco,19,50543.74,REG-86871
+BMW,3 Series,Diesel,CUST9943,Seattle,35,65005.11,REG-58083
+Toyota,Corolla,Diesel,CUST7440,Miami,27,27083.52,REG-28090
+Kia,Sorento,Hybrid,CUST4115,Dallas,20,73101.58,REG-50697
+Kia,Sorento,Hybrid,CUST6329,San Francisco,65,31796.97,REG-81987
+Kia,Seltos,Petrol,CUST4194,Boston,54,5678.02,REG-37970
+Ford,Explorer,Electric,CUST2947,Houston,56,81118.19,REG-77764
+Audi,A4,Diesel,CUST7044,Miami,52,53775.33,REG-31695
+Kia,Sportage,Electric,CUST6996,Los Angeles,54,43558.6,REG-96904
+Nissan,Altima,Petrol,CUST1547,Seattle,36,22948.13,REG-36084
+Honda,CR-V,Electric,CUST4819,San Francisco,21,82797.18,REG-79135
+Kia,Soul,Diesel,CUST7640,Los Angeles,46,49751.28,REG-68195
+Kia,Seltos,Petrol,CUST3978,New York,36,34857.86,REG-56984
+BMW,X5,Electric,CUST3239,Miami,66,10434.4,REG-99676
+Nissan,Altima,Electric,CUST6935,Chicago,24,16700.55,REG-51535
+Chevrolet,Equinox,Petrol,CUST6546,Dallas,37,8098.92,REG-42601
+Kia,Sportage,Petrol,CUST9326,Denver,62,41225.67,REG-29344
+Chevrolet,Tahoe,Hybrid,CUST5269,Houston,39,64181.88,REG-22681
+Chevrolet,Traverse,Hybrid,CUST2100,Los Angeles,18,25509.25,REG-96730
+Chevrolet,Traverse,Diesel,CUST1188,San Francisco,30,7989.4,REG-46901
+Kia,Seltos,Electric,CUST5890,Boston,46,47058.45,REG-17236
+Mercedes,GLC,Hybrid,CUST6295,Boston,54,67819,REG-94837
+BMW,5 Series,Petrol,CUST1983,Houston,25,17376.33,REG-25066
+Nissan,Rogue,Diesel,CUST7527,Miami,62,26246.96,REG-15998
+Ford,Focus,Hybrid,CUST6927,New York,68,15385.95,REG-23491
+Chevrolet,Traverse,Petrol,CUST7863,San Francisco,33,78594.04,REG-71525
+BMW,X3,Diesel,CUST5328,New York,35,19000.86,REG-32747
+Audi,A3,Diesel,CUST5820,Boston,70,65529.82,REG-20076
+BMW,3 Series,Petrol,CUST2034,San Francisco,38,35284.18,REG-17382
+Nissan,Rogue,Hybrid,CUST5802,Miami,55,35480.77,REG-96979
+Hyundai,Santa Fe,Electric,CUST6161,New York,38,20697.19,REG-99039
+Ford,Fusion,Diesel,CUST7193,New York,48,66743.64,REG-83840
+Kia,Sorento,Electric,CUST6592,Houston,29,4017.23,REG-96694
+Kia,Soul,Petrol,CUST8440,Chicago,61,5357.53,REG-85709
+Nissan,Altima,Hybrid,CUST7073,Denver,32,67054.76,REG-39129
+Toyota,Camry,Petrol,CUST5645,New York,39,5729.28,REG-66232
+Ford,Escape,Diesel,CUST6554,New York,49,49342.92,REG-35028
+Chevrolet,Traverse,Diesel,CUST3493,Dallas,66,14864.9,REG-37209
+Kia,Seltos,Petrol,CUST7100,Houston,50,71208.79,REG-71601
+Mercedes,GLC,Petrol,CUST6051,Denver,68,40154.48,REG-80470
+Chevrolet,Equinox,Electric,CUST7943,Miami,44,16401.53,REG-10259
+Chevrolet,Malibu,Electric,CUST5986,Dallas,57,25706.06,REG-57547
+BMW,X5,Electric,CUST2191,Houston,32,44357.38,REG-26589
+Kia,Seltos,Diesel,CUST6424,Denver,43,55298.69,REG-46767
+Ford,Explorer,Diesel,CUST6728,Los Angeles,43,32964.51,REG-36020
+BMW,X5,Petrol,CUST9068,Denver,20,49969.31,REG-48059
+Kia,Sorento,Diesel,CUST5988,San Francisco,36,78163.22,REG-25349
+Toyota,Highlander,Electric,CUST9778,New York,24,60193.08,REG-62753
+Toyota,Camry,Hybrid,CUST1998,New York,46,45260.49,REG-52491
+Honda,CR-V,Petrol,CUST6910,Dallas,54,36512.41,REG-35536
+Mercedes,GLA,Diesel,CUST7097,Miami,58,80306.06,REG-85844
+Audi,A4,Petrol,CUST4659,Miami,19,54142.46,REG-90162
+Mercedes,GLC,Diesel,CUST4647,Miami,55,57187.53,REG-22313
+Kia,Sorento,Electric,CUST4437,Houston,30,77993.66,REG-41996
+Toyota,Rav4,Hybrid,CUST3230,Chicago,22,54196.29,REG-63965
+Toyota,Corolla,Electric,CUST6763,Dallas,64,39197.32,REG-33615
+Chevrolet,Traverse,Electric,CUST9320,Chicago,69,31895.65,REG-75770
+Mercedes,GLA,Diesel,CUST2696,Houston,70,52962.69,REG-44242
+Nissan,Altima,Petrol,CUST6353,Miami,63,34179.46,REG-34103
+BMW,X3,Electric,CUST9627,San Francisco,24,58393.09,REG-94121
+Hyundai,Santa Fe,Electric,CUST4980,Los Angeles,56,44422.35,REG-63169
+Kia,Soul,Hybrid,CUST4576,Houston,39,36212.64,REG-23620
+Honda,CR-V,Hybrid,CUST8767,Denver,33,12401.47,REG-81482
+Chevrolet,Tahoe,Hybrid,CUST1342,Denver,55,12373.13,REG-13584
+Hyundai,Elantra,Petrol,CUST5103,San Francisco,30,27866.63,REG-20651
+Hyundai,Santa Fe,Hybrid,CUST6594,Los Angeles,20,77613.29,REG-42369
+BMW,X5,Electric,CUST7950,Miami,53,55348.14,REG-81411
+Toyota,Camry,Petrol,CUST8262,Seattle,70,55982.83,REG-11843
+Toyota,Rav4,Diesel,CUST7118,Boston,35,14766.21,REG-39808
+Nissan,Altima,Electric,CUST8393,Chicago,69,5846.94,REG-66711
+Mercedes,E-Class,Hybrid,CUST4269,San Francisco,27,28928.87,REG-83888
+Honda,Accord,Petrol,CUST7717,Los Angeles,46,37679.75,REG-13846
+Kia,Sorento,Hybrid,CUST9146,Boston,21,2965.52,REG-30907
+Chevrolet,Traverse,Petrol,CUST3570,Chicago,20,23073.8,REG-42366
+BMW,X5,Petrol,CUST6316,Houston,44,22527.19,REG-78176
+BMW,X3,Diesel,CUST5274,Dallas,35,39023.58,REG-32541
+Toyota,Highlander,Electric,CUST9584,Seattle,60,5586.08,REG-11934
+Toyota,Highlander,Electric,CUST7945,Chicago,40,83809.54,REG-64723
+Ford,Focus,Petrol,CUST8327,San Francisco,29,80532.84,REG-79591
+Hyundai,Sonata,Petrol,CUST9335,Dallas,33,2618.45,REG-61541
+Nissan,Sentra,Diesel,CUST9075,Chicago,28,10294.46,REG-65588
+Nissan,Murano,Diesel,CUST4174,Miami,60,62766.45,REG-80627
+Honda,Civic,Electric,CUST1163,Denver,26,13002.38,REG-95579
+Honda,Civic,Hybrid,CUST3677,Seattle,19,20929.14,REG-69916
+Kia,Seltos,Diesel,CUST7657,Dallas,64,62368.15,REG-69519
+Hyundai,Tucson,Electric,CUST9274,Denver,57,8729.36,REG-70792
+Honda,Civic,Diesel,CUST6494,Houston,34,6217.89,REG-34321
+Ford,Focus,Hybrid,CUST3406,Miami,31,51010.96,REG-65721
+Nissan,Sentra,Hybrid,CUST7309,Boston,61,54368.22,REG-93821
+Hyundai,Santa Fe,Hybrid,CUST8819,Los Angeles,52,65720.8,REG-28684
+Nissan,Altima,Petrol,CUST5291,Dallas,29,14140.46,REG-41426
+Hyundai,Santa Fe,Diesel,CUST4203,Dallas,67,75547.44,REG-85912
+Honda,Civic,Electric,CUST5510,Miami,21,47414.59,REG-10843
+Honda,Civic,Electric,CUST7281,Dallas,56,21918.8,REG-65352
+Ford,Explorer,Hybrid,CUST8681,Seattle,44,20395.16,REG-46980
+Hyundai,Sonata,Hybrid,CUST6055,San Francisco,48,22458.26,REG-37718
+Honda,Pilot,Petrol,CUST6089,Chicago,51,70520.13,REG-74925
+Mercedes,GLA,Diesel,CUST5764,Denver,64,74779.27,REG-82559
+Hyundai,Elantra,Electric,CUST4213,Seattle,51,58971.05,REG-64366
+Honda,Civic,Petrol,CUST1893,Miami,47,52144.13,REG-88744
+Chevrolet,Malibu,Petrol,CUST4742,Boston,63,20061.46,REG-88932
+Honda,CR-V,Electric,CUST4917,San Francisco,34,69785.01,REG-96561
+Ford,Focus,Petrol,CUST2316,Los Angeles,27,68680.27,REG-28834
+Toyota,Highlander,Electric,CUST8023,Miami,57,43651.12,REG-22432
+BMW,X3,Petrol,CUST2894,Denver,41,45836.16,REG-76593
+Ford,Escape,Hybrid,CUST2949,Miami,55,49002.98,REG-90140
+Toyota,Rav4,Electric,CUST5423,Dallas,52,51577.89,REG-88843
+Nissan,Altima,Electric,CUST8944,Denver,34,3374.24,REG-54357
+Mercedes,C-Class,Petrol,CUST3244,Miami,65,73502.65,REG-78800
+Audi,Q7,Diesel,CUST3808,Boston,39,78496.04,REG-72628
+BMW,5 Series,Hybrid,CUST9426,Seattle,45,49347.53,REG-72459
+Mercedes,C-Class,Hybrid,CUST2924,Chicago,25,51374.19,REG-78302
+BMW,X3,Petrol,CUST8377,Dallas,20,28581.39,REG-24046
+Chevrolet,Malibu,Diesel,CUST8767,Denver,57,40146.48,REG-66555
+Ford,Explorer,Hybrid,CUST1364,Los Angeles,68,47450.69,REG-68864
+Audi,Q5,Hybrid,CUST4175,Seattle,40,15305.73,REG-57383
+Chevrolet,Malibu,Diesel,CUST4477,Dallas,69,63501.64,REG-99958
+Ford,Explorer,Petrol,CUST3982,Seattle,51,7513.2,REG-51416
+Nissan,Sentra,Hybrid,CUST2937,San Francisco,67,21568.03,REG-10497
+BMW,X3,Electric,CUST5034,Boston,39,13075.51,REG-41113
+Nissan,Rogue,Petrol,CUST8802,Boston,42,77986.7,REG-68177
+Honda,Civic,Petrol,CUST5515,Seattle,29,66367.91,REG-56407
+Toyota,Corolla,Diesel,CUST6473,Los Angeles,62,24390.06,REG-23938
+Toyota,Corolla,Electric,CUST2709,Los Angeles,23,71980.77,REG-38856
+Mercedes,GLC,Electric,CUST2533,Miami,44,59255.92,REG-73325
+Chevrolet,Traverse,Hybrid,CUST4109,Houston,54,50056.08,REG-31811
+Kia,Soul,Petrol,CUST4195,Dallas,54,12512.57,REG-42437
+Ford,Explorer,Diesel,CUST3438,Boston,58,54472.71,REG-84822
+Toyota,Highlander,Petrol,CUST5886,Denver,38,28344.07,REG-67290
+Hyundai,Tucson,Diesel,CUST6050,Houston,35,18785.78,REG-56234
+Kia,Sportage,Petrol,CUST3654,Boston,23,49527.06,REG-91259
+Kia,Seltos,Electric,CUST3872,Dallas,18,35553.65,REG-85619
+Ford,Focus,Electric,CUST9098,New York,63,79941.58,REG-38925
+Mercedes,C-Class,Electric,CUST2409,Los Angeles,61,62065.58,REG-58650
+Chevrolet,Malibu,Hybrid,CUST4632,Denver,61,57355.99,REG-94309
+Ford,Explorer,Petrol,CUST3615,Houston,48,31156.52,REG-19140
+Audi,Q7,Hybrid,CUST5863,San Francisco,48,58765.54,REG-88320
+Ford,Fusion,Electric,CUST9351,Los Angeles,49,61338.91,REG-19821
+BMW,5 Series,Hybrid,CUST7039,Chicago,35,25048.69,REG-72313
+Hyundai,Santa Fe,Hybrid,CUST1761,Seattle,66,83486.72,REG-38450
+Audi,Q7,Petrol,CUST2540,Miami,56,75545.83,REG-20104
+Honda,Civic,Electric,CUST6997,Seattle,66,26919.44,REG-97605
+Honda,CR-V,Electric,CUST3648,Los Angeles,20,62949.95,REG-45830
+Chevrolet,Traverse,Diesel,CUST5554,Los Angeles,37,4880.08,REG-89955
+Mercedes,C-Class,Hybrid,CUST7352,Dallas,29,77545.74,REG-83574
+Hyundai,Sonata,Diesel,CUST4377,Miami,25,64351.19,REG-10161
+Hyundai,Elantra,Hybrid,CUST5497,Houston,47,60041.11,REG-15445
+Toyota,Camry,Electric,CUST3257,Chicago,46,25703.7,REG-35215
+Toyota,Camry,Petrol,CUST4230,Boston,39,21491.81,REG-11672
+Chevrolet,Tahoe,Diesel,CUST6720,Los Angeles,47,46831.5,REG-91588
+Hyundai,Elantra,Hybrid,CUST8808,Denver,69,76301.82,REG-11589
+Chevrolet,Equinox,Electric,CUST2195,Boston,36,28276.84,REG-28716
+Mercedes,GLA,Diesel,CUST8111,New York,70,29726.07,REG-84281
+Mercedes,C-Class,Hybrid,CUST4594,Los Angeles,49,52889,REG-88232
+Honda,Pilot,Diesel,CUST1151,Seattle,45,20802.45,REG-46524
+BMW,5 Series,Diesel,CUST6126,Boston,19,50166.47,REG-21354
+Chevrolet,Malibu,Hybrid,CUST7548,Miami,19,40139.91,REG-57260
+Mercedes,E-Class,Hybrid,CUST9813,Miami,68,39511.13,REG-58867
+Honda,CR-V,Diesel,CUST5002,San Francisco,53,51828.9,REG-38987
+Nissan,Sentra,Diesel,CUST5829,Denver,18,77315.4,REG-68699
+Kia,Seltos,Electric,CUST8600,Houston,55,59015.69,REG-84088
+Kia,Soul,Petrol,CUST7624,Miami,26,71110.99,REG-92415
+Mercedes,C-Class,Petrol,CUST1438,Houston,43,45565.92,REG-40747
+Honda,Accord,Hybrid,CUST4960,Seattle,49,56181.69,REG-96066
+Nissan,Rogue,Diesel,CUST4187,Chicago,37,59839.18,REG-55314
+Mercedes,C-Class,Petrol,CUST5534,Miami,69,28750.4,REG-95997
+Toyota,Rav4,Electric,CUST6178,Miami,57,42477.09,REG-55856
+Ford,Focus,Petrol,CUST7654,Denver,54,55749.59,REG-75460
+BMW,X5,Petrol,CUST8927,Seattle,53,4871.26,REG-82719
+BMW,X5,Hybrid,CUST3149,Boston,22,9722.07,REG-51492
+BMW,3 Series,Diesel,CUST3609,Seattle,56,38227.19,REG-46749
+Chevrolet,Malibu,Petrol,CUST9943,Houston,21,68921.61,REG-78589
+Mercedes,GLC,Diesel,CUST4394,Seattle,48,10877.57,REG-46922
+Honda,Accord,Diesel,CUST7522,Dallas,70,41942.55,REG-75904
+Toyota,Rav4,Electric,CUST1380,Boston,54,47956.95,REG-44448
+Kia,Sorento,Diesel,CUST7965,San Francisco,69,15594.57,REG-31454
+Mercedes,E-Class,Petrol,CUST2896,Dallas,34,21955.19,REG-23365
+Audi,Q5,Electric,CUST9359,Los Angeles,59,84627.72,REG-83190
+Ford,Fusion,Electric,CUST1020,New York,45,80827.65,REG-60703
+Kia,Seltos,Diesel,CUST8222,Los Angeles,26,79198.37,REG-79107
+Audi,A3,Petrol,CUST5956,Denver,57,84815.99,REG-15093
+Honda,CR-V,Electric,CUST1932,San Francisco,38,15767.11,REG-84206
+Nissan,Murano,Hybrid,CUST1342,Seattle,51,69532.98,REG-49311
+Nissan,Rogue,Petrol,CUST8977,Boston,62,63912.31,REG-37234
+Mercedes,GLC,Hybrid,CUST7565,New York,64,66379.55,REG-19170
+Chevrolet,Tahoe,Hybrid,CUST2006,Los Angeles,29,62479.55,REG-36718
+Mercedes,E-Class,Electric,CUST7655,New York,56,4540.98,REG-11352
+Audi,A4,Electric,CUST5944,San Francisco,38,63454.67,REG-62668
+Hyundai,Santa Fe,Diesel,CUST6963,Dallas,59,8804.9,REG-25211
+Chevrolet,Tahoe,Petrol,CUST7172,Chicago,50,81075.76,REG-78916
+Chevrolet,Equinox,Diesel,CUST5476,Los Angeles,20,24329.1,REG-91707
+Hyundai,Tucson,Electric,CUST3035,Los Angeles,48,64537.17,REG-76698
+Mercedes,GLA,Petrol,CUST7740,Los Angeles,64,49218.73,REG-50420
+Toyota,Rav4,Electric,CUST5260,Los Angeles,20,48495.06,REG-35605
+Toyota,Highlander,Hybrid,CUST6515,San Francisco,64,47938.67,REG-19569
+Audi,Q5,Petrol,CUST2735,New York,24,8496.76,REG-75174
+Chevrolet,Malibu,Hybrid,CUST8338,New York,36,35775.78,REG-11770
+Toyota,Camry,Diesel,CUST8147,Seattle,69,51528.08,REG-25744
+Chevrolet,Equinox,Hybrid,CUST9202,Dallas,41,85471.61,REG-28007
+Kia,Sorento,Hybrid,CUST1774,Miami,63,79928.15,REG-13372
+Chevrolet,Equinox,Electric,CUST4242,Boston,37,42707.9,REG-62493
+Honda,Pilot,Petrol,CUST3513,Denver,44,39528.97,REG-45962
+Ford,Escape,Hybrid,CUST3414,Denver,25,6002,REG-88801
+Mercedes,GLC,Hybrid,CUST8748,Denver,38,37275.86,REG-39734
+Mercedes,GLA,Hybrid,CUST4351,Los Angeles,22,32017.97,REG-91920
+Chevrolet,Traverse,Diesel,CUST8349,Miami,29,13550.41,REG-77823
+Toyota,Highlander,Diesel,CUST9003,Chicago,28,66254.73,REG-45525
+Toyota,Camry,Hybrid,CUST3516,Dallas,22,55282.45,REG-69566
+Nissan,Altima,Electric,CUST7166,Houston,44,53857.7,REG-26179
+Nissan,Sentra,Petrol,CUST4950,Los Angeles,26,50427.49,REG-41024
+Mercedes,GLA,Diesel,CUST4040,San Francisco,46,36414.78,REG-35927
+Ford,Focus,Electric,CUST2313,Los Angeles,40,52330.41,REG-13490
+BMW,5 Series,Petrol,CUST5689,Dallas,30,55936.76,REG-28211
+Honda,Pilot,Hybrid,CUST2520,Houston,61,25242.29,REG-77773
+Kia,Seltos,Electric,CUST7647,Denver,50,20894.81,REG-27789
+Chevrolet,Equinox,Electric,CUST1800,Chicago,60,8719,REG-95254
+Audi,A3,Hybrid,CUST3103,New York,30,15900.24,REG-75881
+Chevrolet,Tahoe,Electric,CUST1202,Los Angeles,56,13861.36,REG-86755
+Toyota,Corolla,Petrol,CUST7816,Boston,31,17637.35,REG-45452
+Toyota,Camry,Petrol,CUST7711,Los Angeles,35,30709.96,REG-35914
+Nissan,Sentra,Hybrid,CUST1914,Houston,58,74290.28,REG-39098
+Hyundai,Sonata,Petrol,CUST9612,New York,46,74479.97,REG-94013
+Kia,Sportage,Hybrid,CUST5858,Houston,31,79106.16,REG-41970
+Chevrolet,Malibu,Diesel,CUST5456,New York,23,79131.21,REG-27751
+Kia,Soul,Electric,CUST1325,Boston,34,21194.06,REG-17141
+Audi,A4,Electric,CUST2384,Boston,51,51074.1,REG-52053
+Kia,Soul,Petrol,CUST2188,Los Angeles,40,33013.41,REG-80719
+Audi,Q7,Petrol,CUST4105,Dallas,31,7423.63,REG-77413
+Kia,Soul,Petrol,CUST6479,New York,56,3052.95,REG-72837
+Toyota,Corolla,Diesel,CUST4154,New York,42,34393.36,REG-12632
+Hyundai,Sonata,Diesel,CUST2129,Seattle,50,53088.57,REG-73883
+Nissan,Altima,Petrol,CUST2852,Miami,42,66584.43,REG-48983
+BMW,X5,Hybrid,CUST1797,Dallas,61,69293.27,REG-16067
+Hyundai,Tucson,Petrol,CUST1985,Boston,41,68958.82,REG-96068
+Honda,Pilot,Electric,CUST7904,New York,21,39484.3,REG-89829
+Chevrolet,Traverse,Hybrid,CUST2845,Seattle,64,75895.43,REG-16228
+Audi,Q7,Petrol,CUST9123,Boston,39,80330.82,REG-12849
+Kia,Soul,Diesel,CUST7960,Boston,26,28535.88,REG-88728
+Toyota,Camry,Electric,CUST4938,Houston,60,79564.32,REG-60175
+Mercedes,C-Class,Hybrid,CUST3126,Miami,31,27002.66,REG-58429
+Mercedes,C-Class,Hybrid,CUST1444,Boston,49,24497.55,REG-32285
+Nissan,Murano,Hybrid,CUST4203,Houston,64,18661.93,REG-88779
+Chevrolet,Traverse,Hybrid,CUST7333,San Francisco,63,20997.63,REG-87519
+Mercedes,GLC,Hybrid,CUST9515,Miami,28,15744.05,REG-23245
+Nissan,Sentra,Hybrid,CUST1814,Boston,57,70442.14,REG-77288
+Nissan,Altima,Diesel,CUST1417,Boston,67,6233.78,REG-81517
+Hyundai,Santa Fe,Electric,CUST6699,Boston,22,6011.53,REG-64904
+Nissan,Altima,Electric,CUST6304,Dallas,48,9196.01,REG-73617
+Mercedes,C-Class,Diesel,CUST1950,San Francisco,41,36582.05,REG-81422
+BMW,X3,Hybrid,CUST1642,Dallas,56,2614.42,REG-76681
+BMW,X5,Electric,CUST6641,Seattle,18,75535.87,REG-11542
+Honda,Accord,Diesel,CUST3631,Denver,38,51334.33,REG-51141
+Nissan,Rogue,Hybrid,CUST7598,Houston,68,17719.99,REG-35200
+Honda,Pilot,Hybrid,CUST9475,Chicago,68,70741.74,REG-19351
+Toyota,Camry,Electric,CUST6671,New York,65,60891.66,REG-12452
+Honda,Pilot,Hybrid,CUST4630,Boston,62,67943.51,REG-85205
+Audi,A3,Diesel,CUST8525,Houston,27,3232.88,REG-66467
+Toyota,Highlander,Hybrid,CUST3812,Houston,36,67033.43,REG-79708
+Kia,Sorento,Petrol,CUST3105,Boston,39,48127.37,REG-35231
+BMW,3 Series,Electric,CUST9316,Denver,66,40252.45,REG-81443
+Kia,Seltos,Hybrid,CUST7133,San Francisco,40,19050.83,REG-52366
+Audi,Q7,Petrol,CUST6893,Houston,35,4094.23,REG-64171
+Ford,Escape,Electric,CUST7484,Boston,66,61790.73,REG-95184
+Chevrolet,Tahoe,Diesel,CUST4271,Houston,52,6769.55,REG-27612
+BMW,X3,Hybrid,CUST9504,Seattle,36,7433.52,REG-36230
+Hyundai,Tucson,Electric,CUST6656,Seattle,70,45483.97,REG-32591
+Ford,Focus,Hybrid,CUST2253,San Francisco,38,63035.06,REG-35853
+Hyundai,Santa Fe,Petrol,CUST2713,Denver,69,82867.52,REG-93556
+Toyota,Highlander,Hybrid,CUST9535,San Francisco,53,50000.49,REG-55275
+Hyundai,Tucson,Petrol,CUST8366,Dallas,60,25695.63,REG-92160
+Kia,Soul,Petrol,CUST8233,Seattle,70,54365.47,REG-76804
+Mercedes,GLA,Electric,CUST7424,Chicago,45,10946.7,REG-33671
+Toyota,Highlander,Hybrid,CUST7060,Denver,23,45201.34,REG-59092
+Toyota,Highlander,Petrol,CUST4673,Dallas,68,36495.05,REG-64585
+Toyota,Corolla,Petrol,CUST2900,New York,60,75845.68,REG-99384
+Nissan,Rogue,Diesel,CUST6309,Dallas,46,60411.11,REG-36598
+Hyundai,Sonata,Petrol,CUST9432,Houston,60,47307.7,REG-86878
+Mercedes,C-Class,Electric,CUST5731,San Francisco,44,22359.31,REG-94800
+Mercedes,GLC,Petrol,CUST2262,Chicago,46,51101.4,REG-71758
+Ford,Explorer,Petrol,CUST6943,New York,58,28057.34,REG-22062
+Chevrolet,Equinox,Diesel,CUST1406,Chicago,70,58003.45,REG-70090
+Hyundai,Sonata,Diesel,CUST6357,Los Angeles,18,82938.89,REG-93537
+Chevrolet,Tahoe,Hybrid,CUST4304,Seattle,68,62231.84,REG-12045
+Hyundai,Tucson,Diesel,CUST9131,Dallas,65,6574.14,REG-64726
+Toyota,Highlander,Electric,CUST4642,Boston,40,53678.43,REG-49019
+BMW,5 Series,Electric,CUST8906,Dallas,50,59608.54,REG-31367
+BMW,3 Series,Electric,CUST8406,Houston,69,50101.26,REG-97850
+Toyota,Highlander,Hybrid,CUST2672,San Francisco,24,14828.49,REG-22710
+Audi,A3,Hybrid,CUST3689,Houston,30,53638.59,REG-10336
+Toyota,Camry,Electric,CUST5602,Miami,39,26457.91,REG-59464
+Honda,Pilot,Diesel,CUST4682,Dallas,30,40917.37,REG-25062
+Audi,Q5,Electric,CUST9878,Dallas,45,47456.04,REG-55874
+Audi,A4,Petrol,CUST2629,Miami,24,51767.83,REG-62636
+Hyundai,Elantra,Electric,CUST5996,New York,36,83331.83,REG-62152
+Honda,CR-V,Electric,CUST1707,New York,63,10959.94,REG-39014
+Toyota,Rav4,Hybrid,CUST1882,Los Angeles,32,10423.63,REG-28552
+Kia,Sportage,Diesel,CUST9176,Los Angeles,25,27779.12,REG-53743
+Kia,Soul,Electric,CUST7176,Miami,22,3374.97,REG-32103
+Hyundai,Santa Fe,Electric,CUST3684,Chicago,43,14362.5,REG-21115
+Hyundai,Sonata,Electric,CUST6604,Houston,64,28712.71,REG-57876
+Honda,CR-V,Hybrid,CUST5049,San Francisco,42,34887.7,REG-43971
+Chevrolet,Malibu,Diesel,CUST6901,Miami,55,28655.75,REG-64168
+Kia,Seltos,Hybrid,CUST2558,Denver,38,37734.16,REG-83481
+Honda,CR-V,Electric,CUST8876,Los Angeles,36,76109.55,REG-26218
+Chevrolet,Traverse,Electric,CUST7297,Seattle,43,40315.44,REG-60331
+Nissan,Altima,Petrol,CUST5793,Denver,56,55373.2,REG-52906
+Kia,Seltos,Hybrid,CUST3903,San Francisco,47,46320.36,REG-93056
+Audi,Q7,Electric,CUST4194,Chicago,24,53867.87,REG-83427
+Audi,Q5,Hybrid,CUST8046,Boston,19,45796.19,REG-57437
+Chevrolet,Equinox,Diesel,CUST4746,Los Angeles,62,43323.15,REG-82373
+Nissan,Rogue,Hybrid,CUST4894,Miami,23,42405.48,REG-25008
+Kia,Sportage,Hybrid,CUST7656,Dallas,51,80923.77,REG-10035
+Ford,Fusion,Hybrid,CUST1634,Seattle,55,75405.14,REG-76498
+Hyundai,Santa Fe,Electric,CUST1677,Seattle,22,38826.08,REG-52470
+Honda,Civic,Petrol,CUST5325,Seattle,37,9028.02,REG-92138
+BMW,X3,Petrol,CUST7125,Seattle,49,37646.81,REG-54358
+Ford,Escape,Diesel,CUST2797,New York,70,59074.27,REG-86888
+Mercedes,E-Class,Diesel,CUST3009,Chicago,46,62045.63,REG-27422
+Nissan,Murano,Electric,CUST6931,Seattle,66,12096.87,REG-28441
+Ford,Explorer,Petrol,CUST9131,Houston,34,46385.11,REG-32305
+Kia,Soul,Hybrid,CUST1304,Denver,20,15449.74,REG-45240
+Hyundai,Santa Fe,Petrol,CUST9143,Denver,52,7519.74,REG-78100
+Nissan,Rogue,Petrol,CUST1286,Houston,57,44700.53,REG-21240
+Honda,CR-V,Electric,CUST9831,Los Angeles,60,20811.89,REG-37174
+BMW,3 Series,Petrol,CUST8297,Houston,55,26197.28,REG-49494
+Hyundai,Santa Fe,Petrol,CUST8305,San Francisco,65,79161.65,REG-64661
+Chevrolet,Traverse,Electric,CUST1436,Denver,39,5438.67,REG-24551
+Audi,A4,Petrol,CUST9206,Miami,56,20517.3,REG-64680
+Ford,Escape,Electric,CUST5818,San Francisco,32,53931.63,REG-50441
+Chevrolet,Traverse,Electric,CUST7003,New York,68,19704.38,REG-23826
+Chevrolet,Malibu,Electric,CUST9415,Houston,66,18870.47,REG-30664
+Nissan,Altima,Diesel,CUST6433,Denver,54,66470.59,REG-65610
+Toyota,Corolla,Electric,CUST7023,Miami,44,74788.1,REG-93293
+Mercedes,C-Class,Petrol,CUST5848,New York,54,28711.88,REG-30979
+Chevrolet,Malibu,Diesel,CUST2284,Dallas,70,26375.76,REG-90894
+Kia,Soul,Diesel,CUST4536,Chicago,33,30851.75,REG-54188
+Honda,CR-V,Electric,CUST9645,Denver,31,20161.48,REG-92587
+Nissan,Rogue,Petrol,CUST4993,Seattle,27,32257.71,REG-31696
+Toyota,Rav4,Petrol,CUST3241,New York,42,22610.57,REG-74143
+Nissan,Rogue,Electric,CUST9282,Boston,53,71017.68,REG-20219
+Audi,Q7,Diesel,CUST1148,Dallas,34,74568.26,REG-35912
+BMW,3 Series,Hybrid,CUST2869,Dallas,42,13593.54,REG-72029
+Mercedes,GLA,Hybrid,CUST5177,Los Angeles,64,51083.81,REG-88541
+Mercedes,C-Class,Hybrid,CUST4610,Miami,19,47259.87,REG-74124
+Mercedes,GLC,Diesel,CUST9724,Boston,66,38997.46,REG-17645
+Toyota,Corolla,Electric,CUST4427,Chicago,19,16951.62,REG-51999
+Mercedes,GLC,Electric,CUST9465,New York,42,26186.87,REG-82652
+Nissan,Murano,Petrol,CUST1921,Los Angeles,36,43504.59,REG-60357
+Audi,A4,Hybrid,CUST2621,San Francisco,44,41277.16,REG-41837
+Chevrolet,Equinox,Diesel,CUST7606,Chicago,53,72947.28,REG-19495
+Kia,Soul,Electric,CUST2000,Chicago,30,4044.01,REG-59928
+Hyundai,Tucson,Electric,CUST4817,Chicago,57,67857.44,REG-30903
+Audi,Q7,Hybrid,CUST8228,Seattle,40,66462.68,REG-26374
+Hyundai,Sonata,Hybrid,CUST3456,Boston,59,40979.73,REG-58665
+Kia,Soul,Diesel,CUST4425,Miami,40,38220.31,REG-44593
+Chevrolet,Equinox,Diesel,CUST9775,Houston,65,75064.58,REG-83865
+Ford,Escape,Diesel,CUST5178,Denver,41,71239.23,REG-31901
+Hyundai,Tucson,Petrol,CUST5085,Los Angeles,62,65709.88,REG-36091
+Hyundai,Sonata,Petrol,CUST7722,Seattle,51,18945.8,REG-65266
+Honda,Accord,Hybrid,CUST3504,Seattle,18,44388.89,REG-11355
+Chevrolet,Traverse,Electric,CUST6369,Miami,49,42427.78,REG-67609
+Chevrolet,Tahoe,Petrol,CUST2732,Los Angeles,56,74995.89,REG-58231
+Nissan,Rogue,Diesel,CUST6842,Seattle,40,20921.54,REG-24470
+Ford,Explorer,Diesel,CUST6224,Denver,68,49955.23,REG-94584
+Nissan,Murano,Diesel,CUST7243,Miami,48,5492.89,REG-94523

@@ -1,0 +1,2001 @@
+Make,Model,Year,Sale Price,Final Price,Dealer Name,Dealer Location
+Toyota,Corolla,2024,29569.57,29303.01,DriveTime,Denver
+Audi,A3,2024,6773.62,3807.25,AutoNation,Los Angeles
+Toyota,Camry,2020,76560.15,80080.6,DriveTime,Dallas
+Nissan,Sentra,2020,8181.15,6800.23,CarMax,Denver
+Audi,Q7,2019,17802.69,18300.84,TrueCar,Denver
+Audi,A3,2024,49462.93,52295.41,Vroom,Houston
+Audi,Q7,2019,26007.51,26439.74,CarMax,Dallas
+Chevrolet,Tahoe,2018,63364.78,64813.61,TrueCar,Denver
+BMW,X3,2022,24557.74,23377.52,DriveTime,Chicago
+Toyota,Highlander,2017,28598.62,29804.51,TrueCar,Dallas
+Kia,Seltos,2022,44236.11,47212.79,Vroom,Houston
+Honda,Pilot,2024,41245.7,40889.37,Vroom,Miami
+Toyota,Rav4,2023,79630.49,83132.91,AutoNation,Seattle
+Ford,Escape,2023,32019.86,33823.47,Local Dealer,Los Angeles
+Ford,Focus,2022,46393.1,45319.28,CarMax,Denver
+Kia,Sportage,2021,64734.17,66848.04,Local Dealer,Miami
+Audi,Q5,2021,58644.33,62054.97,AutoNation,Houston
+Honda,Civic,2020,22924.73,23533.74,AutoNation,Dallas
+Hyundai,Santa Fe,2018,49986.37,53833.26,Local Dealer,Dallas
+Honda,Pilot,2017,33638.2,35487.92,AutoNation,Denver
+Ford,Fusion,2016,32661.04,31459.31,TrueCar,San Francisco
+Mercedes,C-Class,2019,47153.37,48627.86,AutoNation,Houston
+Chevrolet,Malibu,2015,78403.17,83473.54,Local Dealer,Miami
+Mercedes,GLA,2017,57475.47,59870.23,TrueCar,Chicago
+Ford,Explorer,2021,71565.16,72919.38,TrueCar,Dallas
+Audi,A3,2017,54515.07,56777.42,Local Dealer,Houston
+Audi,Q5,2022,34387.53,36871.96,DriveTime,San Francisco
+Hyundai,Elantra,2017,49711.63,49180.9,CarMax,Boston
+Honda,Accord,2017,57936.87,62486.66,Local Dealer,San Francisco
+BMW,5 Series,2019,20436.81,20757.32,DriveTime,Los Angeles
+Honda,Civic,2024,76332.51,79880.66,Vroom,Boston
+Kia,Sorento,2022,6553.47,2124.52,AutoNation,San Francisco
+Audi,A4,2020,79132.44,81038.22,TrueCar,San Francisco
+Kia,Soul,2023,23386.89,23404.3,TrueCar,San Francisco
+Chevrolet,Traverse,2018,55202.3,56618.88,Local Dealer,San Francisco
+Chevrolet,Traverse,2018,9178.41,9800.66,TrueCar,Houston
+Chevrolet,Malibu,2023,59800.1,62565.86,DriveTime,Chicago
+Hyundai,Santa Fe,2015,59379.87,61008.3,CarMax,Seattle
+Nissan,Altima,2017,57183.21,57866.47,DriveTime,Miami
+Kia,Soul,2023,50178.14,50364.38,Vroom,Denver
+Hyundai,Sonata,2022,64003.23,67118.4,Vroom,Seattle
+Honda,CR-V,2023,57174.04,61335.22,TrueCar,Seattle
+BMW,X3,2021,77381.46,80837.23,Vroom,Seattle
+Honda,Civic,2024,36177.89,34373.15,CarMax,Chicago
+Chevrolet,Tahoe,2019,75132.33,81132.28,CarMax,New York
+Ford,Focus,2020,77006.88,79165.28,TrueCar,New York
+Nissan,Altima,2019,70139.3,74807.05,Local Dealer,Dallas
+Chevrolet,Traverse,2016,41775.56,43757.03,TrueCar,Los Angeles
+Hyundai,Tucson,2022,63476.3,66226.46,DriveTime,Boston
+Audi,A3,2018,23742.71,24475.12,DriveTime,Houston
+Honda,Pilot,2016,15566.97,16253.96,Local Dealer,Los Angeles
+Mercedes,GLA,2015,48921.09,51312.16,Vroom,San Francisco
+Toyota,Corolla,2021,64624.62,66169.32,TrueCar,Los Angeles
+Audi,Q5,2024,72521.65,76294.15,CarMax,San Francisco
+Chevrolet,Malibu,2020,48218.35,52043.86,TrueCar,Dallas
+Hyundai,Santa Fe,2016,73259.82,75003.54,Local Dealer,New York
+Audi,Q5,2020,28711.32,28005.83,Vroom,Houston
+Audi,A4,2020,59068.1,61518.53,TrueCar,Chicago
+Mercedes,E-Class,2023,17890.99,16158.75,Local Dealer,San Francisco
+Kia,Sorento,2019,13627.13,12209.18,TrueCar,Seattle
+Audi,Q7,2015,71886.2,73948.53,Vroom,Seattle
+Ford,Escape,2018,45104.86,45144.58,TrueCar,Dallas
+Honda,CR-V,2021,12617.93,10192.33,Vroom,Dallas
+Honda,Civic,2024,31616.53,33827.5,TrueCar,Chicago
+Honda,Pilot,2018,67857.23,71873.25,TrueCar,Miami
+Ford,Explorer,2018,12744.27,13348.03,CarMax,Los Angeles
+Audi,Q5,2015,14077.26,11902.27,Vroom,Houston
+Nissan,Sentra,2018,10670.35,11338.35,CarMax,Denver
+Hyundai,Sonata,2023,54451.76,57300.42,TrueCar,San Francisco
+Hyundai,Elantra,2024,37225.41,39351.9,CarMax,Dallas
+Audi,Q7,2020,47918.32,47256.67,Local Dealer,Boston
+Chevrolet,Malibu,2018,12404.9,11195.23,TrueCar,San Francisco
+Audi,Q7,2023,5068.46,2588.11,Vroom,San Francisco
+Hyundai,Elantra,2020,79316.16,81560.31,CarMax,Los Angeles
+Ford,Focus,2015,12703.09,10252.86,AutoNation,Los Angeles
+Audi,Q5,2019,35897.41,35439.14,CarMax,Boston
+Hyundai,Sonata,2024,79236.19,82530.99,AutoNation,Denver
+Honda,CR-V,2015,16188.87,16094.86,AutoNation,Boston
+Kia,Sorento,2015,53552.84,54582.49,AutoNation,Dallas
+Ford,Explorer,2016,70570.99,74888.48,DriveTime,Miami
+Nissan,Altima,2017,30464.79,29396.3,AutoNation,Denver
+Mercedes,C-Class,2017,68339.26,72469.81,CarMax,San Francisco
+Nissan,Sentra,2022,40336.67,39404.43,AutoNation,Denver
+Honda,CR-V,2022,40862.03,39592.12,CarMax,Seattle
+Honda,Civic,2023,56792.26,59402.68,TrueCar,Chicago
+Nissan,Murano,2017,43501.54,43644.16,DriveTime,Miami
+Chevrolet,Malibu,2017,44810.17,43505.7,AutoNation,Chicago
+Mercedes,E-Class,2023,53774.26,55121.63,TrueCar,Miami
+Chevrolet,Equinox,2022,77303.1,80817.26,Vroom,Houston
+Toyota,Highlander,2020,7319.96,7455.85,TrueCar,Dallas
+Ford,Explorer,2021,32763.68,32795.17,Local Dealer,Chicago
+Honda,Civic,2016,60509.61,61338.96,DriveTime,Denver
+BMW,3 Series,2019,59628.9,59583.59,Vroom,Los Angeles
+Hyundai,Elantra,2022,47294.86,49457.39,AutoNation,Dallas
+Nissan,Altima,2016,64271.02,68283.48,CarMax,Boston
+Mercedes,GLA,2022,11322.53,11628.53,Vroom,Denver
+Chevrolet,Traverse,2021,28249.02,26684.2,TrueCar,Los Angeles
+Audi,A3,2021,70203.74,74847.56,Local Dealer,San Francisco
+Chevrolet,Traverse,2018,48844.81,51493.97,Vroom,San Francisco
+Ford,Focus,2017,47316.49,46231.02,AutoNation,Los Angeles
+Kia,Sportage,2021,62699.04,62860.32,Local Dealer,Dallas
+Chevrolet,Malibu,2015,72869.05,75268.81,Local Dealer,Chicago
+Mercedes,GLC,2021,74857.5,77537.26,CarMax,Boston
+Toyota,Rav4,2016,23487.78,21607.34,CarMax,Boston
+Nissan,Altima,2020,51347.5,55443.36,DriveTime,Miami
+Chevrolet,Malibu,2021,23986.42,21615.81,TrueCar,Houston
+Chevrolet,Equinox,2016,39904.61,40718.01,AutoNation,Denver
+Kia,Soul,2018,55882.78,58302.57,Local Dealer,Chicago
+BMW,3 Series,2015,15815.21,13805.6,TrueCar,San Francisco
+Toyota,Corolla,2022,36967.39,36270.15,AutoNation,Los Angeles
+Ford,Focus,2022,43393.24,43183.14,Vroom,Los Angeles
+Toyota,Corolla,2024,40670.69,42677.65,Local Dealer,Los Angeles
+Audi,A3,2023,33247.05,32071.57,Local Dealer,Houston
+Mercedes,E-Class,2015,40728.73,40598.03,TrueCar,New York
+Audi,A4,2022,59743.58,61890.34,Vroom,Houston
+Kia,Sorento,2016,66833.02,68665.1,Vroom,Boston
+Nissan,Altima,2021,29371.65,31596.98,AutoNation,Dallas
+Mercedes,C-Class,2015,8679.24,6795.61,DriveTime,Los Angeles
+Mercedes,GLA,2017,31505.52,30365.58,TrueCar,Seattle
+Kia,Soul,2019,57594.06,60275.63,TrueCar,San Francisco
+Nissan,Altima,2016,26286.52,24478.98,Local Dealer,Seattle
+Honda,Pilot,2022,42629.21,44739.5,CarMax,Boston
+Chevrolet,Tahoe,2023,7924.84,3794.41,TrueCar,Dallas
+Honda,CR-V,2019,29463.02,27837.04,Vroom,Chicago
+Toyota,Corolla,2022,38733.02,39469.96,AutoNation,Los Angeles
+Chevrolet,Equinox,2021,39939.01,39986.43,AutoNation,Miami
+Honda,CR-V,2021,36145.42,34747.87,DriveTime,Boston
+Audi,Q7,2021,30511.78,32257.67,CarMax,Boston
+Toyota,Highlander,2015,48359.29,48780.31,AutoNation,Miami
+Mercedes,E-Class,2020,20617.61,20669.23,DriveTime,New York
+Hyundai,Sonata,2023,71911.45,73451.09,CarMax,Boston
+Toyota,Highlander,2020,11126.17,7826.99,AutoNation,Seattle
+Mercedes,C-Class,2015,9967.49,6520.17,AutoNation,Los Angeles
+Chevrolet,Traverse,2020,30651.19,31498.74,TrueCar,New York
+Chevrolet,Malibu,2022,36507.42,38342,CarMax,Seattle
+Chevrolet,Traverse,2018,30719.19,32853.89,DriveTime,San Francisco
+Hyundai,Elantra,2018,17511.04,17263.55,DriveTime,New York
+Nissan,Rogue,2021,42020.75,40745.37,Vroom,San Francisco
+BMW,3 Series,2015,27582.2,25644.99,CarMax,New York
+Mercedes,E-Class,2017,74751.75,79038.69,TrueCar,Denver
+Toyota,Rav4,2018,31032.13,29450.78,TrueCar,Dallas
+Ford,Explorer,2015,40043.99,41873.19,TrueCar,Chicago
+Mercedes,C-Class,2015,77646.35,80681.65,CarMax,San Francisco
+Hyundai,Sonata,2016,73831.47,74747.61,TrueCar,New York
+Kia,Sportage,2021,15815.22,12137.57,TrueCar,Miami
+Mercedes,C-Class,2021,70945.05,74338.22,Local Dealer,Seattle
+Ford,Fusion,2024,48383.44,51501.02,Vroom,Seattle
+Audi,A4,2018,11980.59,10768.99,Vroom,Miami
+Mercedes,GLA,2017,23988.78,21611.93,Vroom,Boston
+Audi,Q7,2024,58591.16,58634.7,AutoNation,Los Angeles
+Honda,Civic,2015,54189.16,53854.78,Local Dealer,New York
+Chevrolet,Traverse,2017,40896.16,39593.49,CarMax,New York
+Kia,Sportage,2024,23883.22,22931.45,AutoNation,Chicago
+Kia,Soul,2017,48917.69,49060.51,Vroom,Chicago
+Hyundai,Tucson,2016,65540.43,66600.51,CarMax,Seattle
+Honda,CR-V,2016,62102.34,64906.84,Local Dealer,Houston
+Hyundai,Tucson,2023,78102.57,80144.19,CarMax,Boston
+Toyota,Rav4,2018,7919.19,6256.32,Vroom,Miami
+Nissan,Sentra,2015,13996.81,11786.24,CarMax,San Francisco
+Toyota,Corolla,2016,40123.64,42905.71,AutoNation,Los Angeles
+Kia,Sportage,2023,20755.6,22025.06,Local Dealer,Los Angeles
+Nissan,Sentra,2022,52145.85,53828.07,CarMax,Denver
+Chevrolet,Malibu,2018,53204.93,57127.18,CarMax,New York
+Chevrolet,Equinox,2016,50780.92,50273.88,TrueCar,Denver
+Nissan,Murano,2020,25611.86,23691.59,Local Dealer,Miami
+Nissan,Altima,2021,67522.49,68418.32,Vroom,Houston
+BMW,3 Series,2016,59590.99,59868.89,Vroom,Boston
+Nissan,Altima,2021,17341.6,17900.72,DriveTime,Denver
+Ford,Fusion,2015,26483.5,24145.23,CarMax,Boston
+Honda,CR-V,2017,36121.25,37435.71,TrueCar,Miami
+Audi,Q5,2017,32904.72,30996.52,Local Dealer,Los Angeles
+Audi,Q7,2015,79652.03,82893.36,Vroom,Chicago
+Toyota,Camry,2019,25301.77,23476.13,CarMax,San Francisco
+Hyundai,Tucson,2020,43063.21,43802.58,Local Dealer,Denver
+Nissan,Sentra,2016,16664.8,14425.03,AutoNation,Houston
+BMW,5 Series,2020,57058.37,58496.25,Local Dealer,Chicago
+Mercedes,GLC,2016,14264.44,11258.82,TrueCar,Denver
+Audi,A3,2021,73615.26,76667.23,TrueCar,Chicago
+Mercedes,GLC,2018,45845.39,45666.82,CarMax,Houston
+Hyundai,Elantra,2024,22809.13,22323.15,TrueCar,Miami
+Chevrolet,Malibu,2020,12168.64,13022.87,TrueCar,Chicago
+Hyundai,Tucson,2020,52938.75,54980.56,Local Dealer,Chicago
+Toyota,Rav4,2020,65137.49,65991.25,Local Dealer,Seattle
+Ford,Focus,2022,11765.84,9130.96,AutoNation,San Francisco
+Chevrolet,Equinox,2024,75399.12,76706.82,AutoNation,Chicago
+Hyundai,Santa Fe,2021,21252.9,21367.19,Vroom,Denver
+Kia,Sorento,2023,71886.28,75035.81,DriveTime,Houston
+Hyundai,Sonata,2023,56825.51,58462.88,Local Dealer,Houston
+Toyota,Corolla,2019,50307.12,52695.9,Vroom,Dallas
+Audi,Q7,2017,74753.54,80512.72,Vroom,Houston
+Hyundai,Santa Fe,2018,28002.26,26190.55,TrueCar,Miami
+Hyundai,Sonata,2024,23500.39,22455.92,DriveTime,San Francisco
+Nissan,Sentra,2024,69313.47,72554.54,Vroom,Dallas
+Ford,Fusion,2016,79549.04,83227.6,Vroom,Denver
+Mercedes,C-Class,2022,11780.28,7819.05,Vroom,Houston
+Honda,CR-V,2021,13750.98,14252.28,Local Dealer,San Francisco
+Hyundai,Tucson,2023,60774.08,64031.43,Local Dealer,Denver
+BMW,X3,2024,32720.44,33891.02,AutoNation,Chicago
+Mercedes,E-Class,2018,69119.26,70520.2,TrueCar,Dallas
+Toyota,Rav4,2017,71730.1,72886.65,Local Dealer,Dallas
+Honda,CR-V,2024,31559.65,32392.69,CarMax,San Francisco
+Chevrolet,Equinox,2024,29475.34,29423.64,AutoNation,Seattle
+Hyundai,Tucson,2024,61962.8,62102.9,Vroom,San Francisco
+Toyota,Highlander,2015,34099.9,32509.8,TrueCar,Miami
+Nissan,Murano,2020,73353.56,75686.97,CarMax,Boston
+Nissan,Altima,2020,18290.88,17195.11,Local Dealer,Boston
+Nissan,Murano,2018,10415.21,7204.97,CarMax,Miami
+Hyundai,Elantra,2015,32221.23,33415.8,Local Dealer,Los Angeles
+Mercedes,GLC,2018,13537.14,11629.19,CarMax,Houston
+BMW,X3,2024,23046.82,23881.57,AutoNation,Seattle
+Hyundai,Santa Fe,2017,24447.64,22430.97,CarMax,Denver
+Audi,A3,2019,63844.76,65807.17,Local Dealer,Miami
+Kia,Sportage,2016,17832.16,14800.7,AutoNation,Houston
+Hyundai,Elantra,2021,46983.09,46097.27,Local Dealer,Chicago
+Hyundai,Tucson,2019,63285.21,67764.02,DriveTime,Seattle
+Ford,Escape,2017,62335.54,66954.52,Local Dealer,San Francisco
+Nissan,Murano,2021,5708.05,4803.07,Local Dealer,Miami
+Mercedes,E-Class,2017,58907.18,62175.48,AutoNation,Miami
+Kia,Seltos,2022,71531.3,73548.24,DriveTime,Miami
+Toyota,Corolla,2017,16782.31,14374.03,TrueCar,Los Angeles
+Hyundai,Elantra,2017,65909.47,70087.02,Vroom,New York
+Ford,Escape,2019,19043.97,17590.25,AutoNation,Denver
+Nissan,Rogue,2021,20980.61,21890.45,DriveTime,Seattle
+Hyundai,Elantra,2018,17442.03,16510.46,CarMax,Miami
+Mercedes,GLC,2022,55697.89,55337.13,Local Dealer,Los Angeles
+Mercedes,C-Class,2015,69083.51,71822.5,Local Dealer,New York
+BMW,3 Series,2021,47023.29,45881.31,Vroom,Houston
+Nissan,Sentra,2019,67160.93,68444.85,TrueCar,Denver
+Chevrolet,Traverse,2021,8203.99,6555.67,AutoNation,Miami
+Kia,Seltos,2024,72778.74,75248.24,CarMax,Dallas
+Honda,Civic,2018,67592.45,71510.38,TrueCar,Chicago
+Chevrolet,Equinox,2024,72666.52,76350.76,AutoNation,Boston
+Chevrolet,Traverse,2024,75705.05,79316.36,CarMax,New York
+Nissan,Altima,2017,76527.97,78458.98,DriveTime,Seattle
+Mercedes,GLC,2023,55185.14,55105.82,Vroom,Boston
+BMW,X5,2020,60478.84,63021.73,DriveTime,Boston
+Honda,CR-V,2021,37701.23,37099.83,Vroom,San Francisco
+Mercedes,GLA,2016,30762.35,30015.14,CarMax,Seattle
+BMW,3 Series,2016,68890.28,72090.6,CarMax,Houston
+Nissan,Sentra,2022,70169.21,70867.98,CarMax,New York
+Mercedes,GLC,2022,65180.37,66118.43,DriveTime,Chicago
+Mercedes,GLC,2016,66769.1,70946.09,DriveTime,Miami
+Mercedes,GLA,2024,37571.83,36045.97,AutoNation,New York
+Toyota,Camry,2024,70044.89,73786.98,AutoNation,Denver
+Audi,A4,2019,13674.77,12621.47,Vroom,New York
+Toyota,Camry,2019,31422.14,30380.92,DriveTime,San Francisco
+BMW,X3,2023,75714.45,79411.33,Vroom,Seattle
+Ford,Explorer,2017,7371.88,6622.43,DriveTime,San Francisco
+Ford,Focus,2019,75546.87,79023.11,CarMax,San Francisco
+Ford,Explorer,2020,79346.8,85104.15,AutoNation,New York
+Honda,Civic,2019,30377.23,30132.34,DriveTime,San Francisco
+Chevrolet,Malibu,2020,48279.73,51866.51,Local Dealer,New York
+Toyota,Corolla,2023,11646.21,12184.44,TrueCar,San Francisco
+Kia,Sorento,2022,65528.6,69226.15,DriveTime,Houston
+Honda,CR-V,2018,41535.29,44602.43,CarMax,New York
+Honda,Accord,2016,45801.65,45640.75,CarMax,Miami
+Kia,Seltos,2016,35743.26,34192.66,Vroom,Houston
+Ford,Focus,2018,25867.9,27523.91,DriveTime,Seattle
+Hyundai,Tucson,2017,62167.06,63551.73,DriveTime,Houston
+Ford,Fusion,2017,35416.34,37246.09,Local Dealer,Los Angeles
+BMW,X5,2016,51797.63,52638.23,Vroom,Miami
+Honda,Accord,2019,75363.54,80581.62,Vroom,Los Angeles
+Ford,Fusion,2019,75881.06,77553.47,AutoNation,Houston
+Nissan,Rogue,2022,44642.94,45535.23,DriveTime,Miami
+Toyota,Corolla,2016,47541.93,46978.45,CarMax,Seattle
+Nissan,Sentra,2017,58326.47,61915.92,DriveTime,Denver
+Audi,A3,2019,72050.4,72949.84,Local Dealer,San Francisco
+Toyota,Rav4,2016,45952.68,47862.28,CarMax,Dallas
+Hyundai,Elantra,2018,6102.63,4240.24,Vroom,Dallas
+Audi,A3,2016,46414.38,46774.16,Vroom,Los Angeles
+Chevrolet,Tahoe,2019,50357.61,51750.95,AutoNation,Houston
+Kia,Seltos,2015,58208.7,61925.49,CarMax,Miami
+Nissan,Murano,2024,16294.84,17479.26,TrueCar,Houston
+Ford,Explorer,2015,22578.82,23421.81,Vroom,Houston
+Audi,Q5,2019,8993.85,7453.82,AutoNation,Los Angeles
+Nissan,Altima,2018,28158.73,28709.32,CarMax,Boston
+Chevrolet,Equinox,2023,6687.1,4091.73,TrueCar,Chicago
+Honda,CR-V,2015,59174.77,60667.91,TrueCar,Dallas
+Ford,Explorer,2016,77650.87,78901.24,CarMax,New York
+Hyundai,Santa Fe,2020,49164.53,49004.51,TrueCar,New York
+Nissan,Sentra,2022,47798.15,47087.82,AutoNation,Chicago
+Kia,Sportage,2020,78245.03,82977.7,CarMax,Boston
+Ford,Fusion,2023,10484.47,8303.98,Vroom,Seattle
+Audi,A4,2024,11120.67,8611.89,TrueCar,Seattle
+Mercedes,GLA,2024,45209.45,48513.47,TrueCar,Seattle
+Chevrolet,Traverse,2020,25150.63,26215.16,DriveTime,San Francisco
+BMW,3 Series,2023,20730.49,20840.01,AutoNation,Houston
+BMW,5 Series,2019,48347.36,48047.09,CarMax,Chicago
+Ford,Escape,2019,43635.39,46226.08,DriveTime,Dallas
+Audi,Q7,2015,5119.3,1613.19,TrueCar,New York
+Toyota,Corolla,2022,12960.83,12629.72,AutoNation,Miami
+Honda,Pilot,2016,27582.43,27507.04,CarMax,New York
+Hyundai,Sonata,2021,29987.22,31378.98,Vroom,New York
+BMW,5 Series,2022,7321.04,4314.26,Local Dealer,Seattle
+Hyundai,Elantra,2020,22389.48,21493.48,DriveTime,Boston
+Audi,A3,2015,61699.82,62376.67,Vroom,Denver
+Ford,Escape,2022,16478.28,14392.89,AutoNation,Denver
+Kia,Sorento,2018,14478.49,12464.74,Local Dealer,San Francisco
+Mercedes,GLC,2016,29384.91,28599.04,DriveTime,Boston
+Nissan,Altima,2019,45311.9,44899.67,Local Dealer,Boston
+Ford,Escape,2023,66480.08,69341.14,TrueCar,San Francisco
+BMW,X3,2019,51558.58,55318,DriveTime,Dallas
+BMW,3 Series,2016,28368.71,30462.51,DriveTime,Seattle
+Mercedes,E-Class,2022,61502.92,65862.21,DriveTime,Seattle
+Toyota,Corolla,2016,55198.7,56159.7,DriveTime,Houston
+Chevrolet,Traverse,2020,15195.41,11943.28,AutoNation,Miami
+Hyundai,Sonata,2021,40339.11,42872.71,DriveTime,Boston
+Chevrolet,Malibu,2018,42657.17,44941.19,DriveTime,Miami
+BMW,X5,2017,41655.62,44987.52,CarMax,Los Angeles
+Mercedes,C-Class,2018,9689.32,6987.95,Vroom,Houston
+Audi,Q5,2022,76569.99,81347.67,AutoNation,Miami
+Toyota,Corolla,2015,54707.32,56893.06,DriveTime,Denver
+Honda,Pilot,2020,25872.16,27097.7,DriveTime,New York
+Hyundai,Sonata,2020,50445.57,51619.98,Local Dealer,Chicago
+Chevrolet,Tahoe,2024,56427.94,58090.81,Local Dealer,Boston
+Honda,CR-V,2019,59508.26,64103.53,AutoNation,Seattle
+Hyundai,Santa Fe,2015,61434.67,61681.25,AutoNation,Los Angeles
+Toyota,Camry,2019,54466.5,54914.37,AutoNation,Seattle
+Audi,Q5,2015,30038.56,29201.88,Local Dealer,Boston
+Hyundai,Sonata,2023,75699,79478.75,Vroom,Denver
+Kia,Seltos,2016,67529.08,72160.67,Vroom,Los Angeles
+Hyundai,Santa Fe,2015,52033.6,51597.58,TrueCar,Dallas
+Mercedes,GLC,2017,69302.35,71972.53,DriveTime,Miami
+Nissan,Rogue,2024,48238.53,50665.11,CarMax,Houston
+Kia,Sorento,2015,18159.61,19145.07,DriveTime,Boston
+Kia,Sorento,2017,42139.62,41475.5,Local Dealer,Houston
+Kia,Seltos,2015,23057.02,23951.73,Vroom,Miami
+Toyota,Rav4,2024,18354.87,17609.25,AutoNation,Los Angeles
+Mercedes,E-Class,2017,57912.73,60314.42,TrueCar,Boston
+Chevrolet,Malibu,2016,74628.48,75804.47,CarMax,New York
+Mercedes,E-Class,2018,5469.82,1366.59,AutoNation,Dallas
+BMW,X5,2023,33593.99,32109.93,Local Dealer,Los Angeles
+Toyota,Corolla,2019,36880.6,39498.59,AutoNation,New York
+Ford,Fusion,2015,55671.53,56656.55,DriveTime,Boston
+Audi,Q7,2018,25100.56,26611.3,AutoNation,Chicago
+Audi,Q7,2021,61138.55,64592.79,Local Dealer,Seattle
+Ford,Fusion,2019,24914.41,24500.23,CarMax,Chicago
+BMW,X3,2015,47383.6,49272.37,TrueCar,San Francisco
+BMW,5 Series,2015,18124.17,16734.37,TrueCar,Los Angeles
+Chevrolet,Traverse,2024,8770.79,4914.76,CarMax,San Francisco
+Toyota,Corolla,2021,48215.73,49276.65,AutoNation,Denver
+Honda,CR-V,2017,57684.98,61625.52,CarMax,Miami
+Kia,Seltos,2021,31791.36,30787.23,Local Dealer,Denver
+Toyota,Camry,2023,78293.69,80030.01,Vroom,Seattle
+Honda,CR-V,2024,64623.26,65394.04,DriveTime,Dallas
+Honda,CR-V,2024,40297.15,42271.11,Local Dealer,Boston
+Toyota,Corolla,2018,53706.05,57217.07,DriveTime,New York
+BMW,5 Series,2019,7443.95,6753.19,DriveTime,Chicago
+Mercedes,GLC,2017,44587.28,47668.32,DriveTime,New York
+Kia,Sportage,2015,33383.46,31646.42,Local Dealer,San Francisco
+Honda,Pilot,2019,71585.68,77207.52,TrueCar,Dallas
+Kia,Soul,2015,5983.21,5203.63,CarMax,Boston
+Kia,Seltos,2023,13973.59,12954.97,AutoNation,Miami
+Mercedes,GLA,2016,60045.03,62991.63,CarMax,Seattle
+Chevrolet,Traverse,2015,28394.16,28879.46,DriveTime,Dallas
+Ford,Fusion,2018,75142.47,78237.42,CarMax,Los Angeles
+Chevrolet,Equinox,2019,30576,32866.61,Vroom,New York
+Ford,Explorer,2022,9726.51,8580.78,DriveTime,Seattle
+Mercedes,C-Class,2022,24006.09,25068.34,Vroom,Miami
+Toyota,Highlander,2020,47280.58,50020.24,AutoNation,Dallas
+Kia,Seltos,2018,15787.04,15698.75,DriveTime,Miami
+Hyundai,Elantra,2023,59660.46,59661.77,CarMax,Dallas
+Chevrolet,Tahoe,2015,15699.19,12516.81,DriveTime,Miami
+Hyundai,Tucson,2016,53781.13,58010.4,Vroom,Los Angeles
+Honda,Civic,2020,71183.9,74614.53,CarMax,New York
+Kia,Soul,2024,70288.4,75275.34,CarMax,San Francisco
+Ford,Focus,2017,7729.42,4138.03,Vroom,Chicago
+Ford,Escape,2024,63588.16,65061.2,DriveTime,New York
+Nissan,Altima,2022,63740.18,68754.59,Vroom,Los Angeles
+Hyundai,Sonata,2021,9293.13,6861.78,Vroom,Denver
+Nissan,Sentra,2023,24640.33,24271.09,Vroom,Miami
+Ford,Escape,2022,41187.03,44142.37,TrueCar,New York
+Ford,Focus,2018,73912.31,75380.06,TrueCar,Chicago
+Audi,A3,2018,78507.73,81834.11,TrueCar,Seattle
+Nissan,Murano,2020,41817.66,41798.6,TrueCar,Los Angeles
+Kia,Sportage,2015,17537.24,16942.94,DriveTime,Los Angeles
+Ford,Explorer,2018,41353.62,41061.35,Local Dealer,Boston
+Toyota,Camry,2021,29015.42,29267.59,CarMax,San Francisco
+Honda,Pilot,2018,72699.32,76697.8,Local Dealer,New York
+BMW,X5,2021,37070.99,39867.73,TrueCar,Houston
+Honda,Accord,2024,79143.67,84053.15,Local Dealer,Denver
+Ford,Escape,2019,25741.24,23995.59,DriveTime,Miami
+Ford,Fusion,2019,34030.51,34595.4,DriveTime,Boston
+Toyota,Highlander,2020,78545.8,82559.03,Local Dealer,Dallas
+Ford,Escape,2019,77890.56,80767.8,Vroom,Dallas
+Hyundai,Sonata,2019,73243.25,74941.46,CarMax,Seattle
+Hyundai,Santa Fe,2020,19141.26,16490.08,Vroom,New York
+Nissan,Sentra,2020,5373.2,2410.52,Vroom,Denver
+Nissan,Rogue,2022,20949.92,17736.05,CarMax,San Francisco
+Chevrolet,Malibu,2024,70084.49,74284.2,DriveTime,Houston
+Ford,Fusion,2016,14753.1,15889.9,Local Dealer,Seattle
+Mercedes,GLC,2017,10811.61,7062.42,CarMax,Houston
+Mercedes,GLA,2018,19426.44,16591.76,Vroom,New York
+Ford,Fusion,2019,36038.55,34261.78,Local Dealer,Miami
+Toyota,Camry,2023,12377.03,10188.51,TrueCar,Houston
+Nissan,Murano,2016,63222.52,68268.26,Vroom,Boston
+Ford,Escape,2019,28936.28,27589.68,CarMax,Chicago
+Mercedes,GLA,2019,39107.41,40458.96,TrueCar,Houston
+Audi,Q5,2019,33221.29,34030,Vroom,Seattle
+Honda,CR-V,2023,16879.13,13587.86,AutoNation,New York
+Kia,Seltos,2017,55344.08,55788.64,CarMax,Dallas
+Chevrolet,Equinox,2021,9243.32,6316.79,Local Dealer,San Francisco
+Honda,Pilot,2019,60315.64,62571.8,CarMax,New York
+Hyundai,Elantra,2020,63765.17,65850.95,AutoNation,San Francisco
+Honda,CR-V,2023,78999.78,80824.73,Vroom,Seattle
+Audi,A3,2018,72965.81,78482.7,AutoNation,Miami
+Ford,Explorer,2020,63659.95,67690.44,TrueCar,Miami
+Toyota,Camry,2020,67297.06,71254.35,AutoNation,Los Angeles
+Hyundai,Santa Fe,2017,78092.98,81196.56,TrueCar,Chicago
+Honda,Accord,2015,49921.71,49784.9,DriveTime,Denver
+BMW,3 Series,2020,79638.85,85710.92,Vroom,Houston
+Hyundai,Tucson,2024,63666.16,65101.76,DriveTime,Los Angeles
+Hyundai,Sonata,2017,25011.26,25586.69,CarMax,Dallas
+Kia,Soul,2018,30662.2,30690.52,CarMax,Denver
+Kia,Seltos,2023,59010.39,60533.47,CarMax,Miami
+BMW,5 Series,2024,9685.46,10254.87,TrueCar,San Francisco
+Mercedes,GLA,2018,72217.03,77171.47,DriveTime,Dallas
+Audi,Q7,2019,31654.31,31549.87,Local Dealer,Miami
+Mercedes,E-Class,2017,63227.12,65678.86,CarMax,Seattle
+Kia,Sorento,2021,33362.71,34853.76,TrueCar,Dallas
+Ford,Fusion,2015,24452.77,23979.9,AutoNation,Chicago
+Nissan,Altima,2016,73935.43,78989.49,TrueCar,New York
+Ford,Focus,2021,30857.1,30009.96,TrueCar,Chicago
+BMW,5 Series,2023,6019.45,6447.72,TrueCar,San Francisco
+Mercedes,C-Class,2016,7456.25,5955.25,CarMax,Denver
+Mercedes,E-Class,2017,28969.7,27028.72,TrueCar,Chicago
+Chevrolet,Malibu,2017,31573.53,32441.7,AutoNation,Denver
+Toyota,Rav4,2019,45566.17,45083.33,AutoNation,Denver
+Honda,Pilot,2016,76725.63,82226.03,Local Dealer,Houston
+Kia,Sorento,2019,6688.06,3714.64,AutoNation,Miami
+Kia,Seltos,2017,56458.23,57088.02,Local Dealer,Denver
+Audi,A3,2020,18278.21,16486.37,AutoNation,New York
+Hyundai,Sonata,2022,18893.25,19557.59,TrueCar,Seattle
+Chevrolet,Malibu,2021,14833.12,12393.46,Local Dealer,Dallas
+Audi,A3,2020,8660.03,4873.92,Local Dealer,Miami
+Hyundai,Tucson,2022,21639.84,18487.46,Local Dealer,Houston
+BMW,X3,2023,53198.39,53784.88,Vroom,Houston
+Kia,Sorento,2022,11390.42,12130.44,DriveTime,New York
+Honda,Civic,2016,26749.75,24445.28,Vroom,New York
+BMW,5 Series,2022,77685.04,79927.31,Local Dealer,Los Angeles
+Kia,Sportage,2024,49118.53,51002.34,CarMax,New York
+Mercedes,C-Class,2018,59067.48,63125.76,TrueCar,Chicago
+Mercedes,GLA,2022,64273.63,64677.92,Vroom,Los Angeles
+Toyota,Camry,2015,40480.15,40690.55,Local Dealer,Chicago
+Ford,Escape,2023,79134.33,80968.55,DriveTime,New York
+Ford,Escape,2015,5634.27,4588.01,CarMax,Dallas
+Mercedes,GLC,2024,72909.19,76454.14,CarMax,Chicago
+Toyota,Camry,2019,68747.44,69412.35,TrueCar,Denver
+Toyota,Highlander,2020,8326.51,5621.67,DriveTime,Seattle
+Kia,Soul,2021,13430.15,13584.42,Local Dealer,Boston
+Mercedes,C-Class,2022,9056,7950.22,AutoNation,Houston
+BMW,3 Series,2019,30123.18,28619.97,Vroom,New York
+Mercedes,E-Class,2022,24632.12,23823.05,TrueCar,Los Angeles
+Nissan,Sentra,2018,68122.75,73384.18,TrueCar,New York
+Chevrolet,Traverse,2023,63589.57,66323.35,Local Dealer,Chicago
+Audi,Q5,2019,6849.61,4650.99,Local Dealer,New York
+Nissan,Altima,2017,76701.98,80266.9,AutoNation,Seattle
+Mercedes,GLA,2018,50430,49589,Vroom,Boston
+Toyota,Rav4,2017,67983.02,68499.61,Local Dealer,Miami
+Audi,Q7,2016,33901.59,35461.76,TrueCar,Chicago
+Hyundai,Tucson,2022,45580.23,45349.9,DriveTime,Boston
+Toyota,Highlander,2024,58017.01,57727.01,Local Dealer,Dallas
+Hyundai,Sonata,2020,48487.8,51610.16,Local Dealer,Denver
+Nissan,Rogue,2021,17232.95,17788,TrueCar,Seattle
+Nissan,Altima,2019,48913.61,50076.8,AutoNation,Houston
+Honda,CR-V,2017,75185.73,79097.21,DriveTime,Miami
+Ford,Fusion,2022,5832.59,5758.77,AutoNation,San Francisco
+Audi,Q5,2022,70047.42,72083.8,Local Dealer,Dallas
+Toyota,Corolla,2017,44593.47,47360.88,CarMax,Dallas
+Honda,Accord,2021,24952.78,22129.97,Local Dealer,San Francisco
+Mercedes,GLA,2017,11655.3,12076.52,AutoNation,Boston
+Kia,Sorento,2024,55230.97,56790.5,AutoNation,Boston
+Audi,A3,2015,15500.89,13595.97,Local Dealer,Miami
+Kia,Sorento,2018,23633.16,21383.49,DriveTime,Los Angeles
+Toyota,Rav4,2024,8120.08,4497.31,AutoNation,Denver
+Kia,Seltos,2015,60728.63,64863.99,CarMax,Boston
+Mercedes,GLC,2020,38768.23,38484.87,Vroom,New York
+Chevrolet,Malibu,2017,23162.66,24365.83,TrueCar,Dallas
+Chevrolet,Traverse,2015,63868.07,67862.06,DriveTime,Dallas
+Toyota,Highlander,2018,18353.91,18124.73,Local Dealer,Denver
+Toyota,Rav4,2022,69397.4,71016.41,DriveTime,Houston
+Chevrolet,Traverse,2024,48739.57,48493.51,AutoNation,Houston
+Nissan,Altima,2020,38304.14,39814.49,DriveTime,Boston
+Toyota,Rav4,2020,26943.41,27101.29,CarMax,Boston
+BMW,3 Series,2017,73082.06,74563.61,DriveTime,Dallas
+Toyota,Camry,2015,8148.31,7306.6,DriveTime,Los Angeles
+Hyundai,Santa Fe,2024,26088.75,28007.72,TrueCar,San Francisco
+Ford,Escape,2022,34102.88,34628.36,TrueCar,Boston
+Audi,A4,2016,66512.38,67019.75,Local Dealer,Seattle
+Audi,A3,2023,58913.26,60686.91,AutoNation,San Francisco
+Nissan,Sentra,2017,16400.33,16899.86,DriveTime,New York
+Toyota,Highlander,2022,27536.03,25933.59,Local Dealer,Denver
+Toyota,Camry,2021,6521.34,4484.75,CarMax,Los Angeles
+BMW,5 Series,2017,6117.28,3629.7,AutoNation,New York
+Ford,Explorer,2023,71604.01,73193.15,Vroom,Denver
+Nissan,Altima,2021,43729.9,43125.75,TrueCar,Denver
+Ford,Fusion,2022,14123.81,11734.31,Vroom,Houston
+Nissan,Sentra,2018,55424.57,56205.3,CarMax,Chicago
+Honda,Accord,2022,37396.05,40128.56,Vroom,New York
+Hyundai,Santa Fe,2016,11981.26,9854.38,Local Dealer,Boston
+Hyundai,Sonata,2018,63067.64,67381.88,AutoNation,San Francisco
+Hyundai,Elantra,2017,68147.53,71472.43,DriveTime,Denver
+Hyundai,Santa Fe,2016,46370.39,46976.35,TrueCar,New York
+Chevrolet,Malibu,2018,52142.05,54053.68,TrueCar,Seattle
+Mercedes,E-Class,2021,62505.2,64770.98,CarMax,Miami
+BMW,X5,2019,51579.7,53034.15,AutoNation,Seattle
+Honda,Accord,2019,44347.31,47239.99,CarMax,New York
+Kia,Sportage,2018,78801.41,83974.15,AutoNation,Seattle
+Kia,Seltos,2016,14205.76,12115.57,Local Dealer,Denver
+Kia,Sorento,2018,22836.3,23607.7,CarMax,Seattle
+Ford,Focus,2016,62491.8,63519.51,Local Dealer,Dallas
+Hyundai,Elantra,2022,58188.55,62212.44,DriveTime,Seattle
+Audi,Q7,2019,9197.83,5851.83,DriveTime,Chicago
+Nissan,Sentra,2023,67739.75,71654.38,Vroom,Los Angeles
+Audi,A3,2020,72465.19,73484.08,AutoNation,Houston
+BMW,X5,2021,32566.36,32841.76,Local Dealer,Los Angeles
+Mercedes,C-Class,2023,25181.45,23029.96,TrueCar,Houston
+Toyota,Corolla,2020,47680.72,49836.9,Local Dealer,San Francisco
+BMW,5 Series,2022,10222.07,8820.2,CarMax,Los Angeles
+BMW,3 Series,2016,6626.92,5647.42,TrueCar,Miami
+Hyundai,Sonata,2024,13825.9,11402.4,TrueCar,San Francisco
+Hyundai,Santa Fe,2016,18421.69,19809.63,TrueCar,Miami
+BMW,X3,2023,13092.15,12346.28,CarMax,New York
+Mercedes,GLA,2023,11544.06,10874.88,Local Dealer,San Francisco
+Hyundai,Elantra,2023,45454.56,45412.76,Vroom,Dallas
+Nissan,Murano,2017,69014.12,73803.38,AutoNation,Chicago
+Audi,Q5,2019,43912.77,46230.67,TrueCar,Chicago
+Chevrolet,Tahoe,2023,25734.83,25487.01,DriveTime,Miami
+Toyota,Rav4,2019,15585.87,15224.27,Vroom,Denver
+Kia,Sorento,2017,61953.51,63600.45,AutoNation,Boston
+Honda,Accord,2021,42294.37,45310.64,CarMax,New York
+Hyundai,Tucson,2016,72935.79,74350.38,DriveTime,Houston
+BMW,3 Series,2020,13166.84,10156.62,Local Dealer,Houston
+Ford,Focus,2016,60097.27,63805.91,Vroom,Seattle
+Honda,Pilot,2020,41577.17,44142.74,TrueCar,Boston
+Audi,A4,2016,31645.2,34019.33,TrueCar,Los Angeles
+BMW,5 Series,2017,50763.94,53694.63,CarMax,New York
+Toyota,Corolla,2020,31865.08,31262.72,TrueCar,Miami
+Kia,Soul,2024,28479.85,27855.33,Vroom,Los Angeles
+Kia,Seltos,2022,20696.72,17742.82,AutoNation,San Francisco
+Audi,A3,2020,20069.42,21512.16,Vroom,Boston
+Mercedes,GLC,2016,45254.86,47549.67,Vroom,Los Angeles
+Toyota,Camry,2021,66713.39,68414.53,Vroom,Chicago
+Ford,Fusion,2023,7905.19,5238.14,DriveTime,New York
+Toyota,Rav4,2018,46546.82,49890.47,AutoNation,New York
+Kia,Sportage,2022,70209.37,72978.37,Local Dealer,San Francisco
+BMW,X5,2024,76644.62,80042.05,Vroom,Denver
+Toyota,Highlander,2024,34295.83,35061.6,TrueCar,Houston
+Mercedes,E-Class,2024,71016.4,73097.61,AutoNation,Seattle
+Nissan,Rogue,2016,33919.74,34712.7,Vroom,New York
+Honda,Pilot,2022,35440.35,36081.34,Vroom,Houston
+BMW,5 Series,2019,19171.9,17116.65,DriveTime,Chicago
+Mercedes,E-Class,2018,60079.19,61760.21,CarMax,Denver
+Hyundai,Tucson,2024,78773.96,84676.42,Vroom,Los Angeles
+Ford,Focus,2021,49263.74,51549.08,AutoNation,New York
+Audi,A3,2016,67939.06,72701.78,TrueCar,Chicago
+Toyota,Corolla,2021,13582.36,12619.7,TrueCar,Denver
+Nissan,Sentra,2016,75127.18,80542.41,CarMax,New York
+Kia,Sportage,2018,78858.54,82291.73,Local Dealer,New York
+Ford,Fusion,2023,21144.63,18995.19,Local Dealer,Miami
+Ford,Explorer,2015,74122.18,78827.12,DriveTime,Houston
+Toyota,Camry,2017,11906.27,10765.48,AutoNation,Denver
+Kia,Soul,2018,16184.52,16542.19,Local Dealer,Los Angeles
+Hyundai,Sonata,2023,10855.78,10398.53,TrueCar,Boston
+Chevrolet,Malibu,2019,8630.96,6753.13,AutoNation,Dallas
+Toyota,Rav4,2023,7678.63,4294.87,DriveTime,New York
+BMW,X3,2024,39274.07,38173.49,Local Dealer,Miami
+Toyota,Camry,2015,63035.66,64882.02,Vroom,Boston
+Nissan,Sentra,2016,17977.37,18171.32,Vroom,Los Angeles
+Nissan,Murano,2016,75093.85,78725.17,Vroom,Los Angeles
+Hyundai,Santa Fe,2021,48020.21,48137.57,AutoNation,Boston
+Audi,A4,2020,7047.64,4484.29,AutoNation,San Francisco
+Audi,Q5,2015,25989.36,24656.32,AutoNation,San Francisco
+Audi,Q5,2022,57610.24,61887.22,TrueCar,New York
+Honda,Accord,2024,43193.12,43650.74,AutoNation,Seattle
+Nissan,Rogue,2023,9431.27,10062.61,Vroom,New York
+Audi,A3,2021,19159.29,20549.89,Vroom,Boston
+Kia,Soul,2018,67577.65,70832.3,DriveTime,Dallas
+Audi,Q7,2023,71436.8,75418.03,TrueCar,New York
+Toyota,Rav4,2020,77335.71,79952.03,Vroom,Seattle
+Kia,Seltos,2018,44269.29,46297.63,Vroom,Miami
+Chevrolet,Tahoe,2018,38407.67,41146.64,Local Dealer,Seattle
+Nissan,Rogue,2023,44710.27,44955.57,CarMax,Dallas
+Chevrolet,Tahoe,2022,29108.72,30657.23,AutoNation,San Francisco
+Chevrolet,Tahoe,2016,50770.82,51739.35,CarMax,Houston
+Hyundai,Tucson,2021,58246.9,59041.23,Local Dealer,Denver
+Honda,Pilot,2024,19473.49,18198.31,TrueCar,Boston
+Hyundai,Sonata,2018,17959.94,15635.3,TrueCar,Chicago
+Nissan,Altima,2017,34827.7,35212.78,CarMax,Miami
+Hyundai,Santa Fe,2019,15189.56,14145.74,TrueCar,Houston
+Audi,Q5,2015,23998.45,21762.8,AutoNation,Seattle
+Nissan,Altima,2024,18368.92,18071.56,Vroom,Houston
+Hyundai,Elantra,2020,10860.19,9061.03,CarMax,New York
+Toyota,Rav4,2024,33400.88,34846.52,TrueCar,Boston
+Toyota,Corolla,2018,24858.65,25126.75,Local Dealer,Denver
+Kia,Soul,2016,19337.26,18400.12,CarMax,Seattle
+Honda,CR-V,2017,16682.32,13791.95,TrueCar,Chicago
+Honda,CR-V,2016,48952.28,51425.34,Local Dealer,New York
+Audi,A3,2018,74243.03,75597.36,AutoNation,Denver
+BMW,X3,2019,73985.05,77648.42,Local Dealer,Houston
+Chevrolet,Malibu,2017,21973.19,22315.75,DriveTime,New York
+BMW,X5,2024,14156.08,11962.21,AutoNation,New York
+Kia,Sportage,2020,60371.89,63553.02,Vroom,New York
+BMW,3 Series,2017,16311.12,15579.25,AutoNation,San Francisco
+Honda,Accord,2019,77666.41,83547.24,Vroom,Seattle
+Kia,Seltos,2019,32516.81,30185.65,CarMax,Seattle
+Honda,Civic,2018,21651.06,21385.19,TrueCar,Los Angeles
+Toyota,Camry,2021,16286.49,13430.19,TrueCar,New York
+Toyota,Rav4,2024,7059.24,4658.81,TrueCar,Boston
+Audi,A4,2022,25888.43,27675.74,TrueCar,Miami
+Hyundai,Elantra,2023,45351.04,48186.68,Vroom,Seattle
+Hyundai,Santa Fe,2015,50719.01,52346.15,TrueCar,Boston
+Mercedes,GLA,2015,60049.23,64488.15,Vroom,Houston
+Hyundai,Sonata,2023,58836.72,60286.83,TrueCar,Houston
+Toyota,Corolla,2024,58698.2,62502.29,Vroom,Chicago
+BMW,X5,2015,75485.39,77371.59,TrueCar,San Francisco
+Honda,Pilot,2019,5394.87,2089.8,TrueCar,Dallas
+Ford,Explorer,2021,77901.39,81808.48,DriveTime,Denver
+Chevrolet,Traverse,2023,22166.83,19374.18,Local Dealer,San Francisco
+BMW,X3,2018,36178.47,38128.75,Local Dealer,San Francisco
+Chevrolet,Traverse,2016,57869.64,60964.42,Local Dealer,Denver
+Honda,CR-V,2017,74278.65,77724.83,CarMax,Boston
+Chevrolet,Equinox,2017,38629.09,38513.4,AutoNation,Chicago
+Kia,Soul,2020,65003.47,65379.72,TrueCar,Boston
+Chevrolet,Traverse,2016,65874.42,71072.89,AutoNation,New York
+Chevrolet,Malibu,2016,55105.32,58876.8,Vroom,Seattle
+Audi,Q5,2016,77054.35,78545.26,Vroom,Denver
+Audi,A4,2021,66563.04,69515.76,Local Dealer,Los Angeles
+Mercedes,GLC,2016,37075.67,37714.37,Vroom,Houston
+Mercedes,E-Class,2018,7098.88,3576.42,Local Dealer,Chicago
+Mercedes,E-Class,2017,35809.09,33977.43,Local Dealer,San Francisco
+Honda,Accord,2019,5877.11,3595.98,DriveTime,Houston
+Toyota,Highlander,2023,32403.73,34740.94,DriveTime,Miami
+Audi,A4,2023,70022.44,73615.54,CarMax,Miami
+Toyota,Corolla,2021,18045.3,15261.09,TrueCar,Boston
+Ford,Focus,2024,18523.31,19131.03,Vroom,Miami
+Hyundai,Sonata,2015,35409.51,35497.71,AutoNation,Los Angeles
+Mercedes,GLA,2016,64934.86,70063.48,TrueCar,New York
+Toyota,Corolla,2017,73820.92,78654.07,Vroom,Chicago
+Chevrolet,Traverse,2016,45429.29,45129.18,AutoNation,Houston
+Audi,Q7,2015,56297.98,56920.06,DriveTime,Dallas
+Ford,Fusion,2022,53966.74,58093.6,Vroom,Miami
+Kia,Sorento,2017,29319.18,28115.69,CarMax,Seattle
+Honda,Civic,2021,79077.56,84356.81,CarMax,Denver
+Honda,Pilot,2024,68299.54,72364.99,TrueCar,Chicago
+Hyundai,Sonata,2022,73302.72,78226.45,AutoNation,Seattle
+Toyota,Highlander,2024,76320.24,82414.96,AutoNation,Dallas
+Ford,Escape,2017,50863.65,51091.89,DriveTime,Houston
+Nissan,Murano,2021,69433.33,70163.85,Vroom,Miami
+Mercedes,E-Class,2021,27018.45,27526.34,DriveTime,Los Angeles
+Honda,Pilot,2020,19070.49,17838.72,TrueCar,Chicago
+Ford,Explorer,2017,59863.18,62531.59,Local Dealer,Boston
+Audi,A4,2016,28913.44,30620.21,Vroom,Dallas
+Toyota,Camry,2022,74685.39,76007.46,DriveTime,San Francisco
+BMW,X5,2018,48974.54,52832.86,DriveTime,Chicago
+Chevrolet,Tahoe,2021,58341.13,59471.61,Local Dealer,Houston
+BMW,X3,2021,59666.97,62502.24,DriveTime,Miami
+Nissan,Sentra,2018,40640.93,43466.62,Local Dealer,Chicago
+BMW,5 Series,2016,73498.21,77050.26,CarMax,Denver
+Audi,Q5,2018,78304.26,82138.9,AutoNation,Dallas
+Audi,A4,2024,50759.8,51642.01,CarMax,Los Angeles
+BMW,X5,2022,59354.53,62432.27,DriveTime,Miami
+Ford,Fusion,2022,11630.12,7991.62,Local Dealer,Dallas
+Nissan,Altima,2017,62626.81,63351.07,Vroom,New York
+Kia,Seltos,2015,37479.34,39313.64,TrueCar,Los Angeles
+BMW,5 Series,2017,13300.68,13114.7,CarMax,Chicago
+Ford,Fusion,2015,69462.39,74668.69,AutoNation,Seattle
+Audi,Q7,2017,69170.16,73682.53,Local Dealer,Dallas
+Mercedes,GLC,2022,16319.06,15220.72,Local Dealer,Los Angeles
+Kia,Sorento,2019,33399.68,33758.92,CarMax,Denver
+Ford,Explorer,2018,76254.44,77459.79,Vroom,Los Angeles
+Audi,Q7,2022,67236.68,72470.99,Local Dealer,San Francisco
+Toyota,Camry,2017,43441.03,43516.8,DriveTime,Los Angeles
+Ford,Escape,2018,59777.56,63224.65,DriveTime,Denver
+Nissan,Altima,2019,31998.2,32098.01,CarMax,Boston
+Audi,A4,2016,70620.85,73986.69,TrueCar,Chicago
+BMW,5 Series,2021,46850.53,47703,Vroom,Miami
+BMW,3 Series,2020,76321.09,78691.14,DriveTime,Boston
+Ford,Escape,2020,14317.95,13146.56,TrueCar,San Francisco
+Hyundai,Elantra,2018,39726.49,41196.7,DriveTime,Chicago
+Toyota,Rav4,2016,65645.21,67563.92,AutoNation,Los Angeles
+Kia,Sorento,2024,56507.69,60960.7,CarMax,Miami
+Toyota,Corolla,2017,43881.77,47097.38,CarMax,New York
+Hyundai,Elantra,2019,77323.89,80796.25,AutoNation,Chicago
+Audi,A3,2020,61259.08,62974.34,DriveTime,Miami
+Audi,A4,2019,7482.92,4970.18,AutoNation,San Francisco
+Ford,Explorer,2018,14227.28,12246.37,Vroom,Dallas
+Honda,Accord,2021,63283.5,65176.94,CarMax,Denver
+Hyundai,Elantra,2024,19627.41,17138.16,Local Dealer,Seattle
+Honda,Accord,2022,77317.94,82794.35,DriveTime,Miami
+Ford,Explorer,2016,61881.19,64311.97,TrueCar,Miami
+Toyota,Rav4,2023,21705.12,21460.36,AutoNation,Denver
+Honda,Accord,2023,55165.23,55807.17,AutoNation,Denver
+Mercedes,GLC,2017,38957.23,38501.32,Vroom,New York
+Nissan,Sentra,2015,24733.75,25131.95,Local Dealer,Los Angeles
+Mercedes,C-Class,2022,70597.29,72672.44,DriveTime,New York
+Kia,Soul,2023,32254.05,33323.83,TrueCar,San Francisco
+Kia,Seltos,2018,65288.6,67445.15,AutoNation,Seattle
+Toyota,Camry,2015,43115.58,43629.04,Local Dealer,Denver
+Kia,Sorento,2015,65659.34,66766.44,Vroom,Los Angeles
+Kia,Sportage,2024,76567.78,78671.04,AutoNation,Boston
+Audi,Q7,2020,75201.24,77135.17,TrueCar,Chicago
+BMW,5 Series,2021,56256.85,59261.53,CarMax,Miami
+Toyota,Highlander,2015,12627.51,13361.27,Vroom,New York
+Toyota,Camry,2017,8754.72,7108.42,Vroom,Denver
+Toyota,Highlander,2020,11462.18,11613.81,Local Dealer,Denver
+Kia,Sorento,2021,53798.26,55799.97,DriveTime,New York
+Toyota,Rav4,2023,79756.06,83105.8,Vroom,New York
+Honda,Civic,2024,32271.02,34447.65,TrueCar,Denver
+Kia,Sportage,2015,27913.6,29727.37,TrueCar,Boston
+Kia,Soul,2024,15603.75,12270.08,CarMax,Houston
+Honda,Accord,2017,62203.69,65046.32,Vroom,New York
+Nissan,Rogue,2018,61718.09,65885.02,Vroom,Chicago
+Mercedes,C-Class,2020,51715.75,54659.63,TrueCar,San Francisco
+BMW,5 Series,2022,73207.63,76722.47,Vroom,Los Angeles
+Audi,A4,2015,62755.44,65708.76,CarMax,Dallas
+Mercedes,GLC,2023,79954.5,84932.76,CarMax,New York
+Toyota,Camry,2018,24890.96,25893.41,TrueCar,Seattle
+Kia,Sportage,2019,47845.5,51289.06,CarMax,Boston
+BMW,5 Series,2020,36828.05,35213.85,DriveTime,Los Angeles
+BMW,X3,2018,58899.61,58873.76,TrueCar,Los Angeles
+Kia,Sorento,2015,16878.58,17351.06,Local Dealer,Chicago
+Hyundai,Sonata,2022,30939.73,32928.88,TrueCar,New York
+Hyundai,Elantra,2019,31069.08,30929.7,DriveTime,Seattle
+Chevrolet,Malibu,2019,20036.46,18434.84,TrueCar,Miami
+Kia,Sportage,2015,29050.81,29117.33,Local Dealer,Chicago
+Toyota,Camry,2019,55281.69,56547.87,CarMax,Dallas
+Nissan,Altima,2019,11337.06,7445.91,Local Dealer,Chicago
+Chevrolet,Malibu,2024,73020.51,78618.72,Vroom,San Francisco
+Nissan,Murano,2024,31952.37,32205.53,Local Dealer,Seattle
+Audi,A3,2023,70602.09,72778.19,Local Dealer,Boston
+Kia,Sorento,2016,63775.23,64377.61,Local Dealer,Chicago
+Toyota,Camry,2021,51635,55009.42,DriveTime,Boston
+Nissan,Sentra,2016,40576.87,41870.15,DriveTime,Dallas
+Ford,Fusion,2015,16440.57,13888.56,Local Dealer,Boston
+Ford,Focus,2017,60373.9,63045.29,CarMax,Denver
+Honda,Accord,2017,45125.84,48101.44,TrueCar,New York
+Toyota,Highlander,2016,21502.04,19923.28,TrueCar,Denver
+Hyundai,Santa Fe,2018,64768.64,66596.32,CarMax,Dallas
+BMW,X5,2015,56503.8,57907.53,Vroom,Houston
+Chevrolet,Malibu,2015,12376.28,11015.92,TrueCar,San Francisco
+Chevrolet,Traverse,2017,8786.03,8315.29,CarMax,Los Angeles
+Ford,Explorer,2020,66730.45,70107.82,CarMax,Seattle
+Hyundai,Tucson,2022,60449.29,62605.04,AutoNation,Chicago
+Kia,Sorento,2016,70078.65,74209.74,CarMax,Los Angeles
+Honda,Pilot,2017,70092.87,73875.73,DriveTime,Chicago
+Ford,Explorer,2024,61320,66034.33,TrueCar,San Francisco
+Nissan,Murano,2020,37876.23,36274.13,AutoNation,Boston
+Mercedes,E-Class,2024,71908.74,73089.84,TrueCar,Boston
+Audi,Q7,2024,40589.91,41133.37,Local Dealer,Seattle
+Hyundai,Sonata,2016,66926.4,71900.61,AutoNation,Dallas
+Toyota,Highlander,2023,22248.61,20053.27,Local Dealer,Miami
+Nissan,Altima,2020,53805.01,54473.87,AutoNation,New York
+Mercedes,GLC,2018,76648.21,79410,CarMax,Boston
+Mercedes,GLC,2018,79742.57,83755.47,TrueCar,Houston
+Chevrolet,Malibu,2017,77936.27,81063.88,CarMax,San Francisco
+Chevrolet,Traverse,2021,71204.73,75569.72,TrueCar,San Francisco
+Hyundai,Santa Fe,2023,11792.22,8618.01,AutoNation,Houston
+Chevrolet,Malibu,2022,7898.83,6333.33,AutoNation,Denver
+Kia,Sportage,2017,50537.18,50248.82,DriveTime,Boston
+Chevrolet,Tahoe,2024,76479.39,81378.9,DriveTime,Los Angeles
+Mercedes,GLA,2024,8538,8745.33,Vroom,Houston
+Ford,Escape,2022,12943.79,9998.64,Vroom,San Francisco
+BMW,X3,2016,11298.3,8568.12,Vroom,Seattle
+Chevrolet,Malibu,2015,41054.58,40423.22,Local Dealer,Houston
+Hyundai,Elantra,2023,70244.05,75748.15,TrueCar,Los Angeles
+Mercedes,E-Class,2019,79324.24,83747.32,AutoNation,Seattle
+Audi,Q5,2021,11958.51,12439.42,Local Dealer,Denver
+Chevrolet,Equinox,2019,31936.76,31983.51,AutoNation,San Francisco
+Mercedes,E-Class,2016,33921.85,34145.05,Vroom,Houston
+Chevrolet,Tahoe,2016,27284.87,27765.37,DriveTime,Seattle
+Toyota,Corolla,2017,45174.58,46183.81,Local Dealer,Chicago
+Kia,Sorento,2020,50281.75,50942.05,Local Dealer,Seattle
+BMW,X5,2024,62695.88,65719.25,Vroom,Chicago
+Honda,Civic,2020,60522.47,64625.19,TrueCar,San Francisco
+Chevrolet,Malibu,2015,19388.75,18617.74,AutoNation,San Francisco
+Kia,Soul,2022,78227.21,83503.2,CarMax,Boston
+Hyundai,Elantra,2020,10791.33,10256.65,AutoNation,New York
+Nissan,Altima,2021,22220.99,19054.38,AutoNation,Miami
+Nissan,Murano,2015,21410.84,19638.32,AutoNation,New York
+BMW,3 Series,2015,33799.38,35113.62,AutoNation,Seattle
+Mercedes,E-Class,2024,73132.17,78103.68,Vroom,Los Angeles
+Nissan,Sentra,2023,35996.77,38530.8,CarMax,Dallas
+Audi,A4,2023,58155.59,58453.54,Vroom,Los Angeles
+Audi,A4,2020,36117.27,38286.12,Vroom,Denver
+Audi,A4,2024,38432.3,39321.12,AutoNation,Seattle
+Hyundai,Tucson,2017,32865.1,32155.69,TrueCar,Denver
+Honda,CR-V,2018,42507.06,44796.41,DriveTime,New York
+Toyota,Rav4,2020,49915.95,51386.84,Vroom,Houston
+Chevrolet,Tahoe,2015,59969.7,62412.1,AutoNation,Boston
+BMW,3 Series,2017,21083.91,20304.34,TrueCar,Houston
+BMW,3 Series,2019,47411.87,47437.27,TrueCar,Houston
+Mercedes,E-Class,2015,23128.12,21434.03,CarMax,Los Angeles
+Nissan,Altima,2020,6153.99,2592.4,Vroom,New York
+Audi,Q7,2019,12038.46,12934.43,DriveTime,New York
+Mercedes,GLA,2019,9790.52,8969.13,Local Dealer,Boston
+Kia,Seltos,2024,58162.92,61485.56,AutoNation,San Francisco
+Nissan,Sentra,2021,45883.87,46317.57,AutoNation,Boston
+Mercedes,GLA,2024,16092.85,13980.29,AutoNation,Houston
+Chevrolet,Malibu,2016,72054.66,77530.22,Local Dealer,Los Angeles
+Kia,Sorento,2019,20916.31,20239.33,Vroom,Dallas
+Hyundai,Sonata,2015,15501.25,14698.67,Vroom,Denver
+Mercedes,GLA,2022,18088.13,17885.67,DriveTime,Seattle
+Honda,CR-V,2022,55070.9,54806.01,DriveTime,Miami
+Kia,Soul,2020,51992.18,54543,AutoNation,Dallas
+Chevrolet,Malibu,2023,7075.11,2663.66,AutoNation,Boston
+Audi,Q7,2022,26054.42,23368.23,DriveTime,Dallas
+Mercedes,E-Class,2024,12904.61,13092.12,DriveTime,Boston
+Audi,A4,2021,46050.2,44761.59,Vroom,Boston
+Honda,CR-V,2020,61507.56,63860.05,DriveTime,Boston
+Mercedes,GLA,2023,55942.07,56898.51,CarMax,Miami
+Toyota,Camry,2018,5729.15,2398.46,DriveTime,Houston
+Honda,Pilot,2024,55376.73,56670.95,Vroom,Houston
+Nissan,Murano,2019,27106.63,27339.07,TrueCar,New York
+Honda,Accord,2020,72424.03,73870.28,Local Dealer,Chicago
+Audi,A3,2024,72066.15,73063.67,Vroom,Denver
+Hyundai,Elantra,2020,21532.89,20269.96,Vroom,Miami
+Audi,Q5,2017,14704.18,15096.77,CarMax,Boston
+Nissan,Rogue,2021,75735.27,78662.14,Vroom,Seattle
+Hyundai,Tucson,2024,16627.64,16357.32,Vroom,Seattle
+Chevrolet,Tahoe,2017,49631.75,49875.71,Local Dealer,Boston
+BMW,X5,2018,10822.3,6938.78,TrueCar,Chicago
+Honda,CR-V,2022,67681.23,71862.57,DriveTime,Los Angeles
+BMW,3 Series,2021,50191.79,49976.8,TrueCar,Chicago
+Toyota,Camry,2020,27988.18,27634.58,Local Dealer,Los Angeles
+Hyundai,Santa Fe,2022,45963.59,46922.51,AutoNation,Los Angeles
+Audi,A4,2016,9164.16,8563.79,CarMax,Chicago
+Honda,Civic,2016,74611.95,78493.1,Local Dealer,San Francisco
+Ford,Explorer,2021,39293.3,37750.24,Local Dealer,San Francisco
+Ford,Focus,2017,70609.85,73009.19,Local Dealer,New York
+Toyota,Camry,2016,57431.71,61827.6,Local Dealer,Denver
+Nissan,Murano,2017,78308.35,83447.52,DriveTime,Miami
+Honda,CR-V,2021,18903.18,16953.45,TrueCar,New York
+Honda,Pilot,2022,71654.39,74275.36,DriveTime,Boston
+Nissan,Sentra,2019,66453.46,71629.85,DriveTime,Chicago
+Kia,Sorento,2016,21452.74,18642.79,AutoNation,Boston
+Toyota,Rav4,2020,56596.43,57524.81,DriveTime,Chicago
+BMW,3 Series,2024,78175.8,83486.19,DriveTime,Los Angeles
+Mercedes,GLA,2023,63901.66,67009.92,AutoNation,Boston
+Ford,Explorer,2017,51833.18,52292.27,CarMax,Boston
+Nissan,Sentra,2016,8277.61,5810.33,DriveTime,Los Angeles
+Honda,Accord,2017,67619.29,71688.8,Local Dealer,Houston
+Honda,Accord,2023,66474.02,70717.2,AutoNation,New York
+Ford,Explorer,2020,24450.44,23955.1,Local Dealer,Houston
+Kia,Soul,2020,65634.3,68645.74,Local Dealer,Miami
+Hyundai,Tucson,2016,76114.22,78901.28,DriveTime,Seattle
+Nissan,Murano,2020,51281.71,53256.35,CarMax,Los Angeles
+Ford,Escape,2020,35567.38,35512.63,Local Dealer,Dallas
+Chevrolet,Malibu,2015,10247.34,7169.34,TrueCar,Miami
+BMW,3 Series,2020,8936.2,7146.61,TrueCar,Boston
+BMW,X3,2021,41381.85,42834.75,CarMax,Dallas
+Hyundai,Elantra,2020,78611.13,84718.46,DriveTime,Seattle
+Chevrolet,Equinox,2018,48694.07,51686.4,TrueCar,Boston
+BMW,X5,2022,6779.38,3961.56,CarMax,Boston
+Ford,Explorer,2020,11823.07,8586.31,DriveTime,Miami
+Honda,Pilot,2018,74740.72,79192.3,Vroom,Houston
+Ford,Escape,2023,41516.56,41922.47,Vroom,Boston
+Chevrolet,Traverse,2015,23324.64,24700.1,Vroom,New York
+Audi,A3,2019,25795.55,24491.01,Local Dealer,Denver
+Kia,Soul,2015,70265,74281.66,Vroom,Denver
+Chevrolet,Malibu,2022,74209.01,77442.87,TrueCar,San Francisco
+Hyundai,Santa Fe,2023,69700.29,74556.92,Vroom,Chicago
+Ford,Escape,2019,59806.57,61200.43,DriveTime,Houston
+Nissan,Sentra,2024,36902.51,35674.58,DriveTime,Boston
+Chevrolet,Malibu,2018,10153.14,9195.52,DriveTime,Boston
+Mercedes,E-Class,2019,31952.17,34074,DriveTime,Chicago
+Mercedes,GLC,2016,27381.26,27609.79,Vroom,Denver
+Audi,A4,2018,79254.7,84247.71,AutoNation,New York
+Mercedes,GLC,2021,62962.13,65375.19,TrueCar,New York
+Nissan,Sentra,2022,16271.12,17248.54,CarMax,Houston
+Toyota,Corolla,2020,7551.65,6302.28,AutoNation,Dallas
+Nissan,Murano,2016,49481.77,49344.73,CarMax,Houston
+BMW,5 Series,2018,75335.37,78835.18,Vroom,New York
+Honda,Civic,2019,32559.65,35144.74,CarMax,Houston
+Hyundai,Santa Fe,2021,42838.16,44991.14,TrueCar,Dallas
+Audi,A3,2015,52017.63,55541.76,DriveTime,Boston
+Kia,Seltos,2021,5374.85,4397.09,Vroom,Dallas
+Mercedes,GLA,2017,34342.52,35643.65,Vroom,San Francisco
+Kia,Seltos,2019,27693.44,24927.99,DriveTime,Boston
+BMW,X5,2016,37874.12,36063.37,TrueCar,Seattle
+Ford,Focus,2015,52831.95,52125.37,Local Dealer,San Francisco
+BMW,3 Series,2024,14314,11815.11,Vroom,Denver
+Hyundai,Sonata,2015,9579.16,8819.45,Vroom,Denver
+Ford,Explorer,2022,68181,69560.96,TrueCar,Houston
+Nissan,Altima,2024,19858.16,19997.37,Vroom,Miami
+Nissan,Rogue,2022,17245.13,14804.83,Vroom,Boston
+Nissan,Altima,2016,29231.6,29055.02,TrueCar,Boston
+Hyundai,Tucson,2020,70053.75,71668.77,TrueCar,New York
+Mercedes,GLA,2015,38066.81,39641.14,AutoNation,Chicago
+Nissan,Sentra,2020,35660.49,36559.19,TrueCar,Chicago
+Toyota,Corolla,2016,8413.86,5280.6,CarMax,Denver
+Audi,A4,2018,46787.62,50473.9,TrueCar,New York
+Ford,Focus,2021,72420.54,75334.78,Vroom,Dallas
+Nissan,Murano,2018,49171.75,48217.21,Local Dealer,Denver
+BMW,X5,2015,17383.02,14380.49,DriveTime,San Francisco
+Ford,Escape,2017,66070.49,68533.57,DriveTime,Denver
+Mercedes,E-Class,2024,18188.68,16380.17,TrueCar,Houston
+Ford,Fusion,2022,7193.54,3021.58,TrueCar,Dallas
+Ford,Fusion,2018,42998.36,42254.26,AutoNation,Houston
+Ford,Fusion,2023,17133.62,18030.63,TrueCar,Houston
+Mercedes,E-Class,2015,52490.33,52887.9,AutoNation,San Francisco
+Chevrolet,Equinox,2020,68973.6,71831.5,Local Dealer,Dallas
+Honda,Civic,2015,59754.28,63190.89,DriveTime,Chicago
+Honda,Pilot,2021,34783.4,33658.5,Local Dealer,Boston
+Kia,Soul,2020,6757.47,3050.6,Local Dealer,San Francisco
+Nissan,Altima,2016,35154.24,35909.04,TrueCar,Miami
+Toyota,Corolla,2022,44417.27,47944.26,AutoNation,Seattle
+Mercedes,GLC,2022,23878.6,22735.71,CarMax,Denver
+Honda,Civic,2020,34268.94,35135.84,DriveTime,Los Angeles
+Hyundai,Tucson,2020,39939,42187.41,Local Dealer,Miami
+Chevrolet,Equinox,2018,22113.47,19171.47,TrueCar,Chicago
+Honda,Accord,2018,78087.24,84120.01,CarMax,Boston
+Mercedes,C-Class,2016,26741.76,28261.69,Vroom,Houston
+Kia,Soul,2022,64043.24,67683.34,CarMax,Miami
+BMW,3 Series,2023,6479.61,6831.36,Local Dealer,Boston
+Honda,Civic,2021,6610.57,3445.64,Local Dealer,Miami
+Hyundai,Tucson,2017,8149.91,5748.07,TrueCar,San Francisco
+Honda,CR-V,2019,39137.4,39018.62,DriveTime,Miami
+Ford,Escape,2021,29679.8,29708.14,Vroom,New York
+Chevrolet,Traverse,2017,47566.09,46691.49,Local Dealer,San Francisco
+Honda,Pilot,2019,15008.81,11480.06,DriveTime,Seattle
+Ford,Fusion,2017,57413.51,57848.3,CarMax,Chicago
+Hyundai,Santa Fe,2019,39552.31,40925.36,AutoNation,Chicago
+Nissan,Sentra,2015,65266.61,65895.12,CarMax,Miami
+BMW,3 Series,2017,64158.79,67470.96,AutoNation,Los Angeles
+BMW,X3,2022,21671.34,22370.24,Vroom,Miami
+Toyota,Corolla,2024,21899.53,21512.26,CarMax,Boston
+Audi,A4,2023,21412.94,22743.12,Local Dealer,Boston
+Toyota,Camry,2020,61063.18,61962.42,TrueCar,Houston
+Nissan,Rogue,2017,59950.6,61489.01,AutoNation,San Francisco
+Honda,Civic,2019,13779.31,10458.24,TrueCar,Dallas
+Chevrolet,Malibu,2024,12883.46,11544.22,CarMax,Los Angeles
+Kia,Seltos,2023,48527.15,51851.49,TrueCar,Dallas
+Hyundai,Tucson,2022,35188.46,37858.57,AutoNation,San Francisco
+Mercedes,GLC,2023,19784.67,20193.19,Vroom,New York
+Mercedes,GLA,2021,33493.95,32739.07,Local Dealer,Boston
+Kia,Soul,2022,10633.49,6540.55,AutoNation,Boston
+Nissan,Murano,2024,14001.04,11381.94,AutoNation,Boston
+Nissan,Sentra,2022,78421.57,81980.03,CarMax,San Francisco
+Hyundai,Tucson,2015,78136.6,81280.06,Vroom,Houston
+Honda,CR-V,2018,21616.77,22036.03,Local Dealer,Boston
+Chevrolet,Tahoe,2017,26378.72,25565.14,CarMax,Dallas
+Kia,Soul,2020,15117.16,15118.64,CarMax,Chicago
+Ford,Fusion,2018,43242.4,42966.74,Vroom,Miami
+Nissan,Rogue,2017,10334.52,7053.72,DriveTime,Chicago
+Mercedes,GLA,2022,60632.47,62015.25,Local Dealer,Los Angeles
+Chevrolet,Malibu,2020,30769.19,31678.57,CarMax,Denver
+Ford,Focus,2020,78532.61,80771.61,CarMax,Los Angeles
+BMW,5 Series,2024,48565.52,51521.1,CarMax,Dallas
+Nissan,Murano,2021,56386.52,56530.66,DriveTime,Denver
+Toyota,Camry,2024,30759.84,30882.75,DriveTime,Chicago
+Mercedes,GLC,2022,69948.1,74421.9,TrueCar,Dallas
+Honda,Accord,2020,44651.9,47801.17,Local Dealer,Boston
+Nissan,Rogue,2024,20784.43,22442.09,TrueCar,Los Angeles
+Mercedes,C-Class,2017,62518.78,63728.16,DriveTime,Denver
+Ford,Focus,2021,47390.31,47318.36,Vroom,San Francisco
+Kia,Seltos,2024,65315.26,68909.04,Local Dealer,New York
+Chevrolet,Tahoe,2022,45332.58,47598.69,DriveTime,Los Angeles
+Honda,CR-V,2023,22995.19,23350.35,Vroom,Houston
+Audi,Q5,2018,18163.28,17591.62,TrueCar,New York
+Nissan,Murano,2016,6846.47,4743.21,AutoNation,Denver
+Nissan,Sentra,2024,22424.73,19589.16,AutoNation,San Francisco
+Kia,Sportage,2023,7593.38,5592.45,AutoNation,Denver
+Toyota,Rav4,2021,31176.5,32943.98,Vroom,Los Angeles
+Mercedes,GLA,2020,79470.24,85018.24,CarMax,Houston
+Chevrolet,Tahoe,2017,61186.12,65693.14,TrueCar,Los Angeles
+Mercedes,E-Class,2024,63907.94,64324.1,Local Dealer,Los Angeles
+Chevrolet,Equinox,2015,17289.87,14729.17,CarMax,Seattle
+Honda,Accord,2019,30932.32,30878.91,AutoNation,Houston
+Hyundai,Elantra,2020,57002.49,59776.36,CarMax,San Francisco
+Chevrolet,Equinox,2019,67777,70094.36,Vroom,New York
+Mercedes,C-Class,2022,63015.33,66013.57,AutoNation,New York
+Mercedes,E-Class,2016,65639.79,68796.94,Vroom,Miami
+Hyundai,Santa Fe,2024,41842.53,44255.09,TrueCar,Los Angeles
+Hyundai,Santa Fe,2016,62324.6,62487.8,TrueCar,New York
+Toyota,Highlander,2017,77917.36,79943.8,DriveTime,Miami
+BMW,3 Series,2023,11862.26,12032.64,CarMax,Dallas
+Kia,Sportage,2015,49181.53,48924.68,Local Dealer,Denver
+Chevrolet,Malibu,2016,12658.82,8965.35,DriveTime,Chicago
+Audi,A4,2020,35414.72,38240.82,DriveTime,Seattle
+Honda,Pilot,2024,56635.05,58802.33,TrueCar,San Francisco
+Toyota,Highlander,2020,10241.44,7023.85,Vroom,Dallas
+Ford,Escape,2017,17559.58,18142.74,Vroom,Boston
+Toyota,Corolla,2023,77586.82,78878.32,TrueCar,Boston
+Audi,Q7,2019,12917.35,11912.64,CarMax,Denver
+BMW,3 Series,2021,42418.63,43400.73,TrueCar,Boston
+Kia,Sorento,2019,9216.21,8070.41,Vroom,Miami
+Chevrolet,Equinox,2024,62926.24,65026.06,CarMax,San Francisco
+Mercedes,E-Class,2019,77380.34,82387.65,DriveTime,Chicago
+Kia,Sorento,2016,29347.08,26952.56,Local Dealer,Miami
+Toyota,Highlander,2018,40571.49,41960.67,Vroom,Denver
+Ford,Escape,2023,53232.62,54361.02,CarMax,Los Angeles
+Honda,Civic,2016,73410.67,76496.92,Vroom,Denver
+BMW,X5,2022,28553.28,28885.58,Vroom,San Francisco
+Ford,Fusion,2018,36123.37,35613.35,TrueCar,Miami
+Kia,Soul,2018,64721.89,65773.4,Local Dealer,Houston
+Kia,Soul,2020,22232.06,22534.79,Vroom,Dallas
+Mercedes,GLA,2015,66391.57,67185.94,Local Dealer,Los Angeles
+Audi,Q5,2016,8458.21,8666.97,Local Dealer,San Francisco
+Honda,CR-V,2015,24568.91,23381.49,CarMax,Los Angeles
+Hyundai,Elantra,2019,28902.02,27557,DriveTime,Dallas
+Mercedes,GLC,2020,39350.45,39332.64,Local Dealer,Chicago
+Ford,Fusion,2018,62434.12,62853.82,AutoNation,Los Angeles
+Audi,Q7,2022,58443.18,58499.09,Vroom,Los Angeles
+Nissan,Altima,2021,9491.06,8176.64,TrueCar,Dallas
+Chevrolet,Malibu,2018,25118.79,22397.59,AutoNation,Dallas
+BMW,X5,2021,17116.01,16228.03,AutoNation,Los Angeles
+Honda,Pilot,2024,27668.42,26246.02,TrueCar,Los Angeles
+Kia,Seltos,2022,50657.31,51910.56,AutoNation,New York
+Kia,Soul,2016,32322.61,31502.59,DriveTime,Chicago
+Mercedes,GLA,2016,39454.63,39587.43,Vroom,Dallas
+Hyundai,Tucson,2024,75940.87,79630.52,AutoNation,Chicago
+BMW,X3,2018,6410.9,5625.3,AutoNation,New York
+Audi,A4,2023,60750.28,61140.28,Vroom,Miami
+Hyundai,Santa Fe,2021,58963.07,60859.02,Vroom,Denver
+BMW,X3,2017,6308.98,6474.27,AutoNation,Seattle
+Hyundai,Tucson,2024,58230.41,61334.1,AutoNation,Los Angeles
+Ford,Fusion,2019,26122.61,25717.27,Vroom,Chicago
+Toyota,Corolla,2023,41657.84,44013.95,AutoNation,Los Angeles
+Ford,Fusion,2021,35861.4,35935.11,TrueCar,Chicago
+BMW,5 Series,2022,22756.59,21126.32,DriveTime,Boston
+Ford,Fusion,2017,45749.14,44557.11,DriveTime,Boston
+Hyundai,Tucson,2020,38085.11,37610.16,Local Dealer,Seattle
+Kia,Sorento,2022,7702.97,5023,Vroom,Chicago
+Hyundai,Elantra,2020,32246.05,33360.43,CarMax,Seattle
+Nissan,Rogue,2018,39286.95,39170.7,CarMax,Los Angeles
+Chevrolet,Malibu,2021,47348.73,49792.82,Vroom,Dallas
+Honda,Civic,2022,65488.1,66294.68,AutoNation,Chicago
+Chevrolet,Tahoe,2022,40114.78,38379.89,TrueCar,Boston
+Toyota,Camry,2022,22933,24427.31,AutoNation,Dallas
+Honda,Accord,2018,76903.3,80043.09,TrueCar,New York
+Hyundai,Elantra,2018,72963.57,73834.71,Vroom,Seattle
+Honda,Pilot,2022,41592.65,42255.9,Vroom,San Francisco
+Kia,Soul,2021,48839.64,51993.54,Vroom,Miami
+BMW,5 Series,2020,66047.07,69682.75,AutoNation,San Francisco
+Mercedes,GLA,2016,12270.77,9343.72,AutoNation,Los Angeles
+BMW,X3,2017,75808.81,81164.32,TrueCar,Seattle
+BMW,5 Series,2022,38080.12,39016.86,TrueCar,Los Angeles
+Hyundai,Tucson,2018,6679.47,7066.85,DriveTime,San Francisco
+Audi,A4,2020,26354.87,24983.08,Local Dealer,Chicago
+Audi,Q5,2018,25993.11,26580.72,DriveTime,New York
+BMW,X5,2022,58238.48,61126.18,TrueCar,Dallas
+Mercedes,GLA,2019,28353.83,27034.95,Vroom,San Francisco
+Audi,Q7,2023,18228.78,16543.04,Vroom,Dallas
+Chevrolet,Equinox,2024,44640.61,43938.85,DriveTime,Dallas
+Audi,Q7,2024,26382.26,23608.21,CarMax,Dallas
+Ford,Explorer,2020,9696.13,9135.44,DriveTime,Houston
+Chevrolet,Traverse,2017,70431.36,75746.27,Local Dealer,Seattle
+Ford,Fusion,2021,25415.91,23352.94,DriveTime,Houston
+Honda,Accord,2024,68098.43,70106.78,Vroom,San Francisco
+Honda,Accord,2016,43278.89,43217.98,TrueCar,San Francisco
+Nissan,Rogue,2015,22953.28,23641.45,Local Dealer,Los Angeles
+Ford,Fusion,2016,53734.68,53648.65,TrueCar,Seattle
+Honda,Accord,2024,69531.2,72300.05,DriveTime,Seattle
+Hyundai,Elantra,2015,45910.71,48280.94,DriveTime,Houston
+Nissan,Rogue,2015,36169.25,36285.59,Vroom,Boston
+Mercedes,GLC,2024,78370.36,83643.99,DriveTime,Los Angeles
+Chevrolet,Traverse,2023,31979.21,30932.58,TrueCar,Houston
+BMW,X3,2017,47434.71,50111.63,AutoNation,Dallas
+Toyota,Camry,2023,19877,20680.88,Local Dealer,Seattle
+BMW,X3,2017,16151.84,17180.82,TrueCar,Chicago
+Ford,Escape,2017,73185.48,78540.89,DriveTime,Los Angeles
+Audi,Q7,2023,79122.1,83764.33,DriveTime,Seattle
+Audi,Q5,2021,40208.65,43271.37,DriveTime,Denver
+Ford,Focus,2015,33775.53,31526.26,CarMax,Houston
+Chevrolet,Malibu,2019,59679.58,61663.78,DriveTime,Miami
+Honda,Accord,2024,66863.8,68886.32,TrueCar,Boston
+Chevrolet,Traverse,2021,37274.01,38755.4,Local Dealer,New York
+Toyota,Corolla,2016,19841.49,16871.37,DriveTime,Los Angeles
+BMW,X3,2021,31060.23,33228.2,CarMax,New York
+Honda,Pilot,2015,48320.53,49196.12,AutoNation,Houston
+BMW,X3,2020,75929.07,78534.61,TrueCar,Boston
+Toyota,Camry,2021,32593.03,30548.44,DriveTime,Chicago
+Kia,Sportage,2021,23898.39,25354.01,Vroom,Boston
+Chevrolet,Tahoe,2021,54706.59,56185.41,Vroom,Seattle
+Kia,Soul,2023,61281.68,65643.43,DriveTime,Denver
+Kia,Sorento,2015,71031.82,75481.71,DriveTime,Los Angeles
+Honda,Civic,2021,62377.18,66843.86,TrueCar,Los Angeles
+Audi,Q5,2021,10793.9,10496.8,CarMax,New York
+Nissan,Altima,2016,5400.03,3188.42,CarMax,Dallas
+Ford,Escape,2021,8032.01,5496.62,Vroom,Seattle
+BMW,X3,2023,48934,49751.72,TrueCar,Miami
+Mercedes,GLC,2015,66012.55,68232.07,TrueCar,Seattle
+BMW,X5,2023,53566.2,57663.69,DriveTime,Boston
+Toyota,Rav4,2024,27775.11,28966.72,AutoNation,Houston
+Ford,Escape,2017,44984.44,46233.2,Local Dealer,Chicago
+Ford,Fusion,2015,65694.45,70658.82,DriveTime,Denver
+Mercedes,E-Class,2018,78231.85,81257.95,Vroom,Los Angeles
+Ford,Explorer,2021,47032.4,50289.1,Vroom,Los Angeles
+Hyundai,Sonata,2016,16707.55,13775.79,CarMax,Dallas
+Honda,CR-V,2019,45235.73,47813.65,AutoNation,New York
+Chevrolet,Malibu,2015,68680.93,71399.37,CarMax,Seattle
+Chevrolet,Malibu,2022,76271.86,80972.39,CarMax,Dallas
+Ford,Focus,2021,68722.26,69834.66,Local Dealer,Boston
+Kia,Soul,2020,32730.72,31119.8,AutoNation,Seattle
+Chevrolet,Tahoe,2016,59616.42,62441.59,AutoNation,San Francisco
+Hyundai,Elantra,2016,51339.06,52032.05,Local Dealer,New York
+Toyota,Camry,2020,31192.39,33493.23,AutoNation,Houston
+Hyundai,Tucson,2023,23507.82,24789.44,DriveTime,Boston
+Ford,Focus,2018,71811.02,74264.71,TrueCar,Chicago
+Kia,Sportage,2019,31049.6,32252.85,Local Dealer,Los Angeles
+Mercedes,GLC,2024,36427.18,38644.3,TrueCar,Houston
+Kia,Sportage,2021,36180.15,34883.79,DriveTime,Dallas
+Audi,A4,2019,8593.62,8158.76,AutoNation,Miami
+BMW,5 Series,2020,52830.44,56667.57,CarMax,Seattle
+Kia,Soul,2017,5993.27,2095.81,Vroom,Houston
+Nissan,Sentra,2015,79656.53,83837.23,Vroom,Houston
+Hyundai,Elantra,2018,66252.99,69593.51,Local Dealer,Los Angeles
+Nissan,Murano,2021,57571.01,59185.27,DriveTime,New York
+Audi,Q5,2024,49691.32,52779.63,AutoNation,Chicago
+Ford,Escape,2015,29622.7,30686.36,Vroom,Chicago
+Honda,Accord,2021,49310.57,50664.72,DriveTime,Seattle
+Nissan,Murano,2023,7312.78,5670.85,CarMax,Seattle
+Honda,Civic,2020,52894.41,53952.16,Local Dealer,Los Angeles
+Mercedes,E-Class,2022,37294.11,35298.79,TrueCar,New York
+Audi,A3,2016,52855.16,52176.64,Local Dealer,Los Angeles
+Honda,CR-V,2015,47024.07,47092.69,CarMax,Boston
+Hyundai,Tucson,2017,35434.18,34061.99,Local Dealer,San Francisco
+Ford,Explorer,2015,16313.92,16466.15,TrueCar,San Francisco
+Chevrolet,Traverse,2015,65678.77,65952.51,AutoNation,Denver
+Chevrolet,Equinox,2020,28740.6,27564.81,Local Dealer,San Francisco
+Honda,CR-V,2021,76175.71,80974.46,DriveTime,Miami
+Audi,A4,2020,32839.44,33460.03,CarMax,New York
+Mercedes,GLC,2016,5886.85,4811.08,CarMax,Denver
+Audi,A4,2021,54855.88,55213.4,AutoNation,Dallas
+Nissan,Murano,2024,45604.91,46767.84,CarMax,Boston
+Audi,Q5,2024,18883.55,17981.19,Local Dealer,Seattle
+Mercedes,E-Class,2020,66110.65,70227.44,CarMax,Houston
+Nissan,Rogue,2022,7199.06,4388.59,Local Dealer,New York
+Toyota,Highlander,2015,54379.64,54397.99,TrueCar,Los Angeles
+BMW,5 Series,2021,6743.1,2713.05,TrueCar,Denver
+Honda,Pilot,2020,67352.43,70057.95,Local Dealer,New York
+Toyota,Camry,2016,5532.65,5182.12,Vroom,Houston
+BMW,X3,2018,71534.13,74283.7,DriveTime,Denver
+Nissan,Rogue,2015,78930.03,82099.12,CarMax,New York
+Mercedes,GLA,2022,22320.23,21123.68,CarMax,Seattle
+BMW,X5,2019,37231.15,35689.27,AutoNation,Seattle
+Audi,Q5,2023,32152.62,30235.91,Vroom,Chicago
+Ford,Explorer,2017,59384.97,63455.33,TrueCar,New York
+BMW,5 Series,2019,66932.75,67629.58,DriveTime,Chicago
+Kia,Sorento,2018,54282.54,54294.01,CarMax,Dallas
+Chevrolet,Tahoe,2022,50549.63,50438.67,TrueCar,Denver
+BMW,X3,2020,51181.65,51750.14,Vroom,Los Angeles
+Audi,A3,2021,31903.52,34305.63,TrueCar,Denver
+Hyundai,Elantra,2017,6306.69,3924.62,Local Dealer,New York
+Nissan,Murano,2018,30174.09,27630.9,Vroom,New York
+Chevrolet,Malibu,2023,31653.62,30350.19,Local Dealer,Dallas
+Honda,Accord,2017,72771.53,75444.87,TrueCar,San Francisco
+Hyundai,Santa Fe,2018,33469.54,34251.78,Vroom,San Francisco
+Chevrolet,Equinox,2024,24342.62,23154.44,Local Dealer,New York
+Toyota,Camry,2019,58902.73,60180.34,TrueCar,Miami
+BMW,3 Series,2021,10977.29,10282.65,CarMax,Los Angeles
+Mercedes,GLC,2017,11845.17,9569.72,DriveTime,Los Angeles
+Audi,Q5,2022,54238.13,58552.14,AutoNation,New York
+BMW,X5,2020,75508.87,77876.2,Vroom,New York
+Ford,Explorer,2020,54334.15,57708.32,DriveTime,Denver
+BMW,5 Series,2017,76661.17,79487.1,Vroom,Houston
+Chevrolet,Traverse,2019,15905.21,13698.88,TrueCar,Chicago
+Mercedes,E-Class,2022,39856.07,41449.61,AutoNation,Miami
+Ford,Fusion,2023,45051.14,48246.25,CarMax,New York
+Ford,Explorer,2023,63150.66,66781.91,Vroom,Denver
+Honda,CR-V,2022,35996.7,37555.48,TrueCar,Seattle
+Honda,Accord,2019,7214.31,5025.98,Local Dealer,San Francisco
+Honda,CR-V,2021,51657.13,51526.97,Local Dealer,Miami
+Honda,CR-V,2015,72041.67,74714.4,Local Dealer,San Francisco
+Nissan,Rogue,2016,74910.71,80663.21,Local Dealer,San Francisco
+Audi,A4,2018,48424.35,48409.3,TrueCar,Denver
+Chevrolet,Malibu,2019,8901.11,7292.4,Local Dealer,Chicago
+Audi,A3,2022,14140.95,12851.96,CarMax,Boston
+Honda,CR-V,2022,31686.28,34098.93,CarMax,Boston
+Audi,Q5,2018,77353.79,78980.11,Local Dealer,San Francisco
+Honda,CR-V,2018,48494.55,50716.23,AutoNation,Los Angeles
+Honda,CR-V,2019,45864.57,47510.41,Local Dealer,Los Angeles
+Nissan,Altima,2019,43368.8,43071.05,DriveTime,New York
+Ford,Escape,2020,73046.55,75384.65,DriveTime,San Francisco
+Toyota,Corolla,2015,43047.78,44939.98,Local Dealer,Miami
+Ford,Fusion,2023,58956.06,61016.71,AutoNation,Dallas
+Chevrolet,Malibu,2020,49594.39,51759.05,Vroom,Boston
+Ford,Focus,2022,62438.68,63466.05,TrueCar,Chicago
+Mercedes,E-Class,2019,48745.23,48891.12,AutoNation,Los Angeles
+Audi,Q7,2017,74026.66,79453.08,TrueCar,Denver
+Nissan,Murano,2016,31843.28,31714.04,DriveTime,Miami
+Nissan,Altima,2021,38188.16,36717.63,Local Dealer,New York
+Hyundai,Santa Fe,2015,53725.12,57900.12,CarMax,Denver
+Kia,Sorento,2017,26390.21,26603.38,Vroom,Houston
+BMW,3 Series,2016,23266.22,20901.78,Local Dealer,Denver
+Mercedes,GLA,2015,50792.47,51253.69,DriveTime,Boston
+Kia,Sorento,2018,79935.83,84257.22,Vroom,Denver
+Chevrolet,Equinox,2018,30977.8,32913.5,Vroom,Seattle
+Kia,Seltos,2021,66636.99,69080.09,Local Dealer,Los Angeles
+Chevrolet,Tahoe,2023,79231.92,83872.65,TrueCar,Miami
+Audi,Q5,2019,55858.16,55526.38,Vroom,Seattle
+BMW,X5,2018,37792.9,36464.63,TrueCar,Miami
+BMW,3 Series,2015,10212.2,8388.55,Local Dealer,San Francisco
+Ford,Focus,2018,36244.57,34881.99,CarMax,Los Angeles
+Nissan,Altima,2016,26008.86,24640.93,AutoNation,Los Angeles
+Mercedes,GLA,2024,75813.44,77838.23,Local Dealer,Boston
+Ford,Fusion,2020,76782.29,82353.96,Vroom,Seattle
+Honda,Civic,2016,8965.19,8370.08,Vroom,Dallas
+Honda,CR-V,2021,66616.66,68463.94,CarMax,Houston
+Kia,Seltos,2015,20911.84,20019.09,TrueCar,Houston
+Audi,A3,2023,16867.95,16109.08,CarMax,Chicago
+Audi,Q7,2019,50163.73,54031.29,CarMax,San Francisco
+Chevrolet,Equinox,2015,12093.77,10200.16,Vroom,Los Angeles
+Honda,Civic,2021,32171.67,34477.68,TrueCar,Los Angeles
+Chevrolet,Equinox,2022,61184.15,62177.24,DriveTime,Chicago
+Chevrolet,Tahoe,2015,47203.7,45983.13,CarMax,Boston
+Chevrolet,Traverse,2018,48190.92,47505.49,DriveTime,Seattle
+Honda,CR-V,2022,46761.24,48894.11,CarMax,Miami
+Mercedes,E-Class,2023,70803.65,71700.23,DriveTime,San Francisco
+Ford,Explorer,2019,79383.15,82316.87,Local Dealer,New York
+Nissan,Altima,2016,12163,11352.26,Vroom,Boston
+Audi,Q5,2022,52041.98,54774.96,CarMax,Houston
+Kia,Soul,2017,42565.71,42205.57,Vroom,Seattle
+Hyundai,Santa Fe,2022,55944.55,59596.21,DriveTime,Chicago
+Kia,Sorento,2017,69167.93,72615.15,DriveTime,Miami
+Nissan,Sentra,2019,72460.83,73297.46,Local Dealer,Denver
+Chevrolet,Traverse,2024,55489.1,55870.37,CarMax,Boston
+Audi,Q5,2022,33494.98,34362.77,TrueCar,Dallas
+Hyundai,Elantra,2019,26075.41,23249.94,Local Dealer,Los Angeles
+Audi,Q5,2024,78298.63,81803.95,DriveTime,Denver
+Chevrolet,Tahoe,2019,15964.79,13715.13,DriveTime,Miami
+Toyota,Highlander,2024,70316.84,72520.31,TrueCar,Los Angeles
+Toyota,Camry,2023,66283.92,67681.7,Vroom,Chicago
+Nissan,Sentra,2024,10089.18,9835.41,TrueCar,Miami
+Nissan,Murano,2022,53280.44,54117.25,DriveTime,Los Angeles
+BMW,X5,2016,17135.48,14832.77,TrueCar,Miami
+Toyota,Highlander,2018,58390.61,62229.49,AutoNation,San Francisco
+Chevrolet,Tahoe,2023,66350.15,67092.29,CarMax,San Francisco
+Mercedes,GLA,2018,32494.17,32577.05,AutoNation,Boston
+Toyota,Highlander,2016,73166.47,78375.63,DriveTime,Denver
+Audi,Q7,2015,38510.2,37088.28,Local Dealer,Los Angeles
+Mercedes,E-Class,2019,33849.53,33380.8,AutoNation,Houston
+Hyundai,Sonata,2023,69335.82,71050.29,CarMax,Houston
+Honda,Accord,2024,47354.06,46755.04,CarMax,Boston
+Chevrolet,Traverse,2017,16498.34,13597.14,Vroom,San Francisco
+Mercedes,GLC,2021,62507.83,67082.5,Vroom,Seattle
+Hyundai,Santa Fe,2022,67079.63,69316.02,CarMax,Boston
+Chevrolet,Equinox,2021,39633.98,39836.89,TrueCar,Houston
+Hyundai,Tucson,2016,49500.31,50046.75,DriveTime,New York
+Chevrolet,Malibu,2019,12553.25,11569.97,Local Dealer,Dallas
+Honda,Civic,2019,63725.92,65968.69,Vroom,Dallas
+Kia,Sportage,2015,78658.68,83357.1,TrueCar,New York
+Audi,A4,2016,39180.34,40609.04,CarMax,Houston
+Mercedes,E-Class,2015,7398.54,3838.04,CarMax,Miami
+Kia,Sportage,2016,7292.79,4284.54,CarMax,Denver
+Hyundai,Tucson,2016,61343.68,62198.64,TrueCar,Dallas
+Chevrolet,Traverse,2018,71709.41,76143.37,AutoNation,Boston
+Toyota,Highlander,2021,76952.82,79764.37,DriveTime,Miami
+Chevrolet,Equinox,2015,37399.51,40252.36,Vroom,Miami
+Chevrolet,Malibu,2021,22375.72,19931.53,AutoNation,Denver
+Hyundai,Tucson,2017,17222.47,18487.04,TrueCar,New York
+Toyota,Camry,2020,7950.63,8075.74,TrueCar,Chicago
+Mercedes,GLA,2021,64647.74,69789.03,Local Dealer,San Francisco
+Mercedes,C-Class,2018,47903.4,51327.12,Vroom,Boston
+Kia,Sorento,2020,62699.75,65585.46,Vroom,Chicago
+Honda,CR-V,2018,5889.17,4342.74,DriveTime,Los Angeles
+Honda,CR-V,2018,67952.47,73307.25,Vroom,Boston
+Nissan,Murano,2018,60323.68,63435.6,Local Dealer,New York
+Chevrolet,Tahoe,2019,37324.27,39786.18,DriveTime,Miami
+Mercedes,E-Class,2021,55224.95,58212.79,Local Dealer,Seattle
+Chevrolet,Malibu,2018,57613.86,61469.84,AutoNation,Chicago
+Ford,Explorer,2020,78584.48,82094.89,TrueCar,Miami
+Toyota,Corolla,2022,53565.64,54907.3,DriveTime,San Francisco
+Audi,Q7,2020,70100.83,71259.49,CarMax,New York
+BMW,3 Series,2016,66560.57,68777.75,TrueCar,Houston
+Ford,Fusion,2017,39862.87,40695.74,Local Dealer,Boston
+Mercedes,E-Class,2021,21884.46,19040.28,CarMax,Los Angeles
+Mercedes,C-Class,2015,49552.59,49802.74,CarMax,Seattle
+Audi,A4,2015,35964.75,33942.97,Local Dealer,Denver
+BMW,3 Series,2017,79391.91,84521.05,Vroom,Miami
+Chevrolet,Traverse,2023,31001.13,29083.98,DriveTime,San Francisco
+Ford,Explorer,2024,72429.95,73427.51,AutoNation,Dallas
+Chevrolet,Malibu,2022,6980.15,3654.83,Vroom,Houston
+BMW,X5,2021,69782.37,71654.65,Vroom,Houston
+Kia,Sorento,2019,79419.86,85236.41,AutoNation,San Francisco
+Toyota,Rav4,2015,15363.39,15529.33,Vroom,San Francisco
+Kia,Seltos,2020,79973.71,83465.21,DriveTime,Denver
+Ford,Escape,2022,11836.18,9856.56,AutoNation,Seattle
+Chevrolet,Traverse,2020,20076.22,21025.84,TrueCar,New York
+Chevrolet,Malibu,2022,79216.6,80754.71,AutoNation,New York
+BMW,X5,2020,27137.08,24340.2,TrueCar,New York
+Hyundai,Santa Fe,2018,38556.52,37405.76,Local Dealer,Los Angeles
+Chevrolet,Equinox,2020,29161.75,30281.41,AutoNation,Los Angeles
+Ford,Escape,2016,31620.02,31097,AutoNation,Boston
+Nissan,Murano,2023,23597.08,21751.01,Local Dealer,Houston
+Mercedes,C-Class,2015,9272.59,8997.36,TrueCar,Dallas
+BMW,X5,2021,52616.4,53702.3,CarMax,Boston
+Nissan,Rogue,2016,57565.6,59943.28,AutoNation,Houston
+Audi,A3,2023,34679.22,35856.96,Local Dealer,San Francisco
+Honda,Civic,2020,47505.32,46377.81,DriveTime,Chicago
+Kia,Sorento,2017,22880.71,24569.33,AutoNation,Los Angeles
+Hyundai,Santa Fe,2022,69158.95,73936.54,Local Dealer,Seattle
+BMW,X5,2024,38019.27,38027.52,Local Dealer,Los Angeles
+Audi,A3,2022,56073.97,57157.35,DriveTime,Miami
+Mercedes,GLC,2022,71276.65,75619.27,Local Dealer,New York
+Nissan,Sentra,2017,75499.15,79774.04,Vroom,New York
+Kia,Sportage,2015,71603.14,75527.98,TrueCar,Houston
+Kia,Sportage,2020,48677.39,50711.23,Local Dealer,Houston
+Mercedes,E-Class,2022,59356.13,63428.19,TrueCar,Chicago
+BMW,X3,2018,15916.89,13951.68,Vroom,Boston
+Honda,CR-V,2017,10910.85,11096.93,DriveTime,Houston
+Honda,Accord,2017,71260.2,72406.22,CarMax,Miami
+Nissan,Rogue,2015,67973.52,69357.67,CarMax,Houston
+Mercedes,C-Class,2017,13284.53,9647.09,TrueCar,Dallas
+Ford,Escape,2017,56360.56,57294.37,DriveTime,Dallas
+Honda,Pilot,2019,46607.99,49414.34,AutoNation,New York
+Audi,A3,2019,49982.88,52995.68,Vroom,San Francisco
+Chevrolet,Tahoe,2019,24577.71,22009.96,TrueCar,Miami
+Chevrolet,Tahoe,2016,71849.43,76745.87,TrueCar,Los Angeles
+Ford,Escape,2016,65407.29,68616.38,DriveTime,New York
+Honda,CR-V,2024,9910.79,6158.55,TrueCar,Chicago
+Nissan,Sentra,2020,21912.42,23559.68,Vroom,Miami
+Kia,Soul,2019,63900.93,64450.1,Vroom,Denver
+Kia,Soul,2016,18498.79,18664.24,Local Dealer,New York
+Chevrolet,Tahoe,2016,59635.01,60934.36,Vroom,Houston
+Kia,Sportage,2023,21357.31,20312.15,Local Dealer,Houston
+Chevrolet,Equinox,2020,50496.97,50409.61,AutoNation,Dallas
+Hyundai,Tucson,2017,46636.26,47693.53,Vroom,Miami
+Ford,Escape,2015,5014.7,3266.6,DriveTime,Seattle
+Honda,Civic,2024,6864.13,5901.54,Local Dealer,Dallas
+Audi,Q7,2024,32238.74,31902.78,Vroom,Houston
+Audi,Q5,2019,68426.05,69027.28,Vroom,Houston
+Ford,Fusion,2020,30186.96,29383,CarMax,Los Angeles
+Kia,Sportage,2020,76716.91,79761.94,AutoNation,Boston
+Toyota,Highlander,2017,44529.5,43347.79,DriveTime,Los Angeles
+BMW,5 Series,2023,40102.46,39171.41,TrueCar,Los Angeles
+Ford,Fusion,2020,32773.24,34623.82,CarMax,Denver
+Chevrolet,Traverse,2022,74732.44,78890.9,TrueCar,Miami
+Chevrolet,Equinox,2024,6258.33,1939.29,Local Dealer,Los Angeles
+Audi,Q7,2023,60004.43,63045.49,TrueCar,Seattle
+Ford,Escape,2016,74497.6,79384.45,CarMax,Seattle
+Audi,Q5,2024,36704.51,36355.24,DriveTime,Los Angeles
+Chevrolet,Malibu,2020,76923.34,80834.7,TrueCar,Miami
+Mercedes,C-Class,2017,60013.53,59901.04,AutoNation,San Francisco
+Kia,Sorento,2024,40837.03,41760.35,CarMax,Chicago
+Hyundai,Santa Fe,2023,38197.3,38373.26,Vroom,Miami
+Toyota,Camry,2023,48693.47,48786.16,DriveTime,Seattle
+BMW,5 Series,2016,76790.96,81857.81,DriveTime,New York
+Chevrolet,Traverse,2015,37133.68,38808.42,DriveTime,Miami
+Audi,A4,2020,67480.65,67900.01,DriveTime,San Francisco
+Nissan,Sentra,2024,15570.63,16757.08,DriveTime,Miami
+Chevrolet,Traverse,2022,18483.62,17672.65,AutoNation,New York
+Hyundai,Elantra,2018,33486.21,33256.41,Vroom,Denver
+Chevrolet,Traverse,2020,19759.44,17024.74,Vroom,Los Angeles
+Kia,Seltos,2019,21615.69,21672.44,Vroom,Boston
+Audi,A3,2021,40966.93,39945.08,Vroom,San Francisco
+Honda,Civic,2023,76377.41,78820.74,DriveTime,Houston
+Hyundai,Elantra,2019,7475.97,3277.03,DriveTime,Denver
+Honda,Civic,2020,21076.21,18269.1,TrueCar,Miami
+Hyundai,Tucson,2018,54460.57,55358.93,Vroom,Dallas
+Kia,Soul,2020,31411.32,31949.81,Local Dealer,Denver
+BMW,3 Series,2018,36280.32,36081.1,Local Dealer,Chicago
+BMW,X5,2017,20004.1,17368.14,Local Dealer,Denver
+Chevrolet,Equinox,2016,46231.12,45912.09,TrueCar,Los Angeles
+BMW,5 Series,2021,26953.07,28116.04,TrueCar,Houston
+Hyundai,Santa Fe,2020,68264.81,68977.61,CarMax,Dallas
+Mercedes,GLA,2019,54174.11,55720.24,AutoNation,Houston
+Mercedes,GLA,2021,72217.21,76179.22,CarMax,Seattle
+Ford,Focus,2017,54098.93,56586.61,DriveTime,Denver
+Hyundai,Santa Fe,2021,62485.9,62604.5,CarMax,New York
+BMW,X3,2023,43462.54,42286.94,AutoNation,Denver
+BMW,5 Series,2016,25319.5,26272.56,Local Dealer,Boston
+Honda,CR-V,2023,26681.8,28486.6,TrueCar,Boston
+Hyundai,Santa Fe,2018,34773.05,34825.26,AutoNation,Los Angeles
+Audi,A4,2022,22914.36,21201.69,TrueCar,Chicago
+Nissan,Altima,2016,51771.51,54280.1,Vroom,Boston
+Hyundai,Santa Fe,2020,12911.74,10469.3,CarMax,Dallas
+Honda,Accord,2018,64642.93,66062.58,CarMax,Denver
+Kia,Sportage,2020,53393.41,55869.34,AutoNation,Chicago
+Kia,Soul,2022,65095.56,66749.76,CarMax,Chicago
+Audi,Q7,2020,37819.61,40763.59,CarMax,New York
+Hyundai,Tucson,2020,72528.24,74562.25,Local Dealer,Miami
+Chevrolet,Tahoe,2017,15333.47,13313.53,DriveTime,Dallas
+Honda,Civic,2015,60734.41,64625.35,TrueCar,Seattle
+Nissan,Rogue,2016,14007.27,13389.56,TrueCar,Boston
+Nissan,Murano,2020,44226.34,46597.01,CarMax,Miami
+Chevrolet,Traverse,2023,68492.39,71254.29,Local Dealer,Los Angeles
+Chevrolet,Equinox,2018,51704.71,54008.67,CarMax,San Francisco
+Toyota,Camry,2020,19807.95,18563.16,CarMax,Seattle
+Hyundai,Elantra,2020,59207.87,63122.25,Local Dealer,Seattle
+Chevrolet,Traverse,2021,10061.13,7890.46,CarMax,Dallas
+Hyundai,Santa Fe,2015,56094.29,60322.14,CarMax,Boston
+Ford,Fusion,2015,48634.23,52408.96,CarMax,New York
+Nissan,Sentra,2020,34614.96,34895.98,DriveTime,Miami
+Toyota,Rav4,2023,30664.31,31103.3,Vroom,Chicago
+BMW,3 Series,2016,77437.35,78848.43,Vroom,Miami
+BMW,X5,2024,41969.73,42102.05,Vroom,Boston
+Ford,Explorer,2017,12880.27,11097.23,Vroom,New York
+Audi,A4,2021,10516.68,10493.2,Vroom,New York
+BMW,5 Series,2018,70562.54,73154.94,TrueCar,New York
+Hyundai,Tucson,2022,16474.77,16747.84,Vroom,San Francisco
+Mercedes,E-Class,2019,20210.26,17569.83,CarMax,Seattle
+Toyota,Highlander,2019,71881.42,77279.92,DriveTime,Miami
+Hyundai,Tucson,2022,19947.53,17766.12,AutoNation,Houston
+Chevrolet,Tahoe,2020,79404.13,84085.76,TrueCar,Boston
+BMW,3 Series,2021,59019.64,59780.35,Vroom,Boston
+Chevrolet,Malibu,2016,12778.57,11094.22,Vroom,Boston
+Audi,Q5,2019,66237.37,71018.02,DriveTime,Seattle
+Honda,Civic,2021,70038.54,73418.71,TrueCar,Miami
+Ford,Focus,2020,58405.63,60672.01,AutoNation,Los Angeles
+Kia,Seltos,2020,78355.2,83228.21,AutoNation,Seattle
+Mercedes,C-Class,2016,66854.19,70398.5,DriveTime,Denver
+Honda,CR-V,2017,42902.12,43105.73,AutoNation,Dallas
+Hyundai,Sonata,2019,31035.08,31852.1,Vroom,Houston
+Toyota,Rav4,2016,15871.93,16801.72,Local Dealer,Miami
+Nissan,Altima,2023,29739.49,31651.9,DriveTime,Chicago
+Nissan,Altima,2020,47766.65,50930.44,AutoNation,San Francisco
+Toyota,Highlander,2015,28882.94,29519.97,DriveTime,Dallas
+Toyota,Corolla,2017,79145.13,83612.25,Local Dealer,Los Angeles
+BMW,5 Series,2016,18386.01,16122.4,AutoNation,Denver
+Ford,Explorer,2017,42452.62,44626.2,DriveTime,Houston
+Honda,CR-V,2024,52741.71,56107.26,TrueCar,Los Angeles
+Chevrolet,Equinox,2023,58176.3,61515.62,Local Dealer,Dallas
+Toyota,Corolla,2023,13392.19,12089.97,AutoNation,Chicago
+BMW,3 Series,2018,66164.92,69633.11,AutoNation,New York
+Audi,A3,2016,24141.76,22394.79,Vroom,Los Angeles
+Hyundai,Sonata,2021,16874.63,15368.97,DriveTime,Houston
+Nissan,Sentra,2015,18292.23,14761.57,TrueCar,New York
+Nissan,Sentra,2019,67029,68605.28,AutoNation,San Francisco
+Chevrolet,Equinox,2023,53041.67,52916.11,AutoNation,Boston
+Kia,Sorento,2023,48566.63,50117.38,AutoNation,Boston
+BMW,X5,2024,15474.73,16288.45,AutoNation,Houston
+Chevrolet,Malibu,2017,58747.48,61419.49,TrueCar,Dallas
+Honda,Accord,2018,40646.85,39522.71,AutoNation,Denver
+BMW,X3,2017,57318.35,59346.45,TrueCar,Seattle
+Toyota,Corolla,2015,53050.36,56692.07,DriveTime,Houston
+Honda,Accord,2021,48203.64,50010.77,CarMax,Seattle
+Nissan,Sentra,2021,70215.23,74678.53,CarMax,New York
+Audi,A3,2024,10889.56,7579.03,DriveTime,Los Angeles
+Kia,Sorento,2024,52924.71,53259.65,Local Dealer,San Francisco
+Ford,Fusion,2023,59417.97,62324.91,DriveTime,Dallas
+Kia,Seltos,2023,7030.66,6984.7,Vroom,Chicago
+Honda,Pilot,2016,29872.34,31992.23,AutoNation,Denver
+Chevrolet,Equinox,2016,41589.57,41291.11,TrueCar,Dallas
+Toyota,Highlander,2018,46174.1,47146.33,CarMax,Miami
+BMW,5 Series,2024,31936.62,33329.07,AutoNation,Seattle
+Toyota,Camry,2017,31715.93,30374.87,DriveTime,Miami
+Toyota,Corolla,2021,40952.64,40784.77,CarMax,Miami
+Honda,Accord,2019,53940.76,54946.05,Vroom,Miami
+BMW,X3,2015,12233.03,9710.59,Vroom,Denver
+Ford,Escape,2017,12785.37,10618.8,DriveTime,Boston
+Audi,A4,2020,44353.93,45155.22,Local Dealer,Boston
+Honda,Civic,2016,67811.45,72478.47,AutoNation,Dallas
+Chevrolet,Malibu,2016,57999.45,57700.66,CarMax,Seattle
+Audi,Q7,2019,14176.23,13363.81,Vroom,New York
+Ford,Fusion,2021,67693.66,70208.55,AutoNation,Miami
+Honda,Accord,2024,9973.99,10610.93,AutoNation,Boston
+Audi,A4,2015,29848.97,28528.55,AutoNation,New York
+Nissan,Murano,2016,62117.78,62548.05,CarMax,Denver
+Honda,Civic,2017,32271.35,30001.25,TrueCar,New York
+Mercedes,E-Class,2023,77056.82,80186.94,TrueCar,Miami
+Mercedes,GLC,2020,46695.32,45928.43,Local Dealer,Los Angeles
+Ford,Escape,2023,76912.68,81236.21,DriveTime,San Francisco
+Toyota,Highlander,2017,26782.4,28222.21,DriveTime,Los Angeles
+Audi,A4,2023,68120.33,69028.33,Vroom,Denver
+Kia,Soul,2015,45567.82,46082.19,Local Dealer,Los Angeles
+BMW,3 Series,2024,62795.76,67608.34,CarMax,Denver
+Kia,Seltos,2024,43441.69,43981.61,DriveTime,Los Angeles
+Toyota,Highlander,2023,12457.52,10343.3,CarMax,Chicago
+Ford,Fusion,2016,38991.08,39788.97,TrueCar,Chicago
+Ford,Focus,2016,26579.59,27204.65,Local Dealer,New York
+Kia,Seltos,2019,79649.88,81701.37,Local Dealer,Chicago
+Ford,Focus,2016,22881.27,19893.92,AutoNation,New York
+Ford,Focus,2016,12592.46,11727.79,CarMax,Boston
+BMW,5 Series,2015,13252.33,12691.09,DriveTime,Denver
+Kia,Sportage,2017,22308.37,22137.25,Vroom,Los Angeles
+Kia,Seltos,2017,11138.21,11697.61,CarMax,Los Angeles
+Audi,Q5,2019,58140.42,62781.54,Vroom,Seattle
+Hyundai,Elantra,2018,73401.61,76340.09,AutoNation,San Francisco
+BMW,X3,2015,64669.67,66160.29,TrueCar,Seattle
+Ford,Escape,2023,61095.62,64340.96,AutoNation,Los Angeles
+Hyundai,Elantra,2019,74603.63,78217.73,TrueCar,New York
+Audi,A3,2018,19083.6,18087.25,AutoNation,Seattle
+Kia,Sportage,2016,76736.96,82110.13,AutoNation,San Francisco
+BMW,3 Series,2024,67035.62,69027.54,TrueCar,Denver
+Nissan,Rogue,2024,64172.79,67417.36,Vroom,Boston
+Kia,Sportage,2018,10047.28,8033.2,Local Dealer,San Francisco
+Chevrolet,Equinox,2019,15612.72,12867.39,CarMax,New York
+Chevrolet,Traverse,2021,72663.92,77859.97,AutoNation,Dallas
+Hyundai,Elantra,2024,7042.7,3539.65,AutoNation,Seattle
+Audi,A4,2019,16555.19,16148.64,AutoNation,New York
+Honda,Pilot,2016,66516.17,67235.67,DriveTime,Chicago
+Kia,Soul,2016,63072.08,64816,Vroom,Houston
+Audi,A3,2022,73239.38,77888.09,CarMax,New York
+Audi,Q5,2022,59763.44,62096.75,AutoNation,Chicago
+BMW,X5,2016,49278.52,49436.47,Vroom,Dallas
+Mercedes,E-Class,2019,60079.41,62136.2,DriveTime,Los Angeles
+Hyundai,Sonata,2021,44493.12,44632.93,DriveTime,Seattle
+Ford,Escape,2017,51979.57,54481.9,DriveTime,Seattle
+BMW,3 Series,2015,27382.94,28305.58,Local Dealer,San Francisco
+Mercedes,GLA,2019,13391.34,10949.48,DriveTime,Chicago
+Toyota,Camry,2018,52415.02,55078.08,CarMax,Seattle
+Audi,A3,2021,32515.41,30557.15,AutoNation,Boston
+Mercedes,E-Class,2019,11128.74,8149.25,Vroom,New York
+BMW,3 Series,2015,11661.98,11634.88,Vroom,Denver
+Ford,Explorer,2018,71919.52,74068.81,AutoNation,Seattle
+Nissan,Murano,2023,10191.51,6341.16,TrueCar,Chicago
+Nissan,Murano,2018,76159.02,81040.19,Vroom,Boston
+Chevrolet,Traverse,2023,72573,73641.71,Local Dealer,Houston
+Kia,Soul,2020,21346.91,20101.05,AutoNation,Denver
+Mercedes,GLA,2023,15411.71,14513.09,AutoNation,Denver
+Nissan,Altima,2016,66780.7,71510.66,CarMax,Denver
+Hyundai,Elantra,2024,71671.7,72978.36,Vroom,Los Angeles
+Toyota,Rav4,2017,30840.79,32878.89,DriveTime,Houston
+Nissan,Sentra,2023,79435.65,85440.67,DriveTime,San Francisco
+Toyota,Rav4,2023,34818.47,36718.18,DriveTime,Miami
+Honda,Accord,2018,57363.06,58729.83,Vroom,Boston
+Honda,Civic,2020,63191.25,66768.28,TrueCar,San Francisco
+BMW,3 Series,2023,39562.8,41962.73,Vroom,San Francisco
+Nissan,Rogue,2016,74329.27,79759.71,DriveTime,San Francisco
+Ford,Escape,2022,64436.44,64836.88,Local Dealer,Boston
+Audi,A3,2016,30672.3,30282.9,Local Dealer,Chicago
+Hyundai,Tucson,2015,51393.71,51906.19,CarMax,Dallas
+BMW,5 Series,2018,13797.13,11364.6,TrueCar,New York
+Toyota,Rav4,2020,39374.59,38490.18,CarMax,Houston
+Nissan,Murano,2015,22888.43,20094.99,CarMax,Dallas
+Hyundai,Elantra,2017,77270.4,78780.33,TrueCar,Chicago
+Nissan,Altima,2018,63872.65,64531.25,DriveTime,Seattle
+Audi,Q5,2024,39373.18,40258.95,AutoNation,Boston
+Audi,A4,2016,78582.53,82754.4,AutoNation,Houston
+Kia,Seltos,2019,71043.89,75863.09,Vroom,Los Angeles
+Nissan,Rogue,2018,22638.64,21077.81,CarMax,Miami
+Ford,Explorer,2021,74855.36,80223.37,Vroom,Boston
+Kia,Seltos,2015,45739.76,46951.82,AutoNation,Denver
+Honda,Accord,2020,45456.72,44440.46,TrueCar,San Francisco
+Chevrolet,Equinox,2015,69233.44,70996.93,CarMax,Los Angeles
+Audi,A4,2023,39540.82,40821.9,CarMax,Miami
+Kia,Seltos,2022,17342.93,16567.74,Vroom,Dallas
+Mercedes,E-Class,2018,43139.5,42137.55,AutoNation,Seattle
+Mercedes,E-Class,2017,6682.92,2583.09,TrueCar,Dallas
+Nissan,Murano,2023,28468.85,26988.04,CarMax,Denver
+BMW,X5,2015,69567.33,72624.34,CarMax,Dallas
+Audi,A3,2021,62248.13,66237.41,TrueCar,New York
+Hyundai,Tucson,2017,66461.22,69036.65,TrueCar,Boston
+Kia,Sportage,2016,41888.26,42167.54,TrueCar,Miami
+Hyundai,Sonata,2018,15323.85,14774.84,Local Dealer,Chicago
+Nissan,Murano,2017,8434.65,8984.74,Local Dealer,Denver
+Kia,Seltos,2022,61489.57,62542.27,AutoNation,Boston
+Nissan,Altima,2021,54859.32,54882.13,CarMax,Miami
+Audi,Q7,2018,62413.13,67318.72,Local Dealer,Dallas
+Ford,Explorer,2018,35141.19,36008.1,CarMax,San Francisco
+Kia,Sportage,2022,16361.62,13536.45,Local Dealer,Seattle
+Hyundai,Elantra,2024,11562.89,9313.09,AutoNation,Chicago
+Nissan,Sentra,2020,69538.42,72694.47,Local Dealer,San Francisco
+Mercedes,E-Class,2018,64344.84,69088.94,TrueCar,Seattle
+Chevrolet,Traverse,2018,38525.51,40878.37,TrueCar,New York
+Hyundai,Elantra,2016,58426.09,61677.41,CarMax,Los Angeles
+Audi,A3,2020,5978.79,3665.77,Local Dealer,New York
+Kia,Sorento,2018,6807.86,7063.97,TrueCar,Denver
+Kia,Soul,2019,10693.01,11273.39,DriveTime,San Francisco
+Audi,Q5,2023,50006.99,49569.7,TrueCar,Dallas
+BMW,5 Series,2020,34686.91,35233.43,CarMax,New York
+Audi,Q7,2017,44359.34,43063.38,DriveTime,Seattle
+Hyundai,Elantra,2019,78121.06,81630.53,TrueCar,Boston
+Ford,Focus,2016,12961.88,13925.86,TrueCar,Houston
+Ford,Escape,2022,34364.77,36893.38,AutoNation,Dallas
+Kia,Soul,2024,49779.3,52626.03,Vroom,Denver
+Honda,CR-V,2018,69347.94,70833.44,Vroom,Houston
+Kia,Soul,2024,55852.5,55383.25,CarMax,Seattle
+Nissan,Murano,2021,45960.21,48228.27,Vroom,Boston
+BMW,X3,2017,10563.95,7736.74,CarMax,Houston
+Ford,Explorer,2023,47264.12,48149.58,Local Dealer,Houston
+Mercedes,C-Class,2018,79138.12,85125.82,Vroom,Chicago
+Mercedes,GLA,2017,27439.28,25747.17,Local Dealer,Boston
+Toyota,Rav4,2020,7130.04,5219.72,Local Dealer,Dallas
+Toyota,Rav4,2017,7934.65,3718.3,CarMax,Dallas
+Ford,Focus,2018,30583.26,31677.05,Vroom,Miami
+Nissan,Murano,2021,10173.48,7075.58,AutoNation,New York
+Mercedes,C-Class,2016,39086.7,40326.91,Local Dealer,Miami
+Nissan,Sentra,2024,66793.91,69476.59,CarMax,Seattle
+BMW,5 Series,2019,43170.92,45349.36,DriveTime,Denver
+Hyundai,Santa Fe,2015,18059.15,15588.05,TrueCar,Chicago
+Ford,Fusion,2024,11067.2,10266.08,CarMax,Chicago
+Ford,Fusion,2016,53301.11,54496.57,Vroom,Chicago
+BMW,X5,2023,72895.54,77608.81,Local Dealer,San Francisco
+Chevrolet,Tahoe,2016,79628.95,83701.9,Local Dealer,Houston
+Toyota,Rav4,2020,77568.94,82627.63,Local Dealer,Los Angeles
+BMW,X3,2016,33736.44,35670.59,AutoNation,New York
+Audi,Q7,2021,11373.11,10443.27,Local Dealer,New York
+Ford,Escape,2023,60679.14,63297.92,Local Dealer,San Francisco
+Nissan,Rogue,2024,48330.12,48856.42,TrueCar,Seattle
+Audi,A4,2021,32907.44,34216.85,DriveTime,Houston
+Audi,Q5,2015,75044.83,77005.1,AutoNation,Miami
+Mercedes,GLA,2017,5544.2,3307.83,TrueCar,Boston
+Nissan,Rogue,2015,45067.88,43799.92,Vroom,San Francisco
+Audi,Q5,2022,60273.87,62463.78,TrueCar,Seattle
+Kia,Sportage,2019,12778.32,13522.1,DriveTime,Seattle
+Audi,A4,2021,16066.26,14693.51,TrueCar,San Francisco
+Mercedes,GLC,2017,33433.95,33198.56,DriveTime,Seattle
+Hyundai,Santa Fe,2021,70751.94,76302.93,Vroom,Miami
+Kia,Seltos,2016,38881.91,40337.3,Local Dealer,Miami
+Nissan,Altima,2022,69385.21,73938.62,AutoNation,Chicago
+Honda,Accord,2020,22705.13,21753.99,Local Dealer,Los Angeles
+Ford,Escape,2022,10360.15,7561.54,CarMax,Chicago
+Hyundai,Sonata,2020,46168.23,46297.71,DriveTime,Miami
+Honda,Pilot,2022,45118.35,45532.67,AutoNation,Houston
+Chevrolet,Equinox,2015,9012.77,9554.17,Vroom,New York
+Kia,Soul,2017,51215.22,55059.59,Vroom,Denver
+Audi,A4,2018,39023.03,38095.11,AutoNation,Dallas
+Mercedes,GLA,2015,29522.61,27793.05,Vroom,Boston
+Honda,Pilot,2018,37280.72,36254.81,Vroom,New York
+BMW,5 Series,2015,69087.83,73390.19,Local Dealer,Miami
+Kia,Seltos,2020,12269.03,12197.64,TrueCar,Boston
+Hyundai,Sonata,2018,29562.42,30778.87,TrueCar,Denver
+BMW,X5,2015,55588.37,57902.93,Vroom,Dallas
+Chevrolet,Equinox,2024,60552.92,64677.84,Vroom,San Francisco
+Mercedes,GLC,2015,17173.49,14542.45,TrueCar,Miami
+Hyundai,Elantra,2021,71840.31,73777.95,Vroom,New York
+Ford,Fusion,2021,44955.99,44941.52,AutoNation,Houston
+Honda,CR-V,2017,6989.59,3082.97,Vroom,Los Angeles
+Audi,A4,2018,14299.6,13557.44,AutoNation,San Francisco
+Kia,Sportage,2022,48762.95,51733.65,DriveTime,Denver
+Honda,CR-V,2024,47021.89,50357.31,TrueCar,New York
+Chevrolet,Malibu,2024,43692.65,42533.31,TrueCar,Los Angeles
+Honda,Pilot,2017,41013.15,42274.12,DriveTime,Dallas
+Ford,Focus,2022,17253.16,17353.05,CarMax,Chicago
+Nissan,Altima,2017,75531.77,78599.06,CarMax,New York
+Honda,CR-V,2023,38411.06,40778.86,TrueCar,Los Angeles
+Nissan,Altima,2018,75212.6,78262.04,AutoNation,Miami
+Mercedes,GLA,2019,74960.58,79559.2,Local Dealer,Houston
+Audi,A4,2024,79225.74,80759.34,Vroom,Denver
+Kia,Seltos,2023,68413.62,73395.92,TrueCar,Los Angeles
+Nissan,Sentra,2022,38613.51,37794.23,AutoNation,Los Angeles
+Honda,Civic,2021,19755.74,19991.87,Vroom,Denver
+Ford,Focus,2016,12175.44,12227.43,TrueCar,Los Angeles
+Ford,Explorer,2023,67089.1,71551.55,Vroom,Los Angeles
+Hyundai,Elantra,2018,62103.52,64709.05,DriveTime,Los Angeles
+BMW,3 Series,2018,15049.91,11822,Local Dealer,Dallas
+Kia,Seltos,2022,45260.49,43985.48,AutoNation,Seattle
+Kia,Sorento,2019,78003.71,81738.76,Vroom,Seattle
+Ford,Escape,2017,26173.64,23947.54,AutoNation,Los Angeles
+Chevrolet,Malibu,2022,53826.28,55001.23,CarMax,Houston
+Ford,Explorer,2015,32677.34,35008.52,Local Dealer,Seattle
+Nissan,Rogue,2023,56328.81,60534.78,DriveTime,Dallas
+Ford,Fusion,2021,49034.27,50543.74,DriveTime,Miami
+BMW,3 Series,2019,64706.02,65005.11,AutoNation,New York
+Toyota,Corolla,2024,25918.94,27083.52,CarMax,Seattle
+Kia,Sorento,2020,69614.23,73101.58,DriveTime,Boston
+Kia,Sorento,2016,33099.1,31796.97,TrueCar,San Francisco
+Kia,Seltos,2021,6601.52,5678.02,CarMax,New York
+Ford,Explorer,2020,77814.6,81118.19,CarMax,Seattle
+Audi,A4,2020,52143.49,53775.33,AutoNation,Chicago
+Kia,Sportage,2024,43720.64,43558.6,AutoNation,Los Angeles
+Nissan,Altima,2018,22859.92,22948.13,Local Dealer,Miami
+Honda,CR-V,2016,76916.99,82797.18,AutoNation,Dallas
+Kia,Soul,2018,49892.62,49751.28,Vroom,Denver
+Kia,Seltos,2015,35166.14,34857.86,Vroom,Denver
+BMW,X5,2024,9859.75,10434.4,AutoNation,Miami
+Nissan,Altima,2020,17980.47,16700.55,Local Dealer,Miami
+Chevrolet,Equinox,2017,11994.21,8098.92,DriveTime,Denver
+Kia,Sportage,2018,38723.44,41225.67,Local Dealer,Seattle
+Chevrolet,Tahoe,2018,62256.24,64181.88,Vroom,Houston
+Chevrolet,Traverse,2018,24991.62,25509.25,CarMax,Miami
+Chevrolet,Traverse,2016,10267.79,7989.4,CarMax,Miami
+Kia,Seltos,2018,48201.37,47058.45,DriveTime,Los Angeles
+Mercedes,GLC,2024,63806.24,67819,Local Dealer,Dallas
+BMW,5 Series,2024,19510.45,17376.33,AutoNation,Seattle
+Nissan,Rogue,2017,26491.3,26246.96,TrueCar,New York
+Ford,Focus,2022,14653.85,15385.95,TrueCar,Seattle
+Chevrolet,Traverse,2020,76086.46,78594.04,AutoNation,Dallas
+BMW,X3,2017,21587.72,19000.86,TrueCar,New York
+Audi,A3,2021,63681.67,65529.82,Vroom,Houston
+BMW,3 Series,2015,34163.57,35284.18,DriveTime,Denver
+Nissan,Rogue,2015,33275.03,35480.77,AutoNation,Chicago
+Hyundai,Santa Fe,2017,22312.36,20697.19,Local Dealer,Seattle
+Ford,Fusion,2015,62433.4,66743.64,Vroom,Chicago
+Kia,Sorento,2018,6425.9,4017.23,Vroom,Chicago
+Kia,Soul,2023,7958.84,5357.53,TrueCar,Dallas
+Nissan,Altima,2017,64467.54,67054.76,Local Dealer,Los Angeles
+Toyota,Camry,2023,5704.88,5729.28,CarMax,Seattle
+Ford,Escape,2020,46162.29,49342.92,Local Dealer,Los Angeles
+Chevrolet,Traverse,2019,17384.83,14864.9,Local Dealer,Dallas
+Kia,Seltos,2015,68049.66,71208.79,TrueCar,Dallas
+Mercedes,GLC,2016,41528.27,40154.48,AutoNation,Denver
+Chevrolet,Equinox,2017,17711.01,16401.53,DriveTime,San Francisco
+Chevrolet,Malibu,2018,26257.15,25706.06,DriveTime,Chicago
+BMW,X5,2024,42248.29,44357.38,Local Dealer,Boston
+Kia,Seltos,2016,54924.32,55298.69,CarMax,Los Angeles
+Ford,Explorer,2024,33782.7,32964.51,CarMax,Miami
+BMW,X5,2017,48972.62,49969.31,DriveTime,Chicago
+Kia,Sorento,2021,74800.7,78163.22,Local Dealer,Denver
+Toyota,Highlander,2024,60244.42,60193.08,Vroom,San Francisco
+Toyota,Camry,2015,42320.13,45260.49,CarMax,Miami
+Honda,CR-V,2022,38129.11,36512.41,TrueCar,New York
+Mercedes,GLA,2017,75139.28,80306.06,CarMax,Houston
+Audi,A4,2022,51446.69,54142.46,DriveTime,Denver
+Mercedes,GLC,2018,55800.52,57187.53,Local Dealer,Boston
+Kia,Sorento,2022,76831.35,77993.66,Local Dealer,Miami
+Toyota,Rav4,2022,52328.16,54196.29,DriveTime,Dallas
+Toyota,Corolla,2022,38947.66,39197.32,Vroom,Denver
+Chevrolet,Traverse,2024,30751.5,31895.65,DriveTime,Seattle
+Mercedes,GLA,2020,49151.6,52962.69,AutoNation,Los Angeles
+Nissan,Altima,2017,33621.93,34179.46,TrueCar,Denver
+BMW,X3,2024,54742.17,58393.09,Vroom,Dallas
+Hyundai,Santa Fe,2020,45529.85,44422.35,TrueCar,San Francisco
+Kia,Soul,2018,37031.64,36212.64,DriveTime,Miami
+Honda,CR-V,2023,12844.84,12401.47,DriveTime,Boston
+Chevrolet,Tahoe,2022,13429.21,12373.13,CarMax,Chicago
+Hyundai,Elantra,2023,27664.18,27866.63,TrueCar,New York
+Hyundai,Santa Fe,2023,75230.37,77613.29,TrueCar,Miami
+BMW,X5,2020,53834.9,55348.14,Vroom,Denver
+Toyota,Camry,2019,54072.19,55982.83,DriveTime,Denver
+Toyota,Rav4,2019,14098.2,14766.21,Vroom,Seattle
+Nissan,Altima,2018,9166.41,5846.94,DriveTime,Chicago
+Mercedes,E-Class,2016,30744.06,28928.87,DriveTime,Denver
+Honda,Accord,2023,39491.29,37679.75,AutoNation,Dallas
+Kia,Sorento,2019,6444.32,2965.52,DriveTime,San Francisco
+Chevrolet,Traverse,2016,22411.4,23073.8,Local Dealer,Denver
+BMW,X5,2021,24744.34,22527.19,Vroom,Boston
+BMW,X3,2016,36784.18,39023.58,DriveTime,Miami
+Toyota,Highlander,2024,7051.48,5586.08,TrueCar,Houston
+Toyota,Highlander,2016,79424.95,83809.54,AutoNation,San Francisco
+Ford,Focus,2017,76973.53,80532.84,Local Dealer,Miami
+Hyundai,Sonata,2020,6463.66,2618.45,TrueCar,Los Angeles
+Nissan,Sentra,2020,11917.5,10294.46,CarMax,Miami
+Nissan,Murano,2019,58740.36,62766.45,Local Dealer,Chicago
+Honda,Civic,2015,14268.36,13002.38,DriveTime,San Francisco
+Honda,Civic,2022,22570.5,20929.14,AutoNation,Los Angeles
+Kia,Seltos,2021,60182.29,62368.15,AutoNation,Dallas
+Hyundai,Tucson,2019,11936.62,8729.36,DriveTime,Miami
+Honda,Civic,2022,7467.71,6217.89,Vroom,Miami
+Ford,Focus,2021,50475.11,51010.96,Vroom,Los Angeles
+Nissan,Sentra,2019,53858.67,54368.22,DriveTime,Houston
+Hyundai,Santa Fe,2016,62385.18,65720.8,AutoNation,New York
+Nissan,Altima,2022,14195.68,14140.46,Vroom,Denver
+Hyundai,Santa Fe,2021,73949.05,75547.44,TrueCar,New York
+Honda,Civic,2020,44271.95,47414.59,Vroom,Houston
+Honda,Civic,2020,22037.62,21918.8,AutoNation,Denver
+Ford,Explorer,2017,20049.69,20395.16,DriveTime,Dallas
+Hyundai,Sonata,2023,23831.51,22458.26,TrueCar,Houston
+Honda,Pilot,2016,66663.91,70520.13,DriveTime,Los Angeles
+Mercedes,GLA,2021,69504.19,74779.27,CarMax,Boston
+Hyundai,Elantra,2020,54870.15,58971.05,AutoNation,New York
+Honda,Civic,2024,48365.17,52144.13,AutoNation,San Francisco
+Chevrolet,Malibu,2018,20581.65,20061.46,AutoNation,Miami
+Honda,CR-V,2023,68583.02,69785.01,DriveTime,Boston
+Ford,Focus,2020,66819.88,68680.27,Local Dealer,Dallas
+Toyota,Highlander,2021,40720.19,43651.12,CarMax,Miami
+BMW,X3,2023,43015.47,45836.16,Vroom,Dallas
+Ford,Escape,2018,45860.96,49002.98,AutoNation,Chicago
+Toyota,Rav4,2015,50162.3,51577.89,TrueCar,San Francisco
+Nissan,Altima,2020,5785.65,3374.24,DriveTime,Dallas
+Mercedes,C-Class,2020,70578.09,73502.65,CarMax,Los Angeles
+Audi,Q7,2018,73834.44,78496.04,AutoNation,Los Angeles
+BMW,5 Series,2022,47785.57,49347.53,DriveTime,Miami
+Mercedes,C-Class,2020,51281.59,51374.19,Vroom,Denver
+BMW,X3,2021,28282.27,28581.39,AutoNation,Denver
+Chevrolet,Malibu,2015,41311.55,40146.48,Local Dealer,San Francisco
+Ford,Explorer,2017,47343.27,47450.69,CarMax,Houston
+Audi,Q5,2016,14867.83,15305.73,TrueCar,Boston
+Chevrolet,Malibu,2019,59507.11,63501.64,TrueCar,Houston
+Ford,Explorer,2017,9198.2,7513.2,CarMax,Chicago
+Nissan,Sentra,2021,22356.85,21568.03,CarMax,Chicago
+BMW,X3,2017,14495.06,13075.51,DriveTime,Dallas
+Nissan,Rogue,2022,74826.96,77986.7,DriveTime,Seattle
+Honda,Civic,2024,62490.8,66367.91,CarMax,Los Angeles
+Toyota,Corolla,2022,26440.17,24390.06,TrueCar,Dallas
+Toyota,Corolla,2018,67282.43,71980.77,Vroom,Los Angeles
+Mercedes,GLC,2019,56333.92,59255.92,AutoNation,Houston
+Chevrolet,Traverse,2023,48527.72,50056.08,Vroom,Miami
+Kia,Soul,2018,12127.75,12512.57,CarMax,Chicago
+Ford,Explorer,2021,53054.91,54472.71,DriveTime,Boston
+Toyota,Highlander,2019,29415.74,28344.07,Local Dealer,Boston
+Hyundai,Tucson,2016,18512.29,18785.78,Vroom,San Francisco
+Kia,Sportage,2020,49523.82,49527.06,CarMax,Los Angeles
+Kia,Seltos,2016,32941.25,35553.65,TrueCar,San Francisco
+Ford,Focus,2020,77259.83,79941.58,CarMax,Chicago
+Mercedes,C-Class,2020,58574.12,62065.58,Local Dealer,Chicago
+Chevrolet,Malibu,2015,56667.44,57355.99,DriveTime,Miami
+Ford,Explorer,2016,31903.17,31156.52,Local Dealer,Houston
+Audi,Q7,2016,57009.2,58765.54,AutoNation,Denver
+Ford,Fusion,2019,58818.51,61338.91,AutoNation,Los Angeles
+BMW,5 Series,2019,26753.16,25048.69,Local Dealer,San Francisco
+Hyundai,Santa Fe,2015,79434.27,83486.72,TrueCar,Chicago
+Audi,Q7,2023,71161.09,75545.83,TrueCar,Houston
+Honda,Civic,2022,28194.22,26919.44,DriveTime,New York
+Honda,CR-V,2019,61900.66,62949.95,DriveTime,New York
+Chevrolet,Traverse,2022,8022.89,4880.08,CarMax,Los Angeles
+Mercedes,C-Class,2024,72381.37,77545.74,CarMax,New York
+Hyundai,Sonata,2018,61640.12,64351.19,Local Dealer,Los Angeles
+Hyundai,Elantra,2020,58815.14,60041.11,CarMax,New York
+Toyota,Camry,2024,24009.43,25703.7,AutoNation,Seattle
+Toyota,Camry,2022,20632.53,21491.81,AutoNation,Houston
+Chevrolet,Tahoe,2017,43873.6,46831.5,Local Dealer,Chicago
+Hyundai,Elantra,2020,71818.53,76301.82,CarMax,Denver
+Chevrolet,Equinox,2021,28303.28,28276.84,TrueCar,Los Angeles
+Mercedes,GLA,2018,31768.28,29726.07,CarMax,Chicago
+Mercedes,C-Class,2024,50186.79,52889,CarMax,Miami
+Honda,Pilot,2017,22751.33,20802.45,Vroom,Los Angeles
+BMW,5 Series,2015,50548.12,50166.47,TrueCar,Los Angeles
+Chevrolet,Malibu,2020,41791.59,40139.91,Vroom,Houston
+Mercedes,E-Class,2019,41044.46,39511.13,TrueCar,Boston
+Honda,CR-V,2021,48121.32,51828.9,AutoNation,Houston
+Nissan,Sentra,2015,75342.49,77315.4,DriveTime,Miami
+Kia,Seltos,2022,55153.25,59015.69,Local Dealer,Miami
+Kia,Soul,2019,67575.55,71110.99,Local Dealer,Chicago
+Mercedes,C-Class,2017,43421.73,45565.92,TrueCar,Los Angeles
+Honda,Accord,2016,52024.7,56181.69,AutoNation,Houston
+Nissan,Rogue,2020,58970.75,59839.18,CarMax,Los Angeles
+Mercedes,C-Class,2023,30446.57,28750.4,Local Dealer,Miami
+Toyota,Rav4,2022,42466.93,42477.09,TrueCar,Seattle
+Ford,Focus,2018,51767.15,55749.59,Vroom,Seattle
+BMW,X5,2023,8395.34,4871.26,TrueCar,Chicago
+BMW,X5,2024,11187.84,9722.07,CarMax,Boston
+BMW,3 Series,2015,37210.09,38227.19,DriveTime,Miami
+Chevrolet,Malibu,2018,65402.04,68921.61,TrueCar,Dallas
+Mercedes,GLC,2018,12119.43,10877.57,AutoNation,Boston
+Honda,Accord,2019,42182.98,41942.55,Local Dealer,San Francisco
+Toyota,Rav4,2023,46463.68,47956.95,CarMax,Chicago
+Kia,Sorento,2024,18273.67,15594.57,AutoNation,Dallas
+Mercedes,E-Class,2023,24641.66,21955.19,AutoNation,New York
+Audi,Q5,2022,78930.11,84627.72,AutoNation,San Francisco
+Ford,Fusion,2020,77511.81,80827.65,Vroom,Miami
+Kia,Seltos,2017,75810.67,79198.37,Local Dealer,New York
+Audi,A3,2016,79148.3,84815.99,Local Dealer,Chicago
+Honda,CR-V,2019,16121.32,15767.11,AutoNation,New York
+Nissan,Murano,2015,68414.58,69532.98,CarMax,Los Angeles
+Nissan,Rogue,2024,62870.96,63912.31,Vroom,Chicago
+Mercedes,GLC,2022,65702.38,66379.55,DriveTime,Los Angeles
+Chevrolet,Tahoe,2017,59695.05,62479.55,Vroom,Dallas
+Mercedes,E-Class,2015,8141.23,4540.98,DriveTime,Chicago
+Audi,A4,2020,60198.55,63454.67,Vroom,Denver
+Hyundai,Santa Fe,2018,11609.39,8804.9,AutoNation,Miami
+Chevrolet,Tahoe,2021,77120.75,81075.76,TrueCar,Los Angeles
+Chevrolet,Equinox,2020,23138.72,24329.1,Local Dealer,Houston
+Hyundai,Tucson,2020,62977.89,64537.17,Local Dealer,Denver
+Mercedes,GLA,2016,49814.17,49218.73,Vroom,Houston
+Toyota,Rav4,2024,47587.3,48495.06,AutoNation,San Francisco
+Toyota,Highlander,2019,46689.6,47938.67,Local Dealer,Houston
+Audi,Q5,2015,11855.43,8496.76,DriveTime,San Francisco
+Chevrolet,Malibu,2015,34405.58,35775.78,DriveTime,Dallas
+Toyota,Camry,2018,49901.34,51528.08,DriveTime,Los Angeles
+Chevrolet,Equinox,2020,79596.76,85471.61,TrueCar,New York
+Kia,Sorento,2018,78166.27,79928.15,AutoNation,Seattle
+Chevrolet,Equinox,2023,40811.5,42707.9,Local Dealer,Houston
+Honda,Pilot,2015,40539.2,39528.97,TrueCar,New York
+Ford,Escape,2022,9225.79,6002,Local Dealer,Los Angeles
+Mercedes,GLC,2021,38829.46,37275.86,Local Dealer,Miami
+Mercedes,GLA,2021,32559.99,32017.97,Vroom,Los Angeles
+Chevrolet,Traverse,2022,15542.54,13550.41,TrueCar,Houston
+Toyota,Highlander,2022,65177.39,66254.73,DriveTime,New York
+Toyota,Camry,2024,55596.88,55282.45,Vroom,Miami
+Nissan,Altima,2017,53372.18,53857.7,DriveTime,Chicago
+Nissan,Sentra,2020,49503.4,50427.49,Vroom,Miami
+Mercedes,GLA,2015,37927.52,36414.78,TrueCar,Boston
+Ford,Focus,2020,52878.8,52330.41,Vroom,Chicago
+BMW,5 Series,2023,53636.97,55936.76,CarMax,Dallas
+Honda,Pilot,2015,23446.9,25242.29,DriveTime,Dallas
+Kia,Seltos,2022,21935.73,20894.81,DriveTime,Seattle
+Chevrolet,Equinox,2024,12018.65,8719,Vroom,Chicago
+Audi,A3,2022,16197.6,15900.24,Vroom,Houston
+Chevrolet,Tahoe,2024,13283.61,13861.36,CarMax,Seattle
+Toyota,Corolla,2015,19387.68,17637.35,AutoNation,Houston
+Toyota,Camry,2019,30354.79,30709.96,Local Dealer,New York
+Nissan,Sentra,2020,71252.36,74290.28,Local Dealer,Seattle
+Hyundai,Sonata,2020,69769.15,74479.97,CarMax,Dallas
+Kia,Sportage,2015,73939.36,79106.16,TrueCar,Houston
+Chevrolet,Malibu,2020,74435.98,79131.21,Local Dealer,Dallas
+Kia,Soul,2021,23608.02,21194.06,CarMax,Houston
+Audi,A4,2019,49772.02,51074.1,Vroom,Denver
+Kia,Soul,2024,32950.43,33013.41,DriveTime,Denver
+Audi,Q7,2015,9548.4,7423.63,Vroom,New York
+Kia,Soul,2018,5279.18,3052.95,TrueCar,New York
+Toyota,Corolla,2019,35410.36,34393.36,DriveTime,Chicago
+Hyundai,Sonata,2024,52595.36,53088.57,Local Dealer,Chicago
+Nissan,Altima,2024,66221.76,66584.43,Vroom,Los Angeles
+BMW,X5,2017,66168.67,69293.27,AutoNation,Houston
+Hyundai,Tucson,2024,64120.43,68958.82,TrueCar,Miami
+Honda,Pilot,2018,39095.04,39484.3,DriveTime,Boston
+Chevrolet,Traverse,2019,73808.24,75895.43,AutoNation,Los Angeles
+Audi,Q7,2019,75610.98,80330.82,DriveTime,Chicago
+Kia,Soul,2019,27515,28535.88,AutoNation,Chicago
+Toyota,Camry,2017,76687.37,79564.32,CarMax,Chicago
+Mercedes,C-Class,2020,28688.71,27002.66,Local Dealer,Miami
+Mercedes,C-Class,2022,26503.96,24497.55,Local Dealer,Dallas
+Nissan,Murano,2024,21365.55,18661.93,Local Dealer,Los Angeles
+Chevrolet,Traverse,2015,21863.62,20997.63,DriveTime,New York
+Mercedes,GLC,2023,16637.94,15744.05,Local Dealer,Houston
+Nissan,Sentra,2023,66060.93,70442.14,Local Dealer,San Francisco
+Nissan,Altima,2019,7698.91,6233.78,Vroom,Chicago
+Hyundai,Santa Fe,2017,7658.16,6011.53,Local Dealer,Los Angeles
+Nissan,Altima,2021,9856.06,9196.01,Vroom,Los Angeles
+Mercedes,C-Class,2019,36411.32,36582.05,CarMax,Boston
+BMW,X3,2016,6451.64,2614.42,TrueCar,New York
+BMW,X5,2017,72673.45,75535.87,DriveTime,Chicago
+Honda,Accord,2016,51486.74,51334.33,CarMax,Miami
+Nissan,Rogue,2021,20818.31,17719.99,Vroom,New York
+Honda,Pilot,2017,67418.8,70741.74,TrueCar,Miami
+Toyota,Camry,2024,58467.92,60891.66,TrueCar,Chicago
+Honda,Pilot,2021,66722.3,67943.51,DriveTime,Los Angeles
+Audi,A3,2020,5389.5,3232.88,CarMax,Boston
+Toyota,Highlander,2020,62265,67033.43,CarMax,Boston
+Kia,Sorento,2022,48530.13,48127.37,DriveTime,San Francisco
+BMW,3 Series,2024,40716.92,40252.45,DriveTime,Chicago
+Kia,Seltos,2021,18367.75,19050.83,TrueCar,Chicago
+Audi,Q7,2023,8152.39,4094.23,Local Dealer,Seattle
+Ford,Escape,2021,60151.41,61790.73,CarMax,Houston
+Chevrolet,Tahoe,2020,8762.24,6769.55,TrueCar,Boston
+BMW,X3,2024,10070.56,7433.52,TrueCar,Miami
+Hyundai,Tucson,2018,42299.13,45483.97,DriveTime,Chicago
+Ford,Focus,2023,58812.72,63035.06,DriveTime,Miami
+Hyundai,Santa Fe,2019,79162.01,82867.52,CarMax,Los Angeles
+Toyota,Highlander,2017,49267.23,50000.49,Vroom,Miami
+Hyundai,Tucson,2019,27682.03,25695.63,AutoNation,New York
+Kia,Soul,2024,53820.97,54365.47,DriveTime,Seattle
+Mercedes,GLA,2019,14179.79,10946.7,Vroom,Los Angeles
+Toyota,Highlander,2022,43649.48,45201.34,TrueCar,Miami
+Toyota,Highlander,2023,35995.68,36495.05,AutoNation,Los Angeles
+Toyota,Corolla,2024,73372.74,75845.68,TrueCar,Seattle
+Nissan,Rogue,2021,56912.95,60411.11,AutoNation,Miami
+Hyundai,Sonata,2023,44276.68,47307.7,Vroom,New York
+Mercedes,C-Class,2018,25329.52,22359.31,AutoNation,Dallas
+Mercedes,GLC,2017,49835.85,51101.4,Local Dealer,Houston
+Ford,Explorer,2021,29893.06,28057.34,AutoNation,New York
+Chevrolet,Equinox,2019,56514.83,58003.45,TrueCar,San Francisco
+Hyundai,Sonata,2024,78531.37,82938.89,TrueCar,Miami
+Chevrolet,Tahoe,2017,58456.84,62231.84,DriveTime,New York
+Hyundai,Tucson,2018,9709.01,6574.14,CarMax,New York
+Toyota,Highlander,2020,53794.76,53678.43,Local Dealer,Boston
+BMW,5 Series,2023,55811.18,59608.54,TrueCar,Seattle
+BMW,3 Series,2022,46728.53,50101.26,CarMax,Miami
+Toyota,Highlander,2019,15460.86,14828.49,Local Dealer,Chicago
+Audi,A3,2017,50851.59,53638.59,Vroom,New York
+Toyota,Camry,2021,26271.29,26457.91,DriveTime,Boston
+Honda,Pilot,2022,42235.09,40917.37,Vroom,San Francisco
+Audi,Q5,2024,46414.76,47456.04,Vroom,Dallas
+Audi,A4,2021,48455.58,51767.83,TrueCar,Miami
+Hyundai,Elantra,2016,77625.77,83331.83,CarMax,Dallas
+Honda,CR-V,2018,11341.06,10959.94,Vroom,Dallas
+Toyota,Rav4,2020,9786.53,10423.63,DriveTime,Denver
+Kia,Sportage,2023,28748.26,27779.12,TrueCar,Chicago
+Kia,Soul,2016,6086.8,3374.97,Vroom,Denver
+Hyundai,Santa Fe,2020,14464.38,14362.5,CarMax,Seattle
+Hyundai,Sonata,2017,28308.7,28712.71,TrueCar,Chicago
+Honda,CR-V,2017,36428.21,34887.7,AutoNation,Seattle
+Chevrolet,Malibu,2023,27221.87,28655.75,AutoNation,Denver
+Kia,Seltos,2022,35015.4,37734.16,TrueCar,Boston
+Honda,CR-V,2024,74031.99,76109.55,AutoNation,Los Angeles
+Chevrolet,Traverse,2019,40813.04,40315.44,AutoNation,Chicago
+Nissan,Altima,2016,52381.3,55373.2,AutoNation,Houston
+Kia,Seltos,2024,45516.54,46320.36,Vroom,Denver
+Audi,Q7,2024,50204.43,53867.87,DriveTime,Boston
+Audi,Q5,2016,42696.49,45796.19,CarMax,New York
+Chevrolet,Equinox,2021,40250.92,43323.15,AutoNation,Miami
+Nissan,Rogue,2016,40328.02,42405.48,AutoNation,Houston
+Kia,Sportage,2021,76296.56,80923.77,AutoNation,Chicago
+Ford,Fusion,2022,74054.63,75405.14,CarMax,Los Angeles
+Hyundai,Santa Fe,2019,39555.45,38826.08,CarMax,Miami
+Honda,Civic,2016,12677.65,9028.02,AutoNation,Los Angeles
+BMW,X3,2024,36710.09,37646.81,AutoNation,Miami
+Ford,Escape,2021,58761.9,59074.27,AutoNation,Denver
+Mercedes,E-Class,2016,57773.23,62045.63,TrueCar,Los Angeles
+Nissan,Murano,2019,11361.46,12096.87,DriveTime,Chicago
+Ford,Explorer,2016,44660,46385.11,Local Dealer,Houston
+Kia,Soul,2016,17020.55,15449.74,CarMax,Boston
+Hyundai,Santa Fe,2022,9716.3,7519.74,Local Dealer,Houston
+Nissan,Rogue,2018,42547.59,44700.53,Local Dealer,Miami
+Honda,CR-V,2024,22226.13,20811.89,Vroom,Chicago
+BMW,3 Series,2018,25671.46,26197.28,AutoNation,New York
+Hyundai,Santa Fe,2016,76231.5,79161.65,Vroom,Houston
+Chevrolet,Traverse,2017,9048.13,5438.67,DriveTime,Dallas
+Audi,A4,2020,23509.69,20517.3,TrueCar,San Francisco
+Ford,Escape,2024,54223.08,53931.63,Vroom,Miami
+Chevrolet,Traverse,2016,18786.2,19704.38,Local Dealer,Boston
+Chevrolet,Malibu,2019,21080.5,18870.47,Local Dealer,Los Angeles
+Nissan,Altima,2019,64048.74,66470.59,DriveTime,Denver
+Toyota,Corolla,2017,70001.46,74788.1,AutoNation,San Francisco
+Mercedes,C-Class,2016,28888.35,28711.88,AutoNation,Los Angeles
+Chevrolet,Malibu,2017,25397.19,26375.76,AutoNation,Houston
+Kia,Soul,2022,30594.46,30851.75,Local Dealer,Boston
+Honda,CR-V,2024,21210.97,20161.48,CarMax,San Francisco
+Nissan,Rogue,2024,32415.67,32257.71,Vroom,Boston
+Toyota,Rav4,2024,24667.01,22610.57,CarMax,New York
+Nissan,Rogue,2024,67152.43,71017.68,CarMax,Dallas
+Audi,Q7,2022,69411.03,74568.26,AutoNation,Boston
+BMW,3 Series,2024,16861.84,13593.54,DriveTime,New York
+Mercedes,GLA,2021,47547.95,51083.81,CarMax,Denver
+Mercedes,C-Class,2022,47492.77,47259.87,AutoNation,New York
+Mercedes,GLC,2017,40108.43,38997.46,AutoNation,New York
+Toyota,Corolla,2016,20294.76,16951.62,AutoNation,Boston
+Mercedes,GLC,2017,25905.49,26186.87,Local Dealer,San Francisco
+Nissan,Murano,2017,44446.08,43504.59,Local Dealer,San Francisco
+Audi,A4,2017,41508.8,41277.16,DriveTime,New York
+Chevrolet,Equinox,2017,71618.94,72947.28,CarMax,Seattle
+Kia,Soul,2020,7992.76,4044.01,CarMax,Boston
+Hyundai,Tucson,2017,65309.72,67857.44,Local Dealer,San Francisco
+Audi,Q7,2023,63244.57,66462.68,AutoNation,Boston
+Hyundai,Sonata,2020,38021.79,40979.73,CarMax,Denver
+Kia,Soul,2016,38893.06,38220.31,TrueCar,Chicago
+Chevrolet,Equinox,2023,72794.01,75064.58,TrueCar,San Francisco
+Ford,Escape,2024,67903.53,71239.23,DriveTime,New York
+Hyundai,Tucson,2017,61834.73,65709.88,DriveTime,Chicago
+Hyundai,Sonata,2016,18168.44,18945.8,CarMax,Seattle
+Honda,Accord,2020,43327.75,44388.89,TrueCar,Seattle
+Chevrolet,Traverse,2015,39286.88,42427.78,TrueCar,Dallas
+Chevrolet,Tahoe,2018,72584.93,74995.89,Vroom,San Francisco
+Nissan,Rogue,2021,21775.17,20921.54,CarMax,Dallas
+Ford,Explorer,2020,46777.67,49955.23,DriveTime,Miami
+Nissan,Murano,2019,9035.82,5492.89,CarMax,Dallas
